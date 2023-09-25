@@ -1,6 +1,6 @@
 variable "aws_region" {
-    type = string
-    description = "" 
+  type        = string
+  description = ""
 }
 
 variable "environment" {
@@ -9,20 +9,20 @@ variable "environment" {
 }
 
 variable "instance_type" {
-    type = string
-    description = ""
+  type        = string
+  description = ""
 }
 
 variable "instance_ami" {
-    type = string
-    description = ""
+  type        = string
+  description = ""
 }
 
 variable "instance_tags" {
-    type = map(string)
-    description = ""
-    default = {
-        Name = "CENTOS"
-        Project = "Curso aws com terraform"
-    }
+  type        = map(string)
+  description = ""
+  default = {
+    Name    = "CENTOS"
+    Project = "Curso aws com terraform"
+  }
 }
