@@ -14,7 +14,7 @@
 | 51–60 | A | E | A | B | E | D | B | B | E | E |
 | 61–70 | C | D | D | D | A | D | D | A | E | E |
 | 71–80 | C | D | E | A | C | A | E | A | C | C |
-| 81–90 | E | B | B | A | B | D | E | B | D | C |
+| 81–90 | B | A | E | C | E | D | E | B | D | C |
 | 91–100 | E | D | A | D | E | D | C | E | B | B |
 
 ## Comentários
@@ -819,55 +819,55 @@
 - **D)** Parece certa porque identifica o outlier correto; erra porque usa 1 × IQR (12 + 5 e 7 − 5) em vez de 1,5 × IQR.
 - **E)** Parece certa porque o 31 é outlier; erra porque confunde o intervalo interquartil [Q1; Q3] com a faixa de normalidade, sem as margens de 1,5 × IQR.
 
-### Questão 81 — E
+### Questão 81 — B
 
-*Legislação Estadual e Institucional · 5.7 Lei de Identificação Criminal (Lei 12.037/2009)*
+*Legislação Estadual e Institucional · 5.4 Lei Orgânica da PC-PR (Lei Estadual 23.213/2026): hierarquia*
 
-- **Correta (E):** o art. 3º, V, da Lei 12.037/2009 autoriza a identificação criminal, mesmo com documento civil, quando "constar de registros policiais o uso de outros nomes ou diferentes qualificações"; essa hipótese não exige ordem judicial. A coleta de material biológico só é admitida na hipótese do inciso IV (identificação essencial às investigações, por despacho judicial), conforme o art. 5º, parágrafo único.
-- **A)** Parece certa porque reproduz a regra geral do art. 5º, LVIII, da CF; erra porque a própria Constituição ressalva as hipóteses legais, e o caso se enquadra no art. 3º, V, da lei.
-- **B)** Parece certa porque o flagrante justifica a identificação no caso concreto; erra porque nenhuma das medidas é automática e a coleta de material biológico exige decisão judicial.
-- **C)** Parece certa porque o inciso IV exige despacho judicial; erra ao estender essa exigência às demais hipóteses do art. 3º.
-- **D)** Parece certa porque a identificação é admitida; erra porque o art. 5º manda juntar o material aos autos da comunicação da prisão em flagrante, do inquérito ou de outra investigação.
+- **Correta (B):** o art. 9º, caput, da Lei 23.213/2026 dispõe que, "entre o mesmo cargo, a hierarquia da função prevalece"; o § 1º dá precedência aos Delegados de classe mais elevada sobre os de classe inferior na mesma unidade ou em trabalhos em equipe, "ressalvada a hipótese do caput". Renato exerce a chefia; logo, sua função prevalece sobre a classe de Paula.
+- **A)** Parece certa porque reproduz a regra do § 1º do art. 9º; erra porque ignora a ressalva final do próprio parágrafo, que manda prevalecer a hierarquia da função.
+- **C)** Parece certa porque a antiguidade é critério comum em carreiras hierarquizadas; erra porque a lei não a adota como critério de precedência entre os cargos da PCPR.
+- **D)** Parece certa porque o § 3º do art. 9º trata desses três cargos; erra porque a correlação hierárquica entre eles se relaciona à função desempenhada na unidade, estabelecida por regulamento ou designação da autoridade policial, e não é fixa na lei.
+- **E)** Parece certa porque a designação importa para a correlação entre os cargos de base; erra porque o § 2º do art. 9º manda observar "sempre" a precedência hierárquica da carreira de Delegado sobre as demais.
 
-### Questão 82 — B
+### Questão 82 — A
 
-*Legislação Estadual e Institucional · 5.7 Lei de Acesso à Informação (Lei 12.527/2011)*
+*Legislação Estadual e Institucional · 5.4 Lei Orgânica da PC-PR (Lei Estadual 23.213/2026): Conselho Superior de Polícia*
 
-- **Correta (B):** o art. 10, § 3º, da Lei 12.527/2011 veda "quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público"; o art. 11, §§ 1º e 2º, fixa prazo não superior a 20 dias, prorrogável por mais 10, mediante justificativa expressa, da qual será cientificado o requerente.
-- **A)** Parece certa porque existem informações de segurança passíveis de sigilo; erra porque o sigilo depende de classificação, não é presumido, e o prazo legal não é de 30 dias.
-- **C)** Parece certa porque 25 anos é o prazo das informações ultrassecretas (art. 24, § 1º, I); erra porque não há classificação automática.
-- **D)** Parece certa porque a lei exige resposta célere; erra no prazo e na consequência.
-- **E)** Parece certa porque o requerente deve se identificar (art. 10, caput); erra porque o pedido pode ser feito por qualquer meio legítimo, inclusive pela internet, sem demonstração de interesse.
+- **Correta (A):** pelo art. 17, § 3º, o representante das carreiras de base (inciso XI), em questões disciplinares, participa "exclusivamente de procedimentos envolvendo Agentes de Polícia Judiciária, Papiloscopistas ou Agentes de Operações". O conselheiro eleito pelos Delegados (inciso X) tem mandato de dois anos, "vedada a reeleição para mandato subsequente", e, por não ser membro nato (§ 1º), pode ser destituído por deliberação fundamentada da maioria absoluta dos integrantes, em caso de grave omissão, assegurada ampla defesa (art. 18).
+- **B)** Parece certa porque todos integram o mesmo colegiado; erra porque o § 3º do art. 17 limita a participação do representante das carreiras de base em matéria disciplinar.
+- **C)** Parece certa porque o CSP tem membros natos; erra porque são natos apenas os membros dos incisos I a VI do art. 17 (§ 1º), e os demais podem ser destituídos pelo próprio Conselho (art. 18).
+- **D)** Parece certa porque o quórum de 3/5 existe na lei; erra porque ele se aplica à remoção de Delegados (art. 16, XI), e a destituição exige maioria absoluta, assegurada ampla defesa (art. 18).
+- **E)** Parece certa porque há mandato eletivo e o CSP pode restringir a presença em certos atos (art. 16, § 2º); erra porque o mandato é de dois anos, sem reeleição subsequente, e os julgamentos são, em regra, públicos (art. 16, § 1º).
 
-### Questão 83 — B
+### Questão 83 — E
 
-*Legislação Estadual e Institucional · 5.6 Responsabilidade civil, administrativa e penal do servidor público*
+*Legislação Estadual e Institucional · 5.4 Lei Orgânica da PC-PR (Lei Estadual 23.213/2026): Corregedoria-Geral de Polícia*
 
-- **Correta (B):** pelo art. 37, § 6º, da CF, as pessoas jurídicas de direito público respondem objetivamente pelos danos que seus agentes causarem a terceiros, assegurado o regresso nos casos de dolo ou culpa. O STF (Tema 940, RE 1.027.633) fixou que a ação deve ser ajuizada contra o Estado, sendo parte ilegítima o autor do ato.
-- **A)** Parece certa porque já houve entendimento do STJ admitindo a escolha; erra porque o STF consolidou a tese da "dupla garantia" no Tema 940.
-- **C)** Parece certa porque a culpa do servidor aparece no caso; erra porque a responsabilidade do Estado é objetiva, e a culpa só importa para o regresso.
-- **D)** Parece certa porque o servidor causou o dano; erra porque inverte as posições: o Estado responde objetiva e diretamente.
-- **E)** Parece certa porque cita princípio verdadeiro; erra porque a independência das instâncias justamente dispensa a condenação criminal para a indenização.
+- **Correta (E):** o art. 21, I, atribui à Corregedoria-Geral de Polícia, "com exclusividade", a apuração das transgressões disciplinares atribuídas a servidores policiais civis; o inciso II atribui-lhe "preferencialmente" a apuração das infrações penais, podendo designar, em caráter especial, autoridades policiais não lotadas na Corregedoria, "com posterior comunicação do ato ao Delegado-Geral".
+- **A)** Parece certa porque acerta a exclusividade na esfera disciplinar; erra porque, na esfera penal, a atribuição é preferencial e a lei admite a designação de autoridade não lotada na Corregedoria.
+- **B)** Parece certa porque a lei usa "preferencialmente" no art. 21; erra porque esse advérbio se refere às infrações penais (inciso II), e não às transgressões disciplinares (inciso I).
+- **C)** Parece certa porque a designação tem caráter especial; erra porque o inciso II prevê expressamente a comunicação posterior ao Delegado-Geral.
+- **D)** Parece certa porque a Corregedoria pode celebrar Termo de Ajustamento de Conduta (art. 21, XVI); erra porque ele se restringe à infração disciplinar de menor potencial ofensivo e não alcança a investigação criminal.
 
-### Questão 84 — A
+### Questão 84 — C
 
-*Legislação Estadual e Institucional · 5.7 Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018)*
+*Legislação Estadual e Institucional · 5.4 Lei Orgânica da PC-PR (Lei Estadual 23.213/2026): criação e instalação de unidades policiais*
 
-- **Correta (A):** o art. 4º, III, "d", da Lei 13.709/2018 exclui do âmbito da LGPD o tratamento realizado para fins exclusivos de atividades de investigação e repressão de infrações penais; o § 1º determina que esse tratamento seja regido por legislação específica, com medidas proporcionais, devido processo legal, princípios gerais de proteção e direitos do titular previstos na LGPD.
-- **B)** Parece certa porque o consentimento é base legal conhecida; erra porque não é a única base (art. 7º) e o caso está fora do âmbito da LGPD.
-- **C)** Parece certa porque a eliminação é direito do titular (art. 18); erra porque a lei não se aplica a esse tratamento.
-- **D)** Parece certa porque a lei não se aplica diretamente; erra porque o § 1º impõe observância dos princípios gerais e dos direitos do titular.
-- **E)** Parece certa porque a LGPD admite operadores privados em outras situações; erra porque o § 2º veda esse tratamento por pessoa de direito privado, salvo em procedimentos sob tutela de pessoa jurídica de direito público.
+- **Correta (C):** o art. 54, I, exige para a criação de unidade distrito-sede, população não inferior a trinta mil habitantes e demanda mínima de quinhentos boletins criminais por ano; mas o § 2º determina que "todo município sede de comarca terá Delegacia de Polícia - DP, independentemente do disposto no inciso I". O art. 55 admite Postos Policiais de Atendimento ao Cidadão em municípios com menos de trinta mil habitantes que não sejam sede de comarca, mediante prévia autorização do CSP, após estudo técnico de viabilidade.
+- **A)** Parece certa porque aplica a regra geral do art. 54, I, "b"; erra porque o § 2º garante a DP ao município sede de comarca, e Campo Verde pode ter Posto (art. 55).
+- **B)** Parece certa porque Serra Azul tem menos de trinta mil habitantes; erra porque o art. 55 exclui do Posto o município sede de comarca, que terá DP.
+- **D)** Parece certa porque a sede de comarca afasta requisitos; erra porque o § 2º dispensa apenas os requisitos de criação (inciso I), e não os de instalação (inciso II).
+- **E)** Parece certa porque a lei admite dispensar os requisitos de criação; erra porque a dispensa cabe ao CSP, excepcionalmente, quando a distância e a dificuldade de acesso à DP do distrito-sede a aconselharem (§ 3º) — o que não ocorre em Campo Verde.
 
-### Questão 85 — B
+### Questão 85 — E
 
-*Legislação Estadual e Institucional · 5.7 Lei de Abuso de Autoridade (Lei 13.869/2019)*
+*Legislação Estadual e Institucional · 5.4 Lei Orgânica da PC-PR (Lei Estadual 23.213/2026): departamentos e avocação de inquérito*
 
-- **Correta (B):** o art. 1º, § 1º, da Lei 13.869/2019 exige que as condutas sejam praticadas "com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal"; o § 2º estabelece que "a divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade".
-- **A)** Parece certa porque a negligência pode gerar responsabilidade funcional; erra porque não há forma culposa na lei.
-- **C)** Parece certa porque o arquivamento indica que o MP não viu crime; erra porque divergência de avaliação não prova dolo específico.
-- **D)** Parece certa porque a lei é associada a juízes e promotores; erra porque o art. 2º alcança qualquer agente público, inclusive policiais.
-- **E)** Parece certa porque a vítima pode agir em caso de inércia; erra porque a ação é pública incondicionada (art. 3º), admitida a privada subsidiária apenas se o MP não agir no prazo.
+- **Correta (E):** o art. 51 da Lei 23.213/2026 veda a avocação de inquérito policial, permitindo que a unidade especializada, se o interesse público exigir, atue em regime de cooperação com o Delegado responsável. O parágrafo único admite, excepcionalmente, a avocação ou redistribuição pelo superior hierárquico, mediante despacho fundamentado, quando a inobservância dos procedimentos previstos prejudicar a eficácia e a agilidade das investigações — o que não ocorre no caso.
+- **A)** Parece certa porque o art. 50 dá aos Departamentos dos incisos I a IX do art. 32 atuação em todo o Estado; erra porque essa atuação é "em cooperação ou concorrentemente", sem prevalência nem poder de avocar.
+- **B)** Parece certa porque o art. 50 menciona crimes praticados em mais de um município; erra porque isso apenas justifica a atuação dos departamentos, sem transferência automática do inquérito.
+- **C)** Parece certa porque o MP exerce controle externo da atividade policial; erra porque a lei não prevê avocação a pedido do MP e exige despacho fundamentado do superior hierárquico.
+- **D)** Parece certa porque a hierarquia importa para a redistribuição; erra porque a lei a atribui ao superior hierárquico, apenas na hipótese excepcional do parágrafo único do art. 51.
 
 ### Questão 86 — D
 

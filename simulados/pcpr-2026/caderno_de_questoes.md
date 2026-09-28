@@ -1252,73 +1252,73 @@ O número diário de furtos registrados em uma delegacia durante 11 dias foi: 4,
 
 **Questão 81** · Legislação Estadual e Institucional
 
-Preso em flagrante por furto, Mauro apresenta carteira de identidade original, em bom estado de conservação e sem qualquer indício de falsificação. Consultando os sistemas, o delegado verifica que constam de registros policiais anteriores ocorrências em que Mauro se identificou com outros nomes. O delegado considera, ainda, útil coletar material biológico de Mauro para obtenção de perfil genético e inclusão em banco de dados. À luz da Lei 12.037/2009, assinale a afirmativa correta.
+Na delegacia de um município do interior atuam dois Delegados de Polícia: Paula, da classe mais elevada da carreira, e Renato, de classe inferior, designado para a chefia da unidade. Durante uma operação, Paula dá à equipe — formada por Agentes de Polícia Judiciária, um Papiloscopista Policial e um Agente de Operações — ordens contrárias às de Renato, invocando a precedência de sua classe. À luz da Lei Estadual 23.213/2026, assinale a afirmativa correta.
 
-**(A)** Como Mauro apresentou documento civil idôneo, a identificação criminal é vedada em qualquer hipótese, por força da garantia do art. 5º, LVIII, da Constituição Federal.
+**(A)** Prevalecem as ordens de Paula, pois os Delegados de classe mais elevada têm sempre precedência hierárquica sobre os de classe inferior que atuam na mesma unidade ou equipe.
 
-**(B)** O delegado pode determinar a identificação criminal e a coleta de material biológico, pois ambas decorrem automaticamente da lavratura do auto de prisão em flagrante.
+**(B)** Prevalecem as ordens de Renato, pois, entre ocupantes do mesmo cargo, a hierarquia da função prevalece sobre a precedência decorrente da classe.
 
-**(C)** A identificação criminal depende, em qualquer caso, de despacho da autoridade judiciária, a pedido do delegado, do Ministério Público ou da defesa.
+**(C)** Prevalecem as ordens do integrante mais antigo da equipe, qualquer que seja seu cargo, pois a lei adota a antiguidade no serviço como critério hierárquico.
 
-**(D)** A identificação criminal poderá ser feita, mas o material datiloscópico e fotográfico deverá ser juntado apenas ao processo judicial, e nunca ao auto de prisão.
+**(D)** Entre Agentes de Polícia Judiciária, Papiloscopista e Agente de Operações há hierarquia fixa entre os cargos, definida na própria lei, com precedência do Papiloscopista.
 
-**(E)** O delegado pode determinar a identificação datiloscópica e fotográfica, pelo uso de outros nomes em registros policiais, mas não a coleta de material biológico.
+**(E)** A precedência da carreira de Delegado sobre as demais depende de designação expressa em cada operação, sem a qual as ordens de Agentes e Delegados têm igual peso.
 
 **Questão 82** · Legislação Estadual e Institucional
 
-Um cidadão apresenta à Polícia Civil, pelo sistema eletrônico de atendimento, pedido de dados estatísticos sobre ocorrências de furto por bairro no último ano, sem informar o motivo da solicitação. O servidor responsável exige que ele declare a finalidade do pedido e informa que o prazo legal de resposta é de 30 dias. Os dados não estão classificados como sigilosos nem contêm informação pessoal. À luz da Lei de Acesso à Informação, assinale a afirmativa correta.
+Em uma mesma sessão, o Conselho Superior de Polícia (CSP) julgará dois processos disciplinares, um contra Delegado de Polícia e outro contra Agente de Polícia Judiciária, e deliberará sobre a destituição do conselheiro eleito pelos Delegados da ativa, acusado de grave omissão nos deveres do cargo. O conselheiro eleito como representante das carreiras de base pretende votar nos dois processos. O conselheiro acusado, por sua vez, já anunciou que concorrerá à reeleição no próximo pleito. Considerando a Lei Estadual 23.213/2026, assinale a afirmativa correta.
 
-**(A)** A exigência de motivação é legítima, pois informações sobre segurança pública são sigilosas por natureza, e o prazo de 30 dias é o previsto na lei.
+**(A)** O representante das carreiras de base vota só no processo do Agente; o conselheiro eleito pode ser destituído por maioria absoluta, com ampla defesa, e não pode ser reeleito em seguida.
 
-**(B)** É vedado exigir o motivo do pedido; não sendo possível o acesso imediato, o prazo é de até 20 dias, prorrogáveis por mais 10 com justificativa.
+**(B)** O representante das carreiras de base pode votar nos dois processos, pois todos os conselheiros participam, em igualdade de condições, de todas as deliberações disciplinares do Conselho.
 
-**(C)** Estatísticas criminais por bairro são automaticamente classificadas como ultrassecretas, submetidas a prazo de sigilo de 25 anos a contar de sua produção.
+**(C)** Como todos os integrantes do CSP são membros natos, nenhum deles pode ser destituído pelo próprio Conselho, cabendo apenas ao Governador afastá-los por ato fundamentado.
 
-**(D)** O pedido deve ser respondido em até 10 dias, improrrogáveis, sob pena de responsabilização do servidor por crime de responsabilidade previsto na própria lei.
+**(D)** A destituição do conselheiro eleito exige o quórum de três quintos, o mesmo previsto para a remoção de Delegados, e dispensa o contraditório por se tratar de função de confiança.
 
-**(E)** O cidadão só pode apresentar o pedido presencialmente, com identificação e comprovação de interesse pessoal na obtenção da informação solicitada.
+**(E)** O conselheiro eleito pelos Delegados cumpre mandato de quatro anos, admitida uma reeleição, e os julgamentos disciplinares do CSP são sempre sigilosos para proteger os acusados.
 
 **Questão 83** · Legislação Estadual e Institucional
 
-Durante acompanhamento de veículo suspeito, um investigador da Polícia Civil do Paraná, dirigindo a viatura em velocidade incompatível com a via, colide com o automóvel de Helena, causando-lhe danos materiais. Helena ajuíza ação de indenização diretamente contra o investigador, pessoa física, sem incluir o Estado no polo passivo. Em contestação, o servidor alega ilegitimidade passiva. Considerando a Constituição Federal e a jurisprudência do STF, assinale a afirmativa correta.
+Um Agente de Polícia Judiciária passa a ser investigado, ao mesmo tempo, por transgressão disciplinar e por crime de concussão supostamente praticado em serviço. O Delegado titular da delegacia onde ele está lotado instaura, por conta própria, procedimento para apurar a falta disciplinar. Paralelamente, o Corregedor-Geral designa, em caráter especial, um Delegado não lotado na Corregedoria para investigar o crime, comunicando o ato ao Delegado-Geral somente depois. À luz da Lei Estadual 23.213/2026, assinale a afirmativa correta.
 
-**(A)** Helena pode escolher livremente entre acionar o Estado ou o servidor, pois a responsabilidade entre ambos é solidária perante o particular lesado.
+**(A)** As duas apurações cabem com exclusividade à Corregedoria-Geral de Polícia, sendo nula a designação de Delegado não lotado na Corregedoria para investigar o crime.
 
-**(B)** A ação deve ser proposta contra o Estado, que responde objetivamente, sendo o agente parte ilegítima; o Estado poderá exercer regresso contra ele em caso de dolo ou culpa.
+**(B)** O procedimento instaurado pelo titular é válido, pois a apuração de transgressões disciplinares cabe à Corregedoria-Geral preferencialmente, e não com exclusividade.
 
-**(C)** A responsabilidade do Estado depende da comprovação de culpa do servidor, pois a atividade policial afasta a aplicação da teoria do risco administrativo.
+**(C)** A designação para investigar o crime dependia de prévia autorização do Delegado-Geral, pois a comunicação posterior só é admitida nos procedimentos disciplinares.
 
-**(D)** O servidor responde objetivamente perante Helena, e o Estado responde apenas de forma subsidiária, caso o servidor não tenha patrimônio suficiente.
+**(D)** O caso admite Termo de Ajustamento de Conduta celebrado pela Corregedoria para encerrar tanto a apuração disciplinar quanto a investigação criminal do servidor.
 
-**(E)** A condenação criminal do servidor é pressuposto de qualquer indenização, em razão do princípio da independência entre as instâncias civil, penal e administrativa.
+**(E)** A falta disciplinar deve ser apurada pela Corregedoria-Geral, com exclusividade; já a designação de Delegado de fora da Corregedoria para investigar o crime é válida.
 
 **Questão 84** · Legislação Estadual e Institucional
 
-A Polícia Civil implanta um banco de dados com informações de investigados, destinado exclusivamente ao cruzamento de dados em investigações criminais. Um investigado requer, com base na LGPD, a eliminação imediata de seus dados, alegando que nunca consentiu com o tratamento. Paralelamente, uma empresa privada oferece-se para operar o banco de forma autônoma, sem supervisão de órgão público. Considerando a LGPD, assinale a afirmativa correta.
+Dois municípios paranaenses pleiteiam unidade própria da Polícia Civil. Serra Azul, com 18 mil habitantes, é sede de comarca e registra cerca de 300 boletins de ocorrência de natureza criminal por ano. Campo Verde, com 22 mil habitantes, não é sede de comarca e fica a poucos quilômetros, por estrada asfaltada, da delegacia do município vizinho. Há orçamento disponível para as duas medidas. Considerando a Lei Estadual 23.213/2026, assinale a afirmativa correta.
 
-**(A)** A LGPD não rege esse tratamento, que depende de lei específica, observados o devido processo legal, os princípios gerais de proteção e os direitos do titular.
+**(A)** Nenhum dos dois municípios pode ter unidade policial própria, pois ambos têm menos de trinta mil habitantes, requisito básico para a criação de qualquer unidade.
 
-**(B)** O tratamento é ilícito, pois a LGPD exige consentimento expresso do titular para qualquer tratamento de dados pessoais realizado pelo poder público.
+**(B)** Serra Azul pode receber apenas Posto Policial de Atendimento ao Cidadão, modalidade que a lei destina aos municípios com menos de trinta mil habitantes.
 
-**(C)** A LGPD aplica-se integralmente, cabendo ao investigado exigir a eliminação imediata dos dados, independentemente da fase em que se encontre a investigação policial.
+**(C)** Serra Azul terá Delegacia, por ser sede de comarca, mesmo sem cumprir os requisitos de criação; Campo Verde pode ter Posto de Atendimento, com autorização do CSP.
 
-**(D)** A exceção prevista na LGPD para a segurança pública autoriza o tratamento irrestrito dos dados, sem observância de quaisquer princípios de proteção.
+**(D)** Por ser sede de comarca, Serra Azul terá Delegacia de Polícia, ficando dispensados também os requisitos de instalação, como prédio público adequado e efetivo policial mínimo.
 
-**(E)** O tratamento de dados para investigação criminal pode ser integralmente realizado pela empresa privada, independentemente de tutela de pessoa jurídica de direito público.
+**(E)** Campo Verde terá Delegacia de Polícia se o Delegado-Geral dispensar os requisitos de criação, competência que a lei lhe atribui sempre que houver interesse regional.
 
 **Questão 85** · Legislação Estadual e Institucional
 
-Após reunir contratos, comprovantes de transferência e depoimentos indicando que Marcos recebera valores de vários compradores sem entregar os veículos prometidos, o delegado instaurou inquérito e o indiciou por estelionato, em despacho fundamentado. Ao final, o Ministério Público entendeu tratar-se de mero inadimplemento contratual e promoveu o arquivamento. Marcos representa contra o delegado pelo crime de dar início a persecução penal sem justa causa fundamentada (art. 30 da Lei 13.869/2019). Não há indício de motivação pessoal. Assinale a afirmativa correta.
+Um inquérito sobre roubos a agências bancárias ocorridos em três municípios do interior tramita em uma delegacia local e vem sendo conduzido regularmente pelo Delegado responsável, com diligências em andamento. O diretor de um departamento estadual especializado, com atuação em todo o Estado, entende que os fatos se relacionam a uma organização criminosa e pretende avocar o inquérito para sua unidade. Considerando a Lei Estadual 23.213/2026, assinale a afirmativa correta.
 
-**(A)** Há crime, pois a Lei de Abuso de Autoridade admite modalidade culposa quando a autoridade age com negligência na análise das provas reunidas no inquérito policial.
+**(A)** O departamento pode avocar o inquérito, pois os Departamentos Estaduais têm competência em todo o Estado e prevalecem sobre as delegacias locais na apuração de crimes graves.
 
-**(B)** Não há crime, pois a divergência na avaliação de fatos e provas não configura abuso de autoridade e não se demonstrou a finalidade específica exigida pela lei.
+**(B)** A avocação é possível sempre que o crime for praticado em mais de um município, hipótese em que a lei transfere automaticamente a investigação ao departamento especializado.
 
-**(C)** Há crime, porque o arquivamento do inquérito pelo Ministério Público comprova, por si só, a ausência de justa causa e, consequentemente, o dolo específico do delegado.
+**(C)** A avocação depende apenas de requerimento do Ministério Público, independentemente de fundamentação ou de irregularidade na condução do inquérito pela delegacia local.
 
-**(D)** Não há crime, porque a Lei 13.869/2019 não se aplica a delegados de polícia, mas somente a magistrados e a membros do Ministério Público.
+**(D)** A redistribuição do inquérito pode ser determinada por qualquer Delegado da classe mais elevada, desde que lotado na mesma circunscrição da delegacia responsável.
 
-**(E)** Há crime, e a ação penal é privada, dependendo de queixa-crime oferecida por Marcos no prazo decadencial de seis meses.
+**(E)** É vedada a avocação, mas o departamento pode atuar em cooperação com o Delegado responsável; só a inobservância de procedimentos que prejudique a investigação a justificaria.
 
 ---
 
