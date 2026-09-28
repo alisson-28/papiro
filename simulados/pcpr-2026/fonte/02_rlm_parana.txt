@@ -1,0 +1,245 @@
+@@q 26
+materia: Raciocínio Lógico-Matemático
+subtema: 2.1 Lógica: proposições, conectivos, equivalências lógicas
+correta: B
+>enunciado
+O manual interno de uma delegacia estabelece a seguinte regra sobre o tratamento de vestígios: "Se o vestígio é coletado sem registro, então ele não é aceito como prova ou o perito é chamado a justificar a coleta." Em uma auditoria, o corregedor precisa descrever, com precisão lógica, a única situação que caracterizaria o descumprimento dessa regra, isto é, a negação da proposição acima. Assinale a opção que corresponde à negação lógica da regra.
+>A
+Se o vestígio não é coletado sem registro, então ele é aceito como prova e o perito não é chamado a justificar a coleta.
+>B
+O vestígio é coletado sem registro, é aceito como prova e o perito não é chamado a justificar a coleta.
+>C
+O vestígio é coletado sem registro e, se ele é aceito como prova, então o perito é chamado a justificar a coleta.
+>D
+O vestígio não é coletado sem registro, ou ele é aceito como prova e o perito não é chamado a justificar a coleta.
+>E
+Se o vestígio é aceito como prova e o perito não é chamado a justificar a coleta, então ele não é coletado sem registro.
+>comentario
+Correta (B): a regra tem a forma p → (~q ∨ r), com p = "é coletado sem registro", q = "é aceito como prova", r = "o perito é chamado". A negação de uma condicional é "p e não (consequente)": p ∧ ~(~q ∨ r) ≡ p ∧ q ∧ ~r (lei de De Morgan).
+A) Parece certa porque nega partes da frase; erra porque troca a negação da condicional por outra condicional (a inversa com consequente negado), que não é equivalente a ~(p → ...).
+C) Parece certa porque começa afirmando p; erra porque "p ∧ (q → r)" equivale a "p ∧ (~q ∨ r)", que é compatível com a regra — não a nega.
+D) Parece certa porque contém "q ∧ ~r"; erra porque "~p ∨ (q ∧ ~r)" é verdadeira sempre que o vestígio não é coletado sem registro, situação em que a regra não é descumprida.
+E) Parece certa porque usa os mesmos termos; erra porque é a contrapositiva da regra — logicamente equivalente a ela, e não sua negação.
+@@fim
+
+@@q 27
+materia: Raciocínio Lógico-Matemático
+subtema: 2.6 Estrutura lógica de relações arbitrárias; dedução de informações
+correta: D
+>enunciado
+Quatro agentes — Bruno, Carla, Diego e Elisa — foram designados, cada um, para uma cidade diferente (Cascavel, Londrina, Maringá e Ponta Grossa) e cumprirão, cada um, um plantão em um dia diferente (segunda, terça, quarta e quinta-feira). Sabe-se que:
+• Carla não foi designada para Londrina nem para Maringá;
+• quem foi para Cascavel cumpre plantão na quarta-feira;
+• Diego cumpre plantão na segunda-feira;
+• Elisa cumpre plantão no dia imediatamente seguinte ao de quem foi para Ponta Grossa;
+• Bruno não foi designado para Londrina.
+Com base nessas informações, é necessariamente verdadeiro que
+>A
+Carla foi designada para Cascavel.
+>B
+Diego foi designado para Ponta Grossa.
+>C
+Elisa cumpre plantão na quarta-feira.
+>D
+Bruno foi para Maringá e cumpre plantão na quinta.
+>E
+quem foi para Londrina cumpre plantão na terça-feira.
+>comentario
+Correta (D): as condições admitem exatamente dois cenários. Cenário 1: Carla–Cascavel–quarta; Diego–Ponta Grossa–segunda; Elisa–Londrina–terça; Bruno–Maringá–quinta. Cenário 2: Carla–Ponta Grossa–terça; Elisa–Cascavel–quarta; Diego–Londrina–segunda; Bruno–Maringá–quinta. Em ambos, Bruno está em Maringá e dá plantão na quinta. (Bruno não pode estar em Cascavel: nesse caso, faria plantão na quarta, Carla teria de ir para Ponta Grossa e não sobraria para Elisa o dia imediatamente seguinte ao de Carla; e a última condição o exclui de Londrina.)
+A) Parece certa porque ocorre no cenário 1; erra porque, no cenário 2, Carla vai para Ponta Grossa.
+B) Parece certa porque ocorre no cenário 1; erra porque, no cenário 2, Diego vai para Londrina.
+C) Parece certa porque ocorre no cenário 2; erra porque, no cenário 1, Elisa faz plantão na terça.
+E) Parece certa porque ocorre no cenário 1 (Elisa em Londrina, na terça); erra porque, no cenário 2, quem vai para Londrina é Diego, que faz plantão na segunda.
+@@fim
+
+@@q 28
+materia: Raciocínio Lógico-Matemático
+subtema: 2.10 Problemas de contagem e noções de probabilidade
+correta: B
+>enunciado
+Uma força-tarefa de 4 investigadores será formada a partir de um grupo com 5 homens e 4 mulheres. Por determinação da chefia, a equipe deve ter pelo menos 2 mulheres. Além disso, os investigadores Rui (um dos homens) e Sara (uma das mulheres), que atuam em inquéritos conexos com interesses conflitantes, não podem integrar a mesma equipe. Respeitadas essas duas condições, o número de equipes distintas que podem ser formadas é igual a
+>A
+81.
+>B
+66.
+>C
+60.
+>D
+48.
+>E
+100.
+>comentario
+Correta (B): equipes com pelo menos 2 mulheres: C(4,2)·C(5,2) + C(4,3)·C(5,1) + C(4,4) = 60 + 20 + 1 = 81. Dessas, as que têm Rui e Sara juntos: fixados os dois, escolhem-se 2 entre os 7 restantes (4 homens e 3 mulheres), exigindo ao menos mais uma mulher: C(7,2) − C(4,2) = 21 − 6 = 15. Resultado: 81 − 15 = 66.
+A) Parece certa porque é o total correto com pelo menos 2 mulheres; erra porque ignora a restrição entre Rui e Sara.
+C) Parece certa porque desconta as equipes com Rui e Sara; erra porque desconta 21, incluindo 6 equipes (Rui, Sara e 2 homens) que têm só uma mulher e já não tinham sido contadas.
+D) Parece certa porque aplica a restrição; erra porque considera apenas equipes com exatamente 2 mulheres (60 − 12 = 48).
+E) Parece certa porque aplica a restrição; erra porque lê a condição como "pelo menos uma mulher" (121 − 21 = 100).
+@@fim
+
+@@q 29
+materia: Raciocínio Lógico-Matemático
+subtema: 2.3 Porcentagem; juros
+correta: E
+>enunciado
+Durante investigação de desvio de recursos, apurou-se que o investigado aplicou R$ 50.000,00 por 2 meses a juros compostos de 2% ao mês. Ao final desse período, sacou 30% do montante e, no mesmo dia, reaplicou o restante por 3 meses a juros simples de 1% ao mês. Desconsiderando tributos e tarifas, o valor que o investigado tinha ao final da segunda aplicação era de
+>A
+R$ 37.492,00.
+>B
+R$ 37.517,38.
+>C
+R$ 38.130,60.
+>D
+R$ 36.414,00.
+>E
+R$ 37.506,42.
+>comentario
+Correta (E): 50.000 × 1,02² = 52.020,00; após o saque de 30%, restam 52.020 × 0,70 = 36.414,00; juros simples de 1% a.m. por 3 meses: 36.414 × 1,03 = 37.506,42.
+A) Parece certa porque segue as etapas; erra porque aplica juros simples na primeira fase (50.000 × 1,04 = 52.000).
+B) Parece certa porque o valor é próximo; erra porque capitaliza a segunda aplicação (36.414 × 1,01³), que era a juros simples.
+C) Parece certa porque o valor é plausível; erra porque calcula o saque como 30% do capital inicial (15.000), e não do montante.
+D) Parece certa porque corresponde a uma etapa do cálculo; erra porque para no valor reaplicado, sem os juros da segunda aplicação.
+@@fim
+
+@@q 30
+materia: Raciocínio Lógico-Matemático
+subtema: 2.12 Plano cartesiano: sistema de coordenadas e distância
+correta: D
+>enunciado
+Em um mapa operacional com eixos cartesianos graduados em quilômetros, a delegacia está no ponto D(1, 2), o local de um crime no ponto L(7, 10) e o hospital de referência no ponto H(13, 2). Uma viatura vai da delegacia ao local do crime, enquanto uma ambulância parte do hospital para encontrar a equipe exatamente no ponto médio do trajeto retilíneo entre D e L. Considerando distâncias em linha reta, assinale a afirmativa correta.
+>A
+O triângulo DLH é retângulo, com ângulo reto no vértice L.
+>B
+A área do triângulo DLH é igual a 96 km².
+>C
+O perímetro do triângulo DLH é igual a 30 km.
+>D
+A distância de H ao ponto médio de DL é √97 km.
+>E
+O ponto (7, 6) é equidistante de D, de L e de H.
+>comentario
+Correta (D): o ponto médio de DL é M(4, 6); HM = √[(13 − 4)² + (2 − 6)²] = √(81 + 16) = √97 km.
+A) Parece certa porque DL = LH = 10 (triângulo isósceles); erra porque os vetores LD = (−6, −8) e LH = (6, −8) têm produto escalar −36 + 64 = 28 ≠ 0.
+B) Parece certa porque base DH = 12 e altura = 8; erra porque esquece de dividir por 2: a área é 12 × 8 / 2 = 48 km².
+C) Parece certa porque DL e LH medem 10 cada; erra porque DH mede 12, e o perímetro é 32 km.
+E) Parece certa porque x = 7 está no eixo de simetria; erra porque (7, 6) dista 4 de L e √52 de D e H; o ponto equidistante é (7; 3,75).
+@@fim
+
+@@q 31
+materia: Realidade do Paraná
+subtema: 3.1 Aspectos históricos: movimentos sociais
+correta: A
+>enunciado
+Em outubro de 1957, no Sudoeste do Paraná, milhares de colonos — muitos deles migrantes gaúchos e catarinenses que haviam se fixado em terras da região — pegaram em armas contra companhias colonizadoras que, amparadas em títulos de propriedade contestados, cobravam pelas glebas e empregavam jagunços para intimidar as famílias. O movimento chegou a ocupar sedes de municípios da região e teve repercussão estadual e nacional. Sobre esse episódio, assinale a afirmativa correta.
+>A
+Trata-se da Revolta dos Posseiros de 1957, que levou, no início dos anos 1960, à criação do GETSOP, grupo federal voltado à regularização das terras da região.
+>B
+Trata-se da Guerra do Contestado, conflito que opôs sertanejos às forças estaduais e federais e que se encerrou com o acordo de limites entre o Paraná e Santa Catarina.
+>C
+Trata-se da Guerra de Porecatu, movimento de posseiros do Sudoeste cujo resultado imediato foi a criação da Colônia Agrícola Nacional General Osório (CANGO), no governo Vargas.
+>D
+Trata-se de desdobramento da Revolução Federalista, cujo episódio mais conhecido no Paraná foi o Cerco da Lapa, marcado pela resistência das tropas legalistas.
+>E
+Trata-se de movimento messiânico liderado por monges peregrinos, que reunia sertanejos expulsos das terras cedidas à companhia construtora de uma ferrovia.
+>comentario
+Correta (A): a Revolta dos Posseiros de 1957 envolveu colonos do Sudoeste (Francisco Beltrão, Pato Branco e outras localidades) contra companhias como a CITLA; no início da década de 1960 criou-se o GETSOP (Grupo Executivo para as Terras do Sudoeste do Paraná), que conduziu a titulação das terras.
+B) Parece certa porque o Contestado também foi conflito agrário na fronteira PR/SC; erra na época (1912–1916) e na natureza (movimento messiânico ligado à ferrovia).
+C) Parece certa porque Porecatu foi conflito de posseiros no Paraná; erra porque ocorreu no Norte do estado, no fim dos anos 1940 e início dos 1950, e a CANGO foi criada em 1943, antes dos conflitos.
+D) Parece certa porque a Revolução Federalista teve episódio marcante no Paraná; erra porque ocorreu em 1893–1895 e não teve relação com a disputa fundiária de 1957.
+E) Parece certa porque descreve um conflito agrário real do Sul; erra porque essas características são as do Contestado, não do levante de 1957.
+@@fim
+
+@@q 32
+materia: Realidade do Paraná
+subtema: 3.2 Geografia física e humana: relevo e hidrografia
+correta: E
+>enunciado
+Um agente transferido de Paranaguá para Foz do Iguaçu decide fazer o trajeto de carro. Ao longo da viagem, sobe a serra a partir do litoral, atravessa Curitiba, passa pelos Campos Gerais e segue pelo interior até a fronteira, observando grandes rios, escarpas e planaltos. Ao comentar a viagem em curso sobre a realidade paranaense, ele precisa descrever corretamente o relevo e a hidrografia do estado. Assinale a afirmativa correta.
+>A
+A Escarpa Devoniana separa o litoral do Primeiro Planalto, enquanto a Serra do Mar marca a transição entre o Segundo e o Terceiro Planalto.
+>B
+O Terceiro Planalto, de formação arenito-basáltica, é a unidade de relevo de menor extensão territorial do estado, restrita ao extremo oeste.
+>C
+O rio Iguaçu nasce no oeste paranaense, perto da fronteira, e corre no sentido leste, até desaguar na baía de Paranaguá, depois de atravessar a Serra do Mar.
+>D
+O Pico Paraná, ponto culminante do estado, situa-se na Escarpa Devoniana, na região dos Campos Gerais, próximo a Ponta Grossa.
+>E
+A maioria dos rios corre para o interior, rumo ao rio Paraná, seguindo o caimento dos planaltos; os da vertente atlântica, como o Ribeira, são exceção.
+>comentario
+Correta (E): o caimento geral dos planaltos para oeste faz com que a maior parte da drenagem (Iguaçu, Ivaí, Tibagi, Piquiri etc.) se dirija ao rio Paraná; drenam para o Atlântico os rios da bacia litorânea e a bacia do Ribeira.
+A) Parece certa porque cita as escarpas corretas; erra ao trocá-las: a Serra do Mar separa litoral e Primeiro Planalto, e a Escarpa Devoniana separa o Primeiro do Segundo Planalto (a transição para o Terceiro é a Serra Geral/da Esperança).
+B) Parece certa porque a formação arenito-basáltica está correta; erra porque o Terceiro Planalto é a unidade de maior extensão do estado.
+C) Parece certa porque o Iguaçu é o grande rio que liga leste e oeste; erra porque ele nasce na Região Metropolitana de Curitiba e corre para oeste, até o rio Paraná.
+D) Parece certa porque a Escarpa Devoniana é feição marcante; erra porque o Pico Paraná está na Serra do Mar.
+@@fim
+
+@@q 33
+materia: Realidade do Paraná
+subtema: 3.3 Divisão político-administrativa: organização territorial e municípios
+correta: E
+>enunciado
+Em estudo sobre a organização territorial do Paraná, um grupo de trabalho da Secretaria de Segurança analisa a atuação integrada das delegacias nas regiões metropolitanas de Curitiba, Londrina e Maringá. O relatório precisa explicar como essas regiões foram instituídas e quais são os limites para alterar a divisão municipal do estado, que conta hoje com 399 municípios. Assinale a afirmativa correta.
+>A
+Após a Constituição de 1988, a criação de regiões metropolitanas depende de lei complementar federal e de plebiscito prévio em todos os municípios envolvidos.
+>B
+Os municípios podem, por lei ordinária municipal, recusar a integração à região metropolitana instituída pelo Estado, em respeito à autonomia municipal.
+>C
+A criação de novos municípios no Paraná depende apenas de lei estadual aprovada por maioria absoluta da Assembleia Legislativa, dispensada consulta popular.
+>D
+A Região Metropolitana de Curitiba foi criada pela Constituição do Estado do Paraná de 1989, que também definiu, de forma definitiva, seus municípios integrantes.
+>E
+A RM de Curitiba nasceu de lei complementar federal nos anos 1970; após 1988, instituir regiões metropolitanas cabe aos Estados, por lei complementar.
+>comentario
+Correta (E): a RMC foi uma das regiões metropolitanas criadas pela Lei Complementar federal nº 14/1973; com a CF/1988, o art. 25, § 3º, atribuiu aos Estados a instituição de regiões metropolitanas por lei complementar estadual (caso das RMs de Londrina e Maringá).
+A) Parece certa porque lembra o regime anterior (lei complementar federal) e o plebiscito exigido para criar municípios; erra porque, após 1988, a competência é estadual e não há exigência de plebiscito para instituir RM.
+B) Parece certa porque invoca a autonomia municipal; erra porque o STF reconhece o caráter compulsório da integração metropolitana instituída por lei complementar estadual.
+C) Parece certa porque a lei estadual é de fato necessária; erra porque o art. 18, § 4º, da CF exige também lei complementar federal (período), estudos de viabilidade e plebiscito com as populações envolvidas.
+D) Parece certa porque a Constituição estadual trata da organização do território; erra porque a RMC é anterior a ela (1973) e sua composição foi alterada por leis posteriores.
+@@fim
+
+@@q 34
+materia: Realidade do Paraná
+subtema: 3.4 Cultura paranaense: manifestações culturais, artes e tradições
+correta: C
+>enunciado
+Em visita a Curitiba, um grupo de policiais de outros estados observa pinhões e araucárias estilizados em calçadas de mosaico português, em fachadas antigas e em obras expostas em museus da cidade. O guia explica que esses símbolos foram deliberadamente difundidos por intelectuais e artistas no início do século XX, com o objetivo de construir uma identidade própria para o estado. O guia refere-se ao
+>A
+Modernismo da Semana de Arte Moderna de 1922, realizada em Curitiba, que rejeitou os símbolos regionais em favor de uma estética cosmopolita e urbana.
+>B
+Movimento Armorial, nascido no Paraná, que buscou valorizar a cultura dos tropeiros e elegeu o pinhão como símbolo da culinária popular paranaense.
+>C
+Paranismo, movimento dos anos 1920 que difundiu o pinheiro e o pinhão como símbolos regionais, com Romário Martins, João Turin e Lange de Morretes.
+>D
+Tropicalismo, que no Paraná se expressou nas artes visuais pela estilização da gralha-azul e da araucária, sob a liderança do poeta Paulo Leminski.
+>E
+Regionalismo de 1930, movimento literário surgido no Paraná, cujo principal expoente foi o contista Dalton Trevisan, criador da estilização do pinhão.
+>comentario
+Correta (C): o Paranismo, articulado nos anos 1920 em torno de Romário Martins, reuniu artistas como João Turin e Lange de Morretes, que estilizaram a araucária e o pinhão como emblemas da identidade paranaense.
+A) Parece certa porque a década coincide; erra porque a Semana de 1922 ocorreu em São Paulo e não tem relação com os símbolos paranistas.
+B) Parece certa porque o Armorial valorizou culturas regionais; erra porque surgiu em Pernambuco, nos anos 1970, liderado por Ariano Suassuna.
+D) Parece certa porque Leminski é nome central da cultura paranaense; erra porque o Tropicalismo é dos anos 1960 e não criou a simbologia do pinheiro.
+E) Parece certa porque Dalton Trevisan é escritor curitibano; erra porque o Regionalismo de 1930 é nordestino, e Trevisan não se liga à simbologia paranista.
+@@fim
+
+@@q 35
+materia: Realidade do Paraná
+subtema: 3.5 Indicadores sociais e econômicos: IDH
+correta: A
+>enunciado
+Um relatório sobre desenvolvimento regional compara dois municípios paranaenses pelo Índice de Desenvolvimento Humano Municipal (IDHM). No município X, os subíndices de longevidade e renda são elevados, mas o de educação é baixo. A prefeitura dispõe de recursos para elevar, em igual valor absoluto, apenas um dos três subíndices e quer saber qual escolha tende a produzir maior efeito no índice final. Sobre a metodologia do IDHM, assinale a afirmativa correta.
+>A
+Como o IDHM é média geométrica de longevidade, educação e renda, um avanço na dimensão mais baixa tende a elevar o índice mais do que igual avanço na mais alta.
+>B
+O IDHM é a média aritmética simples das três dimensões, de modo que ganhos de mesmo valor em qualquer delas produzem exatamente o mesmo efeito sobre o índice.
+>C
+A dimensão educação do IDHM é medida exclusivamente pela taxa de alfabetização da população adulta, sem considerar o fluxo escolar de crianças e jovens.
+>D
+A dimensão renda do IDHM considera o PIB municipal total, independentemente do tamanho da população, razão pela qual favorece os municípios mais populosos.
+>E
+Um IDHM entre 0,700 e 0,799 é classificado na faixa "muito alto", na qual se enquadram, segundo o índice, todos os municípios do Paraná.
+>comentario
+Correta (A): o IDHM (PNUD/Ipea/FJP) é a média geométrica dos subíndices; nessa média, a contribuição marginal de cada dimensão é maior quanto menor ela for, o que penaliza desequilíbrios e favorece a melhoria da dimensão mais fraca.
+B) Parece certa porque a média aritmética é a mais conhecida; erra porque o IDHM usa média geométrica, que não permite compensação plena entre dimensões.
+C) Parece certa porque a alfabetização já foi indicador do IDH; erra porque o IDHM Educação combina escolaridade da população adulta e fluxo escolar da população jovem.
+D) Parece certa porque o índice envolve renda; erra porque usa a renda per capita, e não o PIB total.
+E) Parece certa porque as faixas terminam em 0,799; erra porque 0,700–0,799 é a faixa "alto" ("muito alto" começa em 0,800) e os municípios paranaenses não estão todos numa mesma faixa.
+@@fim

@@ -1,0 +1,479 @@
+@@q 81
+materia: Legislação Estadual e Institucional
+subtema: 5.7 Lei de Identificação Criminal (Lei 12.037/2009)
+correta: E
+>enunciado
+Preso em flagrante por furto, Mauro apresenta carteira de identidade original, em bom estado de conservação e sem qualquer indício de falsificação. Consultando os sistemas, o delegado verifica que constam de registros policiais anteriores ocorrências em que Mauro se identificou com outros nomes. O delegado considera, ainda, útil coletar material biológico de Mauro para obtenção de perfil genético e inclusão em banco de dados. À luz da Lei 12.037/2009, assinale a afirmativa correta.
+>A
+Como Mauro apresentou documento civil idôneo, a identificação criminal é vedada em qualquer hipótese, por força da garantia do art. 5º, LVIII, da Constituição Federal.
+>B
+O delegado pode determinar a identificação criminal e a coleta de material biológico, pois ambas decorrem automaticamente da lavratura do auto de prisão em flagrante.
+>C
+A identificação criminal depende, em qualquer caso, de despacho da autoridade judiciária, a pedido do delegado, do Ministério Público ou da defesa.
+>D
+A identificação criminal poderá ser feita, mas o material datiloscópico e fotográfico deverá ser juntado apenas ao processo judicial, e nunca ao auto de prisão.
+>E
+O delegado pode determinar a identificação datiloscópica e fotográfica, pelo uso de outros nomes em registros policiais, mas não a coleta de material biológico.
+>comentario
+Correta (E): o art. 3º, V, da Lei 12.037/2009 autoriza a identificação criminal, mesmo com documento civil, quando "constar de registros policiais o uso de outros nomes ou diferentes qualificações"; essa hipótese não exige ordem judicial. A coleta de material biológico só é admitida na hipótese do inciso IV (identificação essencial às investigações, por despacho judicial), conforme o art. 5º, parágrafo único.
+A) Parece certa porque reproduz a regra geral do art. 5º, LVIII, da CF; erra porque a própria Constituição ressalva as hipóteses legais, e o caso se enquadra no art. 3º, V, da lei.
+B) Parece certa porque o flagrante justifica a identificação no caso concreto; erra porque nenhuma das medidas é automática e a coleta de material biológico exige decisão judicial.
+C) Parece certa porque o inciso IV exige despacho judicial; erra ao estender essa exigência às demais hipóteses do art. 3º.
+D) Parece certa porque a identificação é admitida; erra porque o art. 5º manda juntar o material aos autos da comunicação da prisão em flagrante, do inquérito ou de outra investigação.
+@@fim
+
+@@q 82
+materia: Legislação Estadual e Institucional
+subtema: 5.7 Lei de Acesso à Informação (Lei 12.527/2011)
+correta: B
+>enunciado
+Um cidadão apresenta à Polícia Civil, pelo sistema eletrônico de atendimento, pedido de dados estatísticos sobre ocorrências de furto por bairro no último ano, sem informar o motivo da solicitação. O servidor responsável exige que ele declare a finalidade do pedido e informa que o prazo legal de resposta é de 30 dias. Os dados não estão classificados como sigilosos nem contêm informação pessoal. À luz da Lei de Acesso à Informação, assinale a afirmativa correta.
+>A
+A exigência de motivação é legítima, pois informações sobre segurança pública são sigilosas por natureza, e o prazo de 30 dias é o previsto na lei.
+>B
+É vedado exigir o motivo do pedido; não sendo possível o acesso imediato, o prazo é de até 20 dias, prorrogáveis por mais 10 com justificativa.
+>C
+Estatísticas criminais por bairro são automaticamente classificadas como ultrassecretas, submetidas a prazo de sigilo de 25 anos a contar de sua produção.
+>D
+O pedido deve ser respondido em até 10 dias, improrrogáveis, sob pena de responsabilização do servidor por crime de responsabilidade previsto na própria lei.
+>E
+O cidadão só pode apresentar o pedido presencialmente, com identificação e comprovação de interesse pessoal na obtenção da informação solicitada.
+>comentario
+Correta (B): o art. 10, § 3º, da Lei 12.527/2011 veda "quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público"; o art. 11, §§ 1º e 2º, fixa prazo não superior a 20 dias, prorrogável por mais 10, mediante justificativa expressa, da qual será cientificado o requerente.
+A) Parece certa porque existem informações de segurança passíveis de sigilo; erra porque o sigilo depende de classificação, não é presumido, e o prazo legal não é de 30 dias.
+C) Parece certa porque 25 anos é o prazo das informações ultrassecretas (art. 24, § 1º, I); erra porque não há classificação automática.
+D) Parece certa porque a lei exige resposta célere; erra no prazo e na consequência.
+E) Parece certa porque o requerente deve se identificar (art. 10, caput); erra porque o pedido pode ser feito por qualquer meio legítimo, inclusive pela internet, sem demonstração de interesse.
+@@fim
+
+@@q 83
+materia: Legislação Estadual e Institucional
+subtema: 5.6 Responsabilidade civil, administrativa e penal do servidor público
+correta: B
+>enunciado
+Durante acompanhamento de veículo suspeito, um investigador da Polícia Civil do Paraná, dirigindo a viatura em velocidade incompatível com a via, colide com o automóvel de Helena, causando-lhe danos materiais. Helena ajuíza ação de indenização diretamente contra o investigador, pessoa física, sem incluir o Estado no polo passivo. Em contestação, o servidor alega ilegitimidade passiva. Considerando a Constituição Federal e a jurisprudência do STF, assinale a afirmativa correta.
+>A
+Helena pode escolher livremente entre acionar o Estado ou o servidor, pois a responsabilidade entre ambos é solidária perante o particular lesado.
+>B
+A ação deve ser proposta contra o Estado, que responde objetivamente, sendo o agente parte ilegítima; o Estado poderá exercer regresso contra ele em caso de dolo ou culpa.
+>C
+A responsabilidade do Estado depende da comprovação de culpa do servidor, pois a atividade policial afasta a aplicação da teoria do risco administrativo.
+>D
+O servidor responde objetivamente perante Helena, e o Estado responde apenas de forma subsidiária, caso o servidor não tenha patrimônio suficiente.
+>E
+A condenação criminal do servidor é pressuposto de qualquer indenização, em razão do princípio da independência entre as instâncias civil, penal e administrativa.
+>comentario
+Correta (B): pelo art. 37, § 6º, da CF, as pessoas jurídicas de direito público respondem objetivamente pelos danos que seus agentes causarem a terceiros, assegurado o regresso nos casos de dolo ou culpa. O STF (Tema 940, RE 1.027.633) fixou que a ação deve ser ajuizada contra o Estado, sendo parte ilegítima o autor do ato.
+A) Parece certa porque já houve entendimento do STJ admitindo a escolha; erra porque o STF consolidou a tese da "dupla garantia" no Tema 940.
+C) Parece certa porque a culpa do servidor aparece no caso; erra porque a responsabilidade do Estado é objetiva, e a culpa só importa para o regresso.
+D) Parece certa porque o servidor causou o dano; erra porque inverte as posições: o Estado responde objetiva e diretamente.
+E) Parece certa porque cita princípio verdadeiro; erra porque a independência das instâncias justamente dispensa a condenação criminal para a indenização.
+@@fim
+
+@@q 84
+materia: Legislação Estadual e Institucional
+subtema: 5.7 Lei Geral de Proteção de Dados Pessoais (Lei 13.709/2018)
+correta: A
+>enunciado
+A Polícia Civil implanta um banco de dados com informações de investigados, destinado exclusivamente ao cruzamento de dados em investigações criminais. Um investigado requer, com base na LGPD, a eliminação imediata de seus dados, alegando que nunca consentiu com o tratamento. Paralelamente, uma empresa privada oferece-se para operar o banco de forma autônoma, sem supervisão de órgão público. Considerando a LGPD, assinale a afirmativa correta.
+>A
+A LGPD não rege esse tratamento, que depende de lei específica, observados o devido processo legal, os princípios gerais de proteção e os direitos do titular.
+>B
+O tratamento é ilícito, pois a LGPD exige consentimento expresso do titular para qualquer tratamento de dados pessoais realizado pelo poder público.
+>C
+A LGPD aplica-se integralmente, cabendo ao investigado exigir a eliminação imediata dos dados, independentemente da fase em que se encontre a investigação policial.
+>D
+A exceção prevista na LGPD para a segurança pública autoriza o tratamento irrestrito dos dados, sem observância de quaisquer princípios de proteção.
+>E
+O tratamento de dados para investigação criminal pode ser integralmente realizado pela empresa privada, independentemente de tutela de pessoa jurídica de direito público.
+>comentario
+Correta (A): o art. 4º, III, "d", da Lei 13.709/2018 exclui do âmbito da LGPD o tratamento realizado para fins exclusivos de atividades de investigação e repressão de infrações penais; o § 1º determina que esse tratamento seja regido por legislação específica, com medidas proporcionais, devido processo legal, princípios gerais de proteção e direitos do titular previstos na LGPD.
+B) Parece certa porque o consentimento é base legal conhecida; erra porque não é a única base (art. 7º) e o caso está fora do âmbito da LGPD.
+C) Parece certa porque a eliminação é direito do titular (art. 18); erra porque a lei não se aplica a esse tratamento.
+D) Parece certa porque a lei não se aplica diretamente; erra porque o § 1º impõe observância dos princípios gerais e dos direitos do titular.
+E) Parece certa porque a LGPD admite operadores privados em outras situações; erra porque o § 2º veda esse tratamento por pessoa de direito privado, salvo em procedimentos sob tutela de pessoa jurídica de direito público.
+@@fim
+
+@@q 85
+materia: Legislação Estadual e Institucional
+subtema: 5.7 Lei de Abuso de Autoridade (Lei 13.869/2019)
+correta: B
+>enunciado
+Após reunir contratos, comprovantes de transferência e depoimentos indicando que Marcos recebera valores de vários compradores sem entregar os veículos prometidos, o delegado instaurou inquérito e o indiciou por estelionato, em despacho fundamentado. Ao final, o Ministério Público entendeu tratar-se de mero inadimplemento contratual e promoveu o arquivamento. Marcos representa contra o delegado pelo crime de dar início a persecução penal sem justa causa fundamentada (art. 30 da Lei 13.869/2019). Não há indício de motivação pessoal. Assinale a afirmativa correta.
+>A
+Há crime, pois a Lei de Abuso de Autoridade admite modalidade culposa quando a autoridade age com negligência na análise das provas reunidas no inquérito policial.
+>B
+Não há crime, pois a divergência na avaliação de fatos e provas não configura abuso de autoridade e não se demonstrou a finalidade específica exigida pela lei.
+>C
+Há crime, porque o arquivamento do inquérito pelo Ministério Público comprova, por si só, a ausência de justa causa e, consequentemente, o dolo específico do delegado.
+>D
+Não há crime, porque a Lei 13.869/2019 não se aplica a delegados de polícia, mas somente a magistrados e a membros do Ministério Público.
+>E
+Há crime, e a ação penal é privada, dependendo de queixa-crime oferecida por Marcos no prazo decadencial de seis meses.
+>comentario
+Correta (B): o art. 1º, § 1º, da Lei 13.869/2019 exige que as condutas sejam praticadas "com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal"; o § 2º estabelece que "a divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade".
+A) Parece certa porque a negligência pode gerar responsabilidade funcional; erra porque não há forma culposa na lei.
+C) Parece certa porque o arquivamento indica que o MP não viu crime; erra porque divergência de avaliação não prova dolo específico.
+D) Parece certa porque a lei é associada a juízes e promotores; erra porque o art. 2º alcança qualquer agente público, inclusive policiais.
+E) Parece certa porque a vítima pode agir em caso de inércia; erra porque a ação é pública incondicionada (art. 3º), admitida a privada subsidiária apenas se o MP não agir no prazo.
+@@fim
+
+@@q 86
+materia: Direito Penal
+subtema: 6.1 Parte Geral: excludentes de ilicitude
+correta: D
+>enunciado
+Durante roubo a uma farmácia, Wesley mantém a atendente como refém, com revólver encostado em sua cabeça, e anuncia que a matará se a polícia não recuar. Após frustradas tentativas de negociação, o agente de polícia Lucas, posicionado em local seguro, efetua um único disparo, que atinge Wesley no momento em que ele engatilha a arma. Wesley morre no local. O laudo confirma que o revólver estava municiado e apto a disparar. Assinale a afirmativa correta.
+>A
+Lucas agiu em estrito cumprimento do dever legal, excludente que autoriza o agente de segurança pública a matar sempre que isso for necessário para efetuar a prisão.
+>B
+Lucas agiu em estado de necessidade, pois sacrificou um bem jurídico para salvar a refém de perigo atual que não provocou por sua vontade.
+>C
+Lucas não pode invocar legítima defesa, pois a agressão era dirigida à refém, e não a ele, restando-lhe apenas a tese de inexigibilidade de conduta diversa.
+>D
+Lucas agiu em legítima defesa de terceiro, hipótese prevista no art. 25, parágrafo único, do CP, observados os requisitos do caput.
+>E
+O parágrafo único do art. 25 do CP dispensa, para os agentes de segurança pública, os requisitos da moderação e do uso dos meios necessários.
+>comentario
+Correta (D): o parágrafo único do art. 25 do CP (Lei 13.964/2019) dispõe: "Observados os requisitos previstos no caput deste artigo, considera-se também em legítima defesa o agente de segurança pública que repele agressão ou risco de agressão a vítima mantida refém durante a prática de crimes." Houve agressão iminente e injusta a terceiro, repelida com meio necessário e moderação (um disparo).
+A) Parece certa porque Lucas cumpria dever funcional; erra porque o estrito cumprimento do dever legal não autoriza matar para prender — a proteção da vida da refém é que justifica o disparo, como legítima defesa.
+B) Parece certa porque havia perigo atual à refém; erra porque, diante de agressão humana injusta, a excludente é a legítima defesa, e não o estado de necessidade.
+C) Parece certa porque a agressão não era contra Lucas; erra porque o art. 25 admite a defesa de direito "seu ou de outrem".
+E) Parece certa porque o dispositivo foi criado para agentes de segurança; erra porque exige expressamente a observância dos requisitos do caput.
+@@fim
+
+@@q 87
+materia: Direito Penal
+subtema: 6.3 Legislação extravagante: Lei Maria da Penha (Lei 11.340/2006)
+correta: E
+>enunciado
+No Município X, sede de comarca, Joana procura a delegacia de madrugada e relata que o companheiro a agrediu e ameaçou matá-la naquela noite; a equipe constata risco atual à sua integridade física. Ela pede que o agressor seja afastado imediatamente da casa onde vivem. O juiz de plantão pode ser acionado. O delegado de plantão avalia se ele próprio pode determinar o afastamento. À luz da Lei Maria da Penha, assinale a afirmativa correta.
+>A
+O delegado pode afastar imediatamente o agressor do lar, comunicando o juiz em até 24 horas, qualquer que seja o Município em que ocorra o fato.
+>B
+Qualquer policial de plantão pode afastar o agressor, pois a lei autoriza a medida sempre que houver risco atual à vida ou à integridade da mulher.
+>C
+O delegado deve arbitrar fiança e liberar o agressor, pois as medidas protetivas de urgência dependem de ação penal já instaurada contra ele.
+>D
+O afastamento do lar exige representação da ofendida e prévia manifestação do Ministério Público, sem as quais o juiz não pode concedê-lo.
+>E
+Sendo o Município sede de comarca, o afastamento cabe ao juiz, a quem o delegado deve remeter o pedido de medidas protetivas em até 48 horas.
+>comentario
+Correta (E): o art. 12-C da Lei 11.340/2006 atribui o afastamento imediato ao juiz (inciso I); ao delegado, só quando o Município não for sede de comarca (II); ao policial, só quando também não houver delegado disponível (III). O art. 12, III, manda a autoridade policial remeter ao juiz, em 48 horas, expediente apartado com o pedido de medidas protetivas.
+A) Parece certa porque reproduz a comunicação em 24 horas do § 1º do art. 12-C; erra porque ignora a condição de o Município não ser sede de comarca.
+B) Parece certa porque o risco atual é pressuposto da medida; erra porque o policial só atua na hipótese do inciso III.
+C) Parece certa porque a fiança é instituto do flagrante; erra porque as medidas protetivas independem de ação penal, e o § 2º do art. 12-C veda a liberdade provisória quando houver risco à integridade da ofendida.
+D) Parece certa porque o MP participa do procedimento; erra porque o juiz pode conceder a medida de imediato, independentemente de manifestação do MP (art. 19, § 1º).
+@@fim
+
+@@q 88
+materia: Direito Penal
+subtema: 6.1 Parte Especial: crimes contra a Administração Pública
+correta: B
+>enunciado
+Rogério, escrivão de polícia, deixou por descuido destrancado o armário de valores apreendidos, e um terceiro subtraiu R$ 8.000,00 ali guardados. Rogério não sabia da subtração nem aderiu a ela. Processado, foi condenado em primeira instância por peculato culposo. Enquanto pendia o julgamento da apelação da defesa, ele ressarciu integralmente o prejuízo. Considerando o Código Penal, assinale a afirmativa correta.
+>A
+A reparação posterior à sentença de primeiro grau apenas reduz de metade a pena imposta, pois a extinção da punibilidade exige o ressarcimento antes de qualquer sentença.
+>B
+A reparação do dano, por ter ocorrido antes da sentença irrecorrível, extingue a punibilidade de Rogério, nos termos do art. 312, § 3º, do CP.
+>C
+Aplica-se o arrependimento posterior (art. 16 do CP), com redução da pena de um a dois terços, por se tratar de crime cometido sem violência ou grave ameaça.
+>D
+A reparação do dano é irrelevante para a punibilidade, pois o peculato culposo é crime formal, consumado com a simples conduta negligente.
+>E
+Rogério deve responder por peculato-furto (art. 312, § 1º, do CP), já que concorreu, ainda que por descuido, para a subtração praticada pelo terceiro.
+>comentario
+Correta (B): o art. 312, § 3º, do CP dispõe que, no peculato culposo, "a reparação do dano, se precede à sentença irrecorrível, extingue a punibilidade; se lhe é posterior, reduz de metade a pena imposta". Como a apelação estava pendente, não havia sentença irrecorrível.
+A) Parece certa porque a redução de metade existe; erra porque se aplica à reparação posterior ao trânsito em julgado, e não à posterior à sentença de primeiro grau.
+C) Parece certa porque o crime não tem violência; erra porque o art. 16 exige reparação até o recebimento da denúncia, e há regra especial para o peculato culposo.
+D) Parece certa porque a negligência basta para o tipo culposo; erra porque o crime depende do resultado (a subtração por terceiro) e a lei dá efeito expresso à reparação.
+E) Parece certa porque houve subtração facilitada pela condição de funcionário; erra porque o peculato-furto é doloso e exige concurso consciente, o que não houve.
+@@fim
+
+@@q 89
+materia: Direito Processual Penal
+subtema: 7.1 Inquérito policial; direitos do investigado; Estatuto da OAB (aspectos processuais)
+correta: D
+>enunciado
+Em inquérito policial sob sigilo decretado judicialmente, o advogado de Ivo comparece à delegacia sem procuração e requer acesso integral aos autos, inclusive ao conteúdo de interceptação telefônica ainda em curso, cujos resultados não foram juntados ao procedimento. O delegado entende que o conhecimento da interceptação, naquele momento, frustraria a diligência. Considerando a Súmula Vinculante 14 e o Estatuto da Advocacia, assinale a afirmativa correta.
+>A
+O advogado tem direito de acesso irrestrito, inclusive às diligências em andamento, independentemente de procuração, por força da Súmula Vinculante 14 do STF.
+>B
+O inquérito é procedimento inquisitivo, de modo que o delegado pode negar ao advogado qualquer acesso aos autos até a elaboração do relatório final e a remessa ao juízo.
+>C
+Mesmo com procuração, o acesso a autos sigilosos depende sempre de prévia autorização judicial, não podendo o delegado franqueá-lo por decisão própria.
+>D
+Nos autos sigilosos, exige-se procuração; com ela, o advogado acessa o que já foi documentado, e o delegado pode restringir o acesso a diligências em curso.
+>E
+O advogado somente pode examinar os autos do inquérito depois que o investigado tiver sido formalmente indiciado pela autoridade policial.
+>comentario
+Correta (D): a Súmula Vinculante 14 garante ao defensor acesso amplo aos elementos de prova "já documentados" em procedimento investigatório. O art. 7º, XIV, da Lei 8.906/1994 assegura o exame mesmo sem procuração, mas o § 10 exige procuração em autos sigilosos, e o § 11 permite delimitar o acesso a diligências em andamento e não documentadas, quando houver risco à sua eficácia.
+A) Parece certa porque a SV 14 amplia o acesso; erra porque ela se limita aos elementos já documentados, e a lei exige procuração nos autos sigilosos.
+B) Parece certa porque o inquérito é inquisitivo; erra porque isso não afasta o direito de acesso do defensor.
+C) Parece certa porque o sigilo foi decretado pelo juiz; erra porque a lei assegura o acesso ao advogado com procuração, sem nova autorização judicial.
+E) Parece certa porque o indiciamento formaliza a suspeita; erra porque o direito de acesso não depende de indiciamento.
+@@fim
+
+@@q 90
+materia: Direito Processual Penal
+subtema: 7.1 Prisão preventiva; revisão periódica (art. 316 do CPP)
+correta: C
+>enunciado
+Diego está preso preventivamente há cinco meses, por decisão fundamentada. Nos últimos 90 dias, porém, o juízo não reavaliou a necessidade da prisão. A defesa impetra habeas corpus sustentando que o simples decurso do prazo tornou a prisão ilegal, o que imporia a imediata soltura, independentemente de nova análise dos fundamentos. Considerando o CPP e a jurisprudência do STF, assinale a afirmativa correta.
+>A
+O decurso do prazo impõe a imediata soltura, pois o parágrafo único do art. 316 do CPP fixa em 90 dias o prazo máximo de duração da prisão preventiva.
+>B
+O dever de revisão periódica é do Ministério Público, e não do juiz, razão pela qual a omissão apontada pela defesa não produz qualquer consequência.
+>C
+A falta de revisão em 90 dias não revoga automaticamente a preventiva; o juízo competente deve ser instado a reavaliar a legalidade e a atualidade de seus fundamentos.
+>D
+Ao revisar a prisão, o juiz pode decretar de ofício nova preventiva, por fundamento diverso, independentemente de requerimento do MP ou de representação policial.
+>E
+A revisão periódica da prisão preventiva somente é exigida para presos por crimes hediondos, nos termos da Lei 8.072/1990, o que não é o caso de Diego.
+>comentario
+Correta (C): o art. 316, parágrafo único, do CPP impõe ao órgão emissor da decisão revisar a necessidade da preventiva a cada 90 dias. O STF (ADIs 6.581 e 6.582) fixou que a inobservância desse prazo não implica revogação automática, devendo o juízo competente ser instado a reavaliar a legalidade e a atualidade dos fundamentos.
+A) Parece certa porque o dispositivo menciona 90 dias e fala em prisão ilegal; erra porque o prazo é de revisão, não de duração máxima, e a ilegalidade não é automática.
+B) Parece certa porque o MP fiscaliza a prisão; erra porque a lei atribui o dever ao órgão emissor da decisão (o juiz).
+D) Parece certa porque o juiz reexamina a prisão; erra porque, após a Lei 13.964/2019, o art. 311 veda a decretação de ofício da preventiva.
+E) Parece certa porque hediondos têm regime mais rigoroso; erra porque a revisão vale para toda prisão preventiva.
+@@fim
+
+@@q 91
+materia: Direito Processual Penal
+subtema: 7.2 Lei de Interceptação Telefônica (Lei 9.296/1996)
+correta: E
+>enunciado
+Investiga-se Sérgio pela prática reiterada de furtos simples em um depósito, cometidos durante o dia (art. 155, caput, do CP: reclusão, de 1 a 4 anos, e multa). Não há concurso de agentes nem crimes conexos. Há indícios razoáveis de autoria, e a prova não pode ser obtida por outros meios disponíveis e igualmente eficazes. O delegado representa ao juiz por interceptação telefônica e por captação ambiental no escritório usado pelo investigado. Assinale a afirmativa correta.
+>A
+Ambas as medidas são admissíveis, pois a Lei 9.296/1996 exige, para as duas, apenas que o crime investigado seja punido com pena de reclusão.
+>B
+Nenhuma das medidas é admissível, pois a interceptação telefônica também exige infração com pena máxima superior a 4 anos de prisão.
+>C
+A captação ambiental é admissível e a interceptação não, porque a captação é medida menos invasiva e dispensa autorização judicial.
+>D
+Ambas são admissíveis, desde que autorizadas pelo próprio delegado e comunicadas ao juiz competente no prazo de 24 horas.
+>E
+Cabe, em tese, a interceptação, pois o crime é punido com reclusão; não cabe a captação ambiental, que exige pena máxima superior a 4 anos.
+>comentario
+Correta (E): o art. 2º, III, da Lei 9.296/1996 veda a interceptação quando o fato for punido, no máximo, com detenção — o furto é punido com reclusão. Já o art. 8º-A, II, exige, para a captação ambiental, infrações "cujas penas máximas sejam superiores a 4 (quatro) anos ou em infrações penais conexas"; a pena máxima do furto simples é exatamente 4 anos.
+A) Parece certa porque acerta o requisito da interceptação; erra porque a captação ambiental tem requisito próprio, mais restrito.
+B) Parece certa porque acerta a captação; erra porque transporta à interceptação o requisito da captação.
+C) Parece certa porque a captação pode parecer menos invasiva; erra porque também exige autorização judicial e, no caso, não é cabível.
+D) Parece certa porque o delegado tem legitimidade para representar; erra porque ambas dependem de prévia autorização judicial.
+@@fim
+
+@@q 92
+materia: Direito Constitucional
+subtema: 8.2 Direitos e garantias fundamentais: inviolabilidade de domicílio
+correta: D
+>enunciado
+Com mandado judicial de busca e apreensão na casa de Nélio, expedido em investigação de receptação, a equipe chega ao endereço às 22h. Nélio atende à porta, lê o mandado e não autoriza a entrada naquele horário. Do lado de fora, nada indica a prática de crime no interior do imóvel naquele momento. O chefe da equipe consulta o delegado sobre como proceder. Assinale a afirmativa correta.
+>A
+O mandado judicial autoriza o ingresso a qualquer hora, pois a restrição ao período noturno aplica-se somente às entradas realizadas sem ordem judicial.
+>B
+A entrada é permitida até as 23h, pois a Lei 13.869/2019 considera noite, para fins de cumprimento de mandados, apenas o período das 23h às 5h.
+>C
+Diante da recusa, a equipe pode arrombar a porta imediatamente, porque a recusa do morador configura, por si só, flagrante de desobediência.
+>D
+Sem consentimento, a equipe deve aguardar o dia para cumprir o mandado; à noite, só entraria diante de fundadas razões de flagrante delito.
+>E
+A equipe pode entrar sem restrição de horário se o delegado lavrar termo justificando a urgência, dispensando-se nova ordem judicial para o ingresso.
+>comentario
+Correta (D): o art. 5º, XI, da CF só admite o ingresso por determinação judicial "durante o dia"; o art. 245 do CPP determina que as buscas domiciliares sejam executadas de dia, salvo consentimento do morador. O flagrante autoriza o ingresso a qualquer hora, se amparado em fundadas razões justificadas a posteriori (STF, RE 603.616, Tema 280). Cumprir mandado após as 21h ou antes das 5h configura, ainda, abuso de autoridade (Lei 13.869/2019, art. 22, § 1º, III).
+A) Parece certa porque o mandado é ordem judicial válida; erra porque a restrição ao período diurno recai justamente sobre a entrada por ordem judicial.
+B) Parece certa porque a lei de abuso fixa horário; erra porque o marco é 21h, e não 23h.
+C) Parece certa porque a recusa contraria a ordem; erra porque o morador pode exigir o cumprimento durante o dia, e a recusa noturna não é flagrante.
+E) Parece certa porque a urgência às vezes justifica medidas; erra porque não há previsão de ingresso noturno por decisão do delegado.
+@@fim
+
+@@q 93
+materia: Direito Constitucional
+subtema: 8.7 Controle de constitucionalidade: ADI e ADC
+correta: A
+>enunciado
+O Governador do Paraná pretende ajuizar no STF ação para obter a declaração de constitucionalidade de uma lei estadual paranaense sobre a carreira policial, que vem sendo afastada por juízes de primeiro grau em vários processos. Na mesma semana, estuda propor ação direta de inconstitucionalidade contra lei federal que afeta diretamente a organização da Polícia Civil do Estado. Considerando a Constituição e a Lei 9.868/1999, assinale a afirmativa correta.
+>A
+A ADC não cabe para lei estadual, pois só tem por objeto lei ou ato normativo federal; a ADI contra a lei federal cabe, com demonstração de pertinência temática.
+>B
+A ADC é cabível em relação à lei estadual, desde que o Governador demonstre a existência de controvérsia judicial relevante sobre a aplicação da norma nos juízos de primeiro grau.
+>C
+O Governador não é legitimado para propor ADI nem ADC, prerrogativa reservada ao Procurador-Geral da República, ao Presidente da República e às Mesas do Congresso.
+>D
+A ADI contra a lei federal dispensa pertinência temática, pois o Governador de Estado é legitimado universal para o controle concentrado.
+>E
+A decisão de mérito proferida em ADC tem eficácia apenas entre as partes e não vincula os juízes de primeiro grau que vêm afastando a lei.
+>comentario
+Correta (A): pelo art. 102, I, "a", da CF, a ADI cabe contra lei ou ato normativo federal ou estadual, e a ADC apenas contra lei ou ato normativo federal. O Governador é legitimado (art. 103, V), mas, segundo o STF, é legitimado especial, devendo demonstrar pertinência temática.
+B) Parece certa porque a controvérsia judicial relevante é requisito da ADC (art. 14, III, da Lei 9.868/1999); erra porque a ADC não tem por objeto lei estadual.
+C) Parece certa porque PGR e Presidente são legitimados; erra porque o art. 103, V, inclui o Governador de Estado.
+D) Parece certa porque o Governador está no rol do art. 103; erra porque ele não é legitimado universal.
+E) Parece certa porque as decisões judiciais, em regra, valem entre as partes; erra porque as decisões de mérito em ADI e ADC têm eficácia contra todos e efeito vinculante (art. 102, § 2º, da CF).
+@@fim
+
+@@q 94
+materia: Direito Constitucional
+subtema: 8.4 Organização do Estado: competências legislativas
+correta: D
+>enunciado
+A Assembleia Legislativa do Paraná aprova lei que (i) especifica faltas disciplinares leves e médias aplicáveis aos presos do sistema prisional estadual, com as respectivas sanções, e (ii) cria nova falta grave, não prevista na Lei de Execução Penal, consistente em "recusar-se a participar de atividades recreativas". A lei é questionada quanto à competência legislativa do Estado. Assinale a afirmativa correta.
+>A
+A lei é integralmente inconstitucional, pois direito penitenciário é matéria de competência legislativa privativa da União, sem espaço para atuação estadual.
+>B
+A lei é integralmente válida, pois, na competência concorrente, os Estados podem contrariar as normas gerais da União para atender a peculiaridades locais.
+>C
+A lei é integralmente válida, pois a LEP permite que a legislação local especifique as faltas leves, médias e graves e as respectivas sanções.
+>D
+É válida a especificação das faltas leves e médias, delegada pela LEP à legislação local; é inválida a criação de falta grave, matéria da lei federal.
+>E
+É válida a criação da falta grave e inválida a especificação das faltas leves e médias, que estão reservadas ao regulamento interno de cada estabelecimento.
+>comentario
+Correta (D): o direito penitenciário é de competência concorrente (art. 24, I, da CF), cabendo à União as normas gerais (§ 1º). A LEP (art. 49) dispõe que "a legislação local especificará as [faltas] leves e médias, bem assim as respectivas sanções", enquanto as faltas graves estão definidas na própria lei federal (arts. 50 a 52), em rol que não pode ser ampliado pelo Estado.
+A) Parece certa porque o direito penal é privativo da União (art. 22, I); erra porque o direito penitenciário é concorrente.
+B) Parece certa porque o Estado tem competência suplementar; erra porque ela não permite contrariar normas gerais federais.
+C) Parece certa porque a LEP delega parte da matéria; erra porque a delegação não alcança as faltas graves.
+E) Parece certa porque regulamentos internos existem; erra ao inverter a validade das duas partes da lei.
+@@fim
+
+@@q 95
+materia: Direito Administrativo
+subtema: 9.1 Princípios; LINDB aplicada ao Direito Administrativo
+correta: E
+>enunciado
+Em 2022, com base em parecer normativo da Procuradoria-Geral do Estado, então aplicado de forma reiterada, a Administração concedeu a um servidor adicional calculado segundo certo critério. Em 2025, novo parecer altera a interpretação da norma, e a Administração pretende anular o ato de 2022, sob o argumento de que, à luz do novo entendimento, ele seria ilegal. Não há indício de má-fé do servidor. À luz da LINDB, assinale a afirmativa correta.
+>A
+A anulação é obrigatória, pois a Administração deve anular seus atos ilegais a qualquer tempo, conforme a Súmula 473 do STF, sem margem para ponderações.
+>B
+A anulação é possível desde que feita em até 5 anos, sendo irrelevante a mudança de orientação, por força do princípio da legalidade estrita.
+>C
+O ato só pode ser revogado, por conveniência e oportunidade, com efeitos retroativos à data da concessão do adicional ao servidor.
+>D
+A situação só estaria protegida se o servidor tivesse obtido decisão judicial transitada em julgado reconhecendo o direito ao adicional.
+>E
+É vedado declarar inválida situação plenamente constituída com base em mudança posterior de orientação geral.
+>comentario
+Correta (E): o art. 24 da LINDB (Decreto-Lei 4.657/1942, com redação da Lei 13.655/2018) determina que a revisão da validade de ato cuja produção já se houver completado "levará em conta as orientações gerais da época, sendo vedado que, com base em mudança posterior de orientação geral, se declarem inválidas situações plenamente constituídas". O parágrafo único inclui entre as orientações gerais as interpretações contidas em atos públicos de caráter geral e a prática administrativa reiterada.
+A) Parece certa porque a Súmula 473 trata da autotutela; erra porque o poder de anular não é ilimitado no tempo e sofre as restrições da LINDB.
+B) Parece certa porque o prazo decadencial de 5 anos é regra conhecida; erra porque, mesmo dentro dele, a mudança de orientação não autoriza invalidar o ato.
+C) Parece certa porque a revogação também extingue atos; erra porque se aplica a atos discricionários, por mérito, e produz efeitos ex nunc.
+D) Parece certa porque a coisa julgada protege situações; erra porque a LINDB protege a situação independentemente de decisão judicial.
+@@fim
+
+@@q 96
+materia: Direito Administrativo
+subtema: 9.6 Licitações e contratos (Lei 14.133/2021)
+correta: D
+>enunciado
+A Polícia Civil precisa instalar uma delegacia em bairro específico da capital, e um único imóvel disponível atende às exigências de localização e estrutura definidas pelo estudo técnico preliminar. O gestor pretende alugá-lo mediante dispensa de licitação, invocando a regra que vigorava na Lei 8.666/1993 para a locação de imóveis. A assessoria jurídica é consultada. À luz da Lei 14.133/2021, assinale a afirmativa correta.
+>A
+A locação deve ser feita por dispensa de licitação, hipótese que a Lei 14.133/2021 manteve com a mesma redação e os mesmos requisitos da lei anterior.
+>B
+A locação exige concorrência, pois a Lei 14.133/2021 vedou a contratação direta para a aquisição ou a locação de imóveis pela Administração Pública, em qualquer esfera.
+>C
+A locação deve ser precedida de leilão, modalidade própria para a Administração contratar o uso de imóveis pertencentes a terceiros.
+>D
+É caso de inexigibilidade, condicionada a avaliação prévia, certificação de inexistência de imóvel público apto e justificativa da singularidade.
+>E
+A contratação direta dispensa qualquer justificativa ou avaliação, pois a inviabilidade de competição é presumida em se tratando de imóveis destinados a serviços públicos.
+>comentario
+Correta (D): o art. 74, V, da Lei 14.133/2021 prevê a inexigibilidade para "aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha", e o § 5º exige avaliação prévia do bem, certificação da inexistência de imóveis públicos vagos e disponíveis que atendam ao objeto e justificativas que demonstrem a singularidade do imóvel e a vantagem para a Administração.
+A) Parece certa porque a Lei 8.666/1993 (art. 24, X) tratava a hipótese como dispensa; erra porque a nova lei a deslocou para a inexigibilidade, com requisitos próprios.
+B) Parece certa porque a licitação é a regra; erra porque a lei prevê expressamente a contratação direta nessa hipótese.
+C) Parece certa porque o leilão envolve bens; erra porque se destina à alienação de bens, não à locação de imóveis de terceiros.
+E) Parece certa porque a inexigibilidade decorre da inviabilidade de competição; erra porque ela não é presumida e o § 5º impõe requisitos.
+@@fim
+
+@@q 97
+materia: Direito Administrativo
+subtema: 9.2 Administração indireta: empresas estatais e subsidiárias
+correta: C
+>enunciado
+O Estado controla a sociedade de economia mista Alfa S.A., que, por sua vez, controla a subsidiária Beta S.A., criada com base em autorização genérica contida na lei que autorizou a instituição de Alfa. O Governo pretende, primeiro, alienar o controle acionário de Beta e, depois, alienar o controle acionário de Alfa. Considerando a Constituição e a jurisprudência do STF, assinale a afirmativa correta.
+>A
+Ambas as alienações dispensam autorização legislativa e licitação, pois decorrem do simples poder de gestão exercido pelo acionista controlador sobre as companhias do grupo.
+>B
+Ambas exigem autorização legislativa específica e licitação, pois a subsidiária integra a Administração indireta nas mesmas condições da empresa-mãe e se submete ao mesmo regime.
+>C
+A venda do controle de Alfa exige lei autorizativa e licitação; a de Beta dispensa autorização legislativa e admite procedimento competitivo diverso da licitação.
+>D
+A criação de Beta dependeu de lei específica que a instituiu diretamente, como ocorre com as autarquias, sendo inválida a autorização genérica.
+>E
+Por ser sociedade de economia mista, Alfa pode adotar qualquer forma societária, e a alienação de seu controle dispensa licitação pública.
+>comentario
+Correta (C): no julgamento da ADI 5.624 (medida cautelar referendada em 2019), o STF fixou que a alienação do controle acionário de empresas públicas e sociedades de economia mista exige autorização legislativa e licitação, mas que a autorização legislativa não se aplica às subsidiárias e controladas, cuja alienação pode ser feita sem licitação, desde que observe procedimento que respeite os princípios do art. 37 da CF e a competitividade.
+A) Parece certa porque acerta a subsidiária; erra quanto à empresa-mãe, que exige autorização legislativa e licitação.
+B) Parece certa porque acerta a empresa-mãe; erra ao estender o regime às subsidiárias.
+D) Parece certa porque o art. 37, XX, da CF exige autorização legislativa para subsidiárias; erra porque o STF admite autorização genérica na lei da estatal (ADI 1.649), e estatais não são "criadas" por lei como autarquias.
+E) Parece certa porque empresas públicas podem adotar qualquer forma societária; erra porque a sociedade de economia mista deve ser sociedade anônima (Lei 13.303/2016, art. 5º) e a alienação do seu controle exige licitação.
+@@fim
+
+@@q 98
+materia: Direitos Humanos
+subtema: 10.1 Teoria geral: características e evolução dos direitos humanos
+correta: E
+>enunciado
+Em curso de formação policial, um palestrante afirma que os direitos civis e políticos seriam de aplicação imediata e prioritária, enquanto os direitos econômicos, sociais e culturais, por serem de "segunda geração", poderiam ser livremente sacrificados em nome da segurança pública, sem qualquer ônus argumentativo para o Estado. Um aluno contesta a afirmação com base na teoria geral dos direitos humanos. Assinale a afirmativa correta.
+>A
+A afirmação do palestrante está correta, pois a teoria das gerações de Karel Vasak estabelece hierarquia entre os direitos, com prevalência dos de primeira geração.
+>B
+A afirmação do palestrante está correta, uma vez que os direitos sociais não são considerados direitos humanos, mas apenas metas políticas sem exigibilidade.
+>C
+A afirmação é incorreta apenas porque os direitos de liberdade correspondem à terceira geração, e os de solidariedade, à primeira geração de direitos.
+>D
+A afirmação é incorreta porque os direitos humanos são relativos quanto à titularidade, cabendo ao Estado escolher quais pessoas podem titularizá-los.
+>E
+A afirmação contraria a indivisibilidade e a interdependência dos direitos humanos, reafirmadas em Viena (1993); a divisão em "gerações" é didática e não cria hierarquia.
+>comentario
+Correta (E): a Declaração e Programa de Ação de Viena (1993), § 5º, afirma que "todos os direitos humanos são universais, indivisíveis, interdependentes e inter-relacionados". A classificação em gerações (ou dimensões), associada a Karel Vasak, tem finalidade didática e não autoriza hierarquia entre direitos.
+A) Parece certa porque a teoria das gerações existe e distingue grupos de direitos; erra porque não estabelece prevalência entre eles.
+B) Parece certa porque a exigibilidade dos direitos sociais já foi debatida; erra porque eles são direitos humanos reconhecidos (PIDESC; CF, art. 6º).
+C) Parece certa porque critica a afirmação; erra ao inverter as gerações: liberdade é a primeira, e solidariedade, a terceira.
+D) Parece certa porque critica a afirmação; erra porque a universalidade impõe que todas as pessoas sejam titulares.
+@@fim
+
+@@q 99
+materia: Direitos Humanos
+subtema: 10.2 Sistemas de proteção e incorporação de tratados de direitos humanos
+correta: B
+>enunciado
+Em aula sobre a incorporação de tratados, o professor compara: (i) a Convenção Americana sobre Direitos Humanos, promulgada no Brasil em 1992; (ii) a Convenção sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, aprovados pelo Congresso Nacional na forma do art. 5º, § 3º, da Constituição; e (iii) a Convenção Interamericana contra o Racismo, a Discriminação Racial e Formas Correlatas de Intolerância, também aprovada nessa forma. Assinale a afirmativa correta.
+>A
+As três convenções têm hierarquia de lei ordinária, pois todo tratado internacional ingressa no ordenamento brasileiro com esse status, qualquer que seja o tema.
+>B
+A Convenção Americana tem status supralegal, pois não seguiu o rito do art. 5º, § 3º; as outras duas equivalem a emendas constitucionais.
+>C
+As três têm status constitucional, pois a EC 45/2004 conferiu esse nível automaticamente a todos os tratados de direitos humanos anteriores à emenda.
+>D
+A Convenção Americana equivale a emenda constitucional, por tratar de direitos humanos, enquanto as outras duas têm status supralegal.
+>E
+A aprovação pelo rito do art. 5º, § 3º, exige votação em sessão conjunta do Congresso Nacional, por maioria absoluta, em turno único.
+>comentario
+Correta (B): pelo art. 5º, § 3º, da CF, tratados de direitos humanos aprovados, em cada Casa do Congresso, em dois turnos, por três quintos dos votos equivalem a emendas constitucionais — caso das convenções (ii) e (iii). Os demais tratados de direitos humanos têm status supralegal (STF, RE 466.343; Súmula Vinculante 25).
+A) Parece certa porque é o status dos tratados comuns; erra porque tratados de direitos humanos têm status supralegal ou constitucional.
+C) Parece certa porque a EC 45/2004 criou o § 3º; erra porque não houve constitucionalização automática dos tratados anteriores.
+D) Parece certa porque a Convenção Americana é o principal tratado regional; erra ao inverter os status.
+E) Parece certa porque cita votação no Congresso; erra no rito: votação em cada Casa, em dois turnos, por três quintos.
+@@fim
+
+@@q 100
+materia: Direitos Humanos
+subtema: 10.7 Agenda 2030 e Objetivos de Desenvolvimento Sustentável
+correta: B
+>enunciado
+A Polícia Civil do Paraná lança dois programas: o primeiro amplia a emissão de documentos de identidade e o apoio ao registro civil de pessoas em situação de rua; o segundo fortalece o atendimento especializado a mulheres vítimas de violência doméstica e familiar. Um relatório institucional pretende vincular cada programa à meta mais específica da Agenda 2030 da ONU. Assinale a afirmativa correta.
+>A
+Ambos os programas se relacionam exclusivamente ao ODS 16, que concentra todas as metas da Agenda 2030 referentes a violência e a acesso à justiça.
+>B
+O primeiro relaciona-se à meta 16.9 (identidade legal para todos, incluindo o registro de nascimento), e o segundo, à meta 5.2 (eliminar a violência contra mulheres e meninas).
+>C
+O primeiro relaciona-se ao ODS 1 (erradicação da pobreza), e o segundo, ao ODS 10 (redução das desigualdades), únicos objetivos que tratam de grupos vulneráveis.
+>D
+A Agenda 2030 é tratado internacional vinculante, e o descumprimento de suas metas sujeita o Brasil a sanções aplicadas pela Corte Interamericana de Direitos Humanos.
+>E
+A Agenda 2030 tem 8 objetivos e 21 metas, que substituíram os Objetivos de Desenvolvimento Sustentável aprovados em 2000 pela Assembleia Geral da ONU.
+>comentario
+Correta (B): a meta 16.9 prevê "até 2030, fornecer identidade legal para todos, incluindo o registro de nascimento"; a meta 5.2, "eliminar todas as formas de violência contra todas as mulheres e meninas nas esferas públicas e privadas, incluindo o tráfico e exploração sexual e de outros tipos".
+A) Parece certa porque o ODS 16 trata de paz, justiça e redução da violência; erra porque a violência contra mulheres tem meta específica no ODS 5.
+C) Parece certa porque os programas atendem grupos vulneráveis; erra porque esses ODS não são os únicos a tratar do tema, nem os mais específicos.
+D) Parece certa porque a Agenda foi adotada pela ONU; erra porque é compromisso político (soft law), sem sanção pela Corte IDH.
+E) Parece certa porque cita números de agendas da ONU; erra porque a Agenda 2030 tem 17 ODS e 169 metas e sucedeu os 8 Objetivos de Desenvolvimento do Milênio (2000).
+@@fim

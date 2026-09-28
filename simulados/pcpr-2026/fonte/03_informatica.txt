@@ -1,0 +1,623 @@
+@@q 36
+materia: Tecnologia (Informática)
+subtema: 1.1 Fundamentos: BIOS, UEFI, armazenamento
+correta: A
+>enunciado
+O setor de TI de uma delegacia recebeu uma estação de trabalho antiga, com firmware configurado em modo de compatibilidade com BIOS legado (CSM) e um disco de 4 TB particionado no esquema MBR. O técnico precisa instalar o Windows 11 nesse disco, utilizando toda a sua capacidade, e atender aos requisitos de segurança exigidos pelo sistema. Considerando os conceitos de firmware e de particionamento, assinale a afirmativa correta.
+>A
+Para usar os 4 TB como disco de sistema, deve-se adotar GPT com firmware em modo UEFI, pois o MBR endereça cerca de 2 TB; o UEFI também viabiliza a Inicialização Segura exigida pelo Windows 11.
+>B
+O MBR admite até 128 partições primárias e discos de dimensões praticamente ilimitadas, ao passo que o GPT, por ser mais antigo, é limitado a quatro partições primárias e a discos de até 2 TB de capacidade.
+>C
+A Inicialização Segura (Secure Boot) é recurso do BIOS legado que impede a execução de qualquer sistema operacional que não seja o Windows, razão pela qual deve ser desativada antes da instalação.
+>D
+A conversão de MBR para GPT pode ser concluída apenas com a atualização dos drivers do Windows, sem qualquer alteração no modo de inicialização do firmware e sem riscos para a instalação existente.
+>E
+O TPM 2.0 é um tipo especial de partição do disco que armazena as senhas do firmware e substitui a Inicialização Segura, podendo ser criado pelo próprio instalador do Windows 11 em discos MBR.
+>comentario
+Correta (A): com setores de 512 bytes, o MBR usa endereços de 32 bits e alcança cerca de 2 TiB; o GPT supera esse limite. O Windows 11 exige firmware UEFI compatível com Inicialização Segura, e a inicialização por UEFI é feita a partir de disco GPT.
+B) Parece certa porque cita números reais (128 partições; limite de 2 TB); erra porque inverte os esquemas: esses números descrevem, respectivamente, o GPT (128 partições no Windows) e o MBR (4 primárias, ~2 TB).
+C) Parece certa porque a Inicialização Segura restringe o que pode ser carregado; erra porque é recurso do UEFI, que verifica assinaturas digitais do carregador, e admite outros sistemas assinados.
+D) Parece certa porque existem ferramentas de conversão; erra porque o particionamento não depende de drivers, e a inicialização em GPT exige o firmware em modo UEFI.
+E) Parece certa porque o TPM 2.0 também é requisito do Windows 11; erra porque o TPM é um chip (ou módulo de firmware) criptográfico, não uma partição, e não substitui a Inicialização Segura.
+@@fim
+
+@@q 37
+materia: Tecnologia (Informática)
+subtema: 1.2 Aplicativos: planilhas eletrônicas
+correta: C
+>enunciado
+Em uma planilha do Excel (Microsoft 365, em português), um analista registra, nas células B2 a B9, o número de ocorrências de cada delegacia de uma regional e, em B10, o total. Na célula C2, digita a fórmula =B2/B$10, para obter a participação da primeira delegacia no total. Por engano, em vez de estender a fórmula para C3:C9, ele copia a célula C2 e a cola na célula D5. O mesmo comportamento ocorreria no LibreOffice Calc. A fórmula que passa a constar em D5 é
+>A
+=B5/B$10
+>B
+=C5/C$13
+>C
+=C5/C$10
+>D
+=B5/C$10
+>E
+=C5/B$10
+>comentario
+Correta (C): ao colar de C2 em D5, o deslocamento é de +1 coluna e +3 linhas. "B2" (relativa) vira "C5". Em "B$10", a coluna é relativa (B → C) e a linha é absoluta (10 permanece): "C$10".
+A) Parece certa porque o cifrão sugere trava; erra porque não ajusta a coluna, e a coluna de ambas as referências é relativa.
+B) Parece certa porque ajusta as colunas; erra porque desloca a linha 10, que está travada pelo cifrão.
+D) Parece certa porque acerta o denominador; erra porque não desloca a coluna do numerador (B5 em vez de C5).
+E) Parece certa porque acerta o numerador; erra porque mantém a coluna B no denominador, como se ela estivesse travada ($B$10).
+@@fim
+
+@@q 38
+materia: Tecnologia (Informática)
+subtema: 1.3 Internet e redes: DNS e correio eletrônico
+correta: B
+>enunciado
+Servidores de uma prefeitura receberam e-mails que exibiam, no campo "De", o endereço institucional da própria prefeitura, mas continham links para páginas falsas. Na investigação, verificou-se que o domínio legítimo publica, no DNS, um registro que relaciona os servidores autorizados a enviar mensagens em seu nome, e que os servidores de recebimento consultam esse registro. Sobre o recurso descrito e seu alcance, assinale a afirmativa correta.
+>A
+Trata-se de registro MX, que informa quais servidores podem enviar mensagens em nome do domínio e, por isso, bloqueia qualquer e-mail que exiba o domínio no campo "De" sem autorização.
+>B
+Trata-se de registro TXT com política SPF, que confere se o IP de quem entregou a mensagem consta da lista do domínio do envelope, sem autenticar, sozinho, o campo "De".
+>C
+Trata-se de registro CNAME, que associa o nome do domínio ao endereço IPv6 do servidor de e-mail, garantindo a integridade do conteúdo e a identidade do remetente das mensagens.
+>D
+Trata-se de registro PTR, que, isoladamente, assegura a autenticidade do remetente exibido no campo "De", dispensando outros mecanismos de verificação.
+>E
+Trata-se de registro AAAA, no qual o domínio armazena a assinatura digital DKIM de cada mensagem enviada, conferida pelo servidor de destino.
+>comentario
+Correta (B): o SPF é publicado em registro TXT e permite ao receptor verificar se o IP que entregou a mensagem está autorizado pelo domínio do remetente de envelope (Return-Path/MAIL FROM). A coerência com o campo "De" visível depende de mecanismos complementares, como o DMARC.
+A) Parece certa porque o MX é o registro associado a e-mail; erra porque indica os servidores que recebem mensagens para o domínio, e não os autorizados a enviar.
+C) Parece certa porque o CNAME é registro comum; erra porque é apenas um apelido (alias) para outro nome, e o endereço IPv6 fica no registro AAAA.
+D) Parece certa porque o PTR (DNS reverso) é usado por filtros antispam; erra porque não autentica, sozinho, o remetente exibido.
+E) Parece certa porque o DKIM usa assinatura; erra porque a chave pública DKIM é publicada em registro TXT, e o AAAA guarda endereços IPv6.
+@@fim
+
+@@q 39
+materia: Tecnologia (Informática)
+subtema: 1.4 Segurança da informação: criptografia e certificados digitais
+correta: D
+>enunciado
+Um delegado envia ao Ministério Público, por e-mail comum, um relatório em PDF assinado digitalmente com seu certificado ICP-Brasil. O arquivo não foi cifrado. Durante uma manutenção, um técnico do provedor de e-mail consegue abrir e ler o anexo, mas não o altera. Considerando os princípios de segurança da informação e o funcionamento da criptografia assimétrica, assinale a afirmativa correta.
+>A
+A assinatura foi gerada com a chave pública do delegado, e a verificação pelo destinatário exige a chave privada do próprio Ministério Público, o que impediria a leitura por terceiros.
+>B
+Como o arquivo foi assinado, qualquer alteração posterior é automaticamente desfeita pelo leitor de PDF, que restaura a versão original a partir dos dados guardados no certificado do signatário.
+>C
+Para garantir o sigilo, o delegado deveria ter cifrado o arquivo com a sua própria chave privada, de modo que apenas o destinatário pudesse decifrá-lo.
+>D
+A assinatura, gerada com a chave privada do delegado, permite verificar autoria e integridade, mas não impede a leitura por terceiros, pois não garante confidencialidade.
+>E
+A assinatura digital garante confidencialidade, integridade e disponibilidade, compondo sozinha a tríade clássica da segurança da informação.
+>comentario
+Correta (D): a assinatura digital é produzida com a chave privada do signatário e verificada com sua chave pública; assegura autenticidade, integridade e não repúdio, mas não confidencialidade. Para sigilo, seria preciso cifrar o arquivo com a chave pública do destinatário (ou canal cifrado).
+A) Parece certa porque envolve o par de chaves; erra porque inverte seu uso: assina-se com a chave privada e verifica-se com a pública do signatário.
+B) Parece certa porque a assinatura se relaciona à integridade; erra porque ela apenas permite detectar a alteração (a assinatura deixa de ser válida), sem desfazê-la.
+C) Parece certa porque associa cifragem a sigilo; erra porque o que é cifrado com a chave privada do remetente pode ser decifrado por qualquer um com a chave pública dele.
+E) Parece certa porque cita os pilares da segurança; erra porque a assinatura não provê confidencialidade nem disponibilidade.
+@@fim
+
+@@q 40
+materia: Tecnologia (Informática)
+subtema: 1.5 Investigação digital: coleta e preservação de evidências
+correta: C
+>enunciado
+Em cumprimento de mandado de busca e apreensão, a equipe encontra, na residência do investigado, um notebook ligado e desbloqueado, com um volume criptografado montado e um aplicativo de mensagens aberto. Há perito disponível no local e equipamento adequado para a coleta. Considerando as boas práticas de coleta e preservação de evidências digitais e a ordem de volatilidade, assinale a providência mais adequada.
+>A
+Desligar imediatamente o notebook pelo botão de energia, pois a ordem de volatilidade recomenda preservar primeiro os dados do disco rígido, que são os mais sensíveis a alterações.
+>B
+Copiar os arquivos de interesse para um pendrive do próprio investigado encontrado no local, evitando conectar ao equipamento quaisquer dispositivos externos levados pela equipe.
+>C
+Priorizar a coleta dos dados voláteis, como a memória RAM, antes de desligar o equipamento, documentando cada ação, pois o desligamento pode tornar o volume inacessível.
+>D
+Reiniciar o equipamento para encerrar processos potencialmente maliciosos e, só então, iniciar a coleta, garantindo que o sistema esteja em estado limpo.
+>E
+Navegar livremente pelas pastas e abrir os arquivos para selecionar o que interessa, já que o volume está montado e a simples consulta não deixa vestígios no sistema nem altera metadados.
+>comentario
+Correta (C): a ordem de volatilidade manda coletar primeiro o que se perde mais facilmente (memória, processos, conexões). Com o volume montado, chaves e conteúdo decifrado podem estar na RAM; desligar pode tornar os dados inacessíveis. Cada ação deve ser registrada para a cadeia de custódia.
+A) Parece certa porque desligar evita alterações posteriores no disco; erra porque inverte a ordem de volatilidade: o disco é menos volátil que a RAM.
+B) Parece certa porque evita introduzir mídia externa; erra porque a mídia do investigado não tem integridade conhecida e a cópia seletiva não preserva a evidência adequadamente.
+D) Parece certa porque busca "limpar" o ambiente; erra porque a reinicialização apaga a memória e pode fechar o volume cifrado.
+E) Parece certa porque o acesso está livre; erra porque a navegação altera metadados (datas de acesso, registros do sistema) e compromete a integridade da prova.
+@@fim
+
+@@q 41
+materia: Tecnologia (Informática)
+subtema: 1.6 Legislação digital: Marco Civil da Internet (Lei 12.965/2014)
+correta: B
+>enunciado
+Investigando ameaças enviadas por meio de uma rede social, o delegado identifica o perfil suspeito e teme que os registros de acesso a aplicação correspondentes sejam descartados pelo provedor antes que obtenha a ordem judicial, cujo pedido ainda está sendo elaborado. Não se trata de pedido de dados cadastrais. À luz do Marco Civil da Internet, assinale a afirmativa correta.
+>A
+O provedor de aplicação deve guardar os registros de acesso por 1 ano, e o delegado pode requisitá-los diretamente, sem ordem judicial, por se tratar de informação de natureza cadastral.
+>B
+O delegado pode requerer ao provedor a guarda cautelar dos registros, até além do prazo legal, e tem 60 dias para pedir ao juiz a autorização de acesso, sem a qual não os recebe.
+>C
+Somente o Ministério Público pode requerer ao provedor a guarda cautelar dos registros; ao delegado resta apenas representar ao juiz, em caráter de urgência, pela preservação dos dados.
+>D
+O prazo legal de guarda dos registros de acesso a aplicações de internet é de 5 anos, o que torna desnecessário qualquer requerimento cautelar de preservação.
+>E
+Uma vez feito o requerimento de guarda, ele permanece eficaz por tempo indeterminado, ainda que o pedido judicial de acesso nunca venha a ser protocolado.
+>comentario
+Correta (B): o art. 15, § 2º, da Lei 12.965/2014 permite à autoridade policial requerer cautelarmente a guarda dos registros de acesso a aplicações, inclusive por prazo superior aos 6 meses do caput, observados os §§ 3º e 4º do art. 13 (60 dias para pedir a autorização judicial; perda de eficácia se não protocolado). O § 3º do art. 15 exige autorização judicial para a disponibilização.
+A) Parece certa porque 1 ano é prazo previsto no Marco Civil; erra porque esse é o prazo dos registros de conexão (art. 13), o de aplicação é de 6 meses (art. 15), e registros de acesso não são dados cadastrais.
+C) Parece certa porque o MP também pode requerer; erra porque a lei confere a legitimidade igualmente à autoridade policial ou administrativa.
+D) Parece certa porque prazos de 5 anos são comuns na guarda de documentos fiscais e administrativos; erra porque o prazo do art. 15 é de 6 meses.
+E) Parece certa porque o requerimento produz efeitos imediatos; erra porque perde a eficácia se o pedido judicial não for protocolado no prazo (art. 13, § 4º).
+@@fim
+
+@@q 42
+materia: Tecnologia (Informática)
+subtema: 1.1 Fundamentos: backup
+correta: C
+>enunciado
+O servidor de arquivos de uma delegacia segue a seguinte rotina: backup completo aos domingos, às 22h, e backups incrementais de segunda a sexta-feira, também às 22h. Na quinta-feira, às 9h, antes da execução do backup daquele dia, o disco do servidor falha e todos os dados precisam ser restaurados na situação mais recente possível. Para essa restauração, devem ser utilizados
+>A
+apenas o backup incremental de quarta-feira, que reúne todas as alterações realizadas desde o backup completo de domingo.
+>B
+o backup completo de domingo e apenas o incremental de quarta-feira, que já contém as alterações de segunda e de terça-feira.
+>C
+o backup completo de domingo e os incrementais de segunda, terça e quarta-feira, aplicados nessa ordem.
+>D
+os incrementais de segunda, terça e quarta-feira, dispensando o completo, pois cada incremental copia todos os arquivos do servidor.
+>E
+o backup completo de domingo e os incrementais de quarta, terça e segunda, aplicados nessa ordem para preservar os mais recentes.
+>comentario
+Correta (C): o incremental copia apenas o que mudou desde o último backup (completo ou incremental). A restauração exige o último completo e todos os incrementais posteriores, em ordem cronológica.
+A) Parece certa porque descreve o backup diferencial; erra porque o incremental de quarta contém só as alterações de quarta.
+B) Parece certa porque seria a solução se a rotina fosse diferencial; erra porque, com incrementais, faltariam as alterações de segunda e terça.
+D) Parece certa porque os incrementais são necessários; erra porque eles não copiam todos os arquivos, e sem o completo não há base.
+E) Parece certa porque usa os mesmos backups; erra porque a ordem inversa faria versões antigas sobrescreverem as mais recentes.
+@@fim
+
+@@q 43
+materia: Tecnologia (Informática)
+subtema: 1.2 Aplicativos: Microsoft 365 (Word)
+correta: A
+>enunciado
+Antes de encaminhar a um órgão externo um relatório editado por vários agentes no Word (Microsoft 365), ao longo de várias rodadas de revisão, o escrivão quer garantir que o arquivo não contenha comentários, revisões controladas não resolvidas, nome dos autores nem outras propriedades e informações pessoais. Ele deseja manter o formato editável .docx. Para esse fim, o procedimento mais adequado é
+>A
+usar o recurso Inspecionar Documento (em Arquivo > Informações > Verificar Problemas), que localiza e remove comentários, revisões e propriedades.
+>B
+salvar o arquivo como PDF, pois a conversão elimina automaticamente todos os metadados, as propriedades e o histórico de revisões do documento original.
+>C
+alternar a exibição para "Sem Marcação", opção que exclui definitivamente do arquivo os comentários e as revisões controladas ainda pendentes.
+>D
+aplicar "Restringir Edição", que apaga os comentários existentes e remove o nome dos autores das propriedades do arquivo antes do envio.
+>E
+renomear o arquivo, trocando a extensão .docx por .doc, procedimento que remove as propriedades e descarta as revisões registradas.
+>comentario
+Correta (A): o Inspetor de Documento procura e remove comentários, revisões, propriedades do documento e informações pessoais, e o Word adverte que alguns dados removidos não podem ser restaurados com "Desfazer".
+B) Parece certa porque o PDF não traz as marcas de revisão visíveis; erra porque a exportação pode incluir propriedades do documento (opção marcada por padrão) e, além disso, o escrivão quer manter o .docx.
+C) Parece certa porque as marcas somem da tela; erra porque "Sem Marcação" apenas oculta as marcações, que continuam no arquivo.
+D) Parece certa porque é recurso de proteção; erra porque restringe o que outros podem editar, sem apagar comentários nem metadados.
+E) Parece certa porque altera o arquivo; erra porque trocar a extensão não converte o formato nem remove dados (e pode corromper a abertura).
+@@fim
+
+@@q 44
+materia: Tecnologia (Informática)
+subtema: 1.3 Navegadores: cookies, cache e navegação privada
+correta: D
+>enunciado
+No computador da repartição, um servidor abre uma janela InPrivate do Microsoft Edge (equivalente à janela anônima do Chrome), acessa seu e-mail pessoal e baixa um arquivo para a pasta Downloads. Ele acredita que, ao fechar a janela, nenhum registro de sua atividade permanecerá em lugar algum. Sobre o funcionamento da navegação privada, de cookies e de cache, assinale a afirmativa correta.
+>A
+A navegação privada oculta o endereço IP do usuário perante os sites acessados, funcionando, na prática, como uma VPN integrada ao navegador.
+>B
+Os cookies criados durante a sessão privada são mantidos após o fechamento da janela, para facilitar a autenticação no próximo acesso ao mesmo site.
+>C
+Os arquivos baixados durante a sessão privada são excluídos automaticamente do disco quando a última janela privada é fechada.
+>D
+Ao fechar a janela, histórico e cookies da sessão são descartados, mas o arquivo baixado permanece, e o tráfego pode ser registrado pela rede.
+>E
+O cache armazena os cookies de autenticação, enquanto os cookies guardam cópias de imagens e scripts para acelerar o carregamento das páginas.
+>comentario
+Correta (D): a navegação privada evita que o navegador guarde, no dispositivo, histórico, cookies e dados de formulário da sessão; não apaga downloads nem impede registros externos (firewall/proxy da repartição, provedor, sites acessados).
+A) Parece certa porque o modo é chamado de "anônimo"; erra porque não altera o IP nem cifra o tráfego como uma VPN.
+B) Parece certa porque os cookies funcionam normalmente durante a sessão; erra porque são descartados ao fechar a janela privada.
+C) Parece certa porque o modo privado "limpa" dados; erra porque arquivos baixados permanecem no disco.
+E) Parece certa porque cache e cookies armazenam dados locais; erra porque inverte as funções: cookies guardam pequenos dados do site (sessão, preferências); o cache guarda cópias de recursos.
+@@fim
+
+@@q 45
+materia: Tecnologia (Informática)
+subtema: 1.4 Segurança: controle de acesso e autenticação
+correta: C
+>enunciado
+Para reforçar o acesso a um sistema de consultas sigilosas, a Polícia Civil avalia três propostas. Proposta I: senha pessoal e um PIN de seis dígitos memorizado pelo usuário. Proposta II: senha pessoal e código temporário gerado por aplicativo autenticador instalado no celular funcional. Proposta III: crachá com chip criptográfico e leitura da impressão digital. Considerando os fatores de autenticação, assinale a afirmativa correta.
+>A
+Apenas a proposta I configura autenticação multifator, pois exige dois segredos distintos, o que dobra a segurança do acesso.
+>B
+Apenas a proposta III configura autenticação multifator, porque somente a biometria é admitida como fator de autenticação forte em sistemas sigilosos.
+>C
+Somente as propostas II e III são multifator, pois combinam fatores de categorias distintas; a I reúne dois elementos da mesma categoria.
+>D
+As três propostas configuram autenticação multifator, pois todas exigem que o usuário cumpra duas etapas sucessivas de verificação antes de acessar o sistema.
+>E
+Apenas a proposta II configura autenticação multifator; a III é de fator único, pois crachá e digital se enquadram em "algo que o usuário é".
+>comentario
+Correta (C): autenticação multifator combina categorias diferentes — algo que o usuário sabe (senha, PIN), algo que possui (celular com autenticador, crachá com chip) e algo que é (biometria). II combina saber + possuir; III, possuir + ser; I usa dois elementos de "saber".
+A) Parece certa porque há dois segredos; erra porque ambos pertencem à mesma categoria (conhecimento).
+B) Parece certa porque a biometria é fator forte; erra porque o aplicativo autenticador (posse) também é fator, e II é multifator.
+D) Parece certa porque todas têm duas etapas; erra porque duas etapas não significam dois fatores.
+E) Parece certa porque a biometria é "algo que o usuário é"; erra porque o crachá é "algo que o usuário possui".
+@@fim
+
+@@q 46
+materia: Tecnologia (Informática)
+subtema: 1.5 Investigação digital: apreensão de dispositivos móveis
+correta: C
+>enunciado
+Na lavratura de um flagrante, a equipe apreende o celular do autuado, que está ligado e bloqueado por senha. Sabe-se que o aparelho já havia sido desbloqueado ao menos uma vez depois de ligado, e há informação de que comparsas podem acionar o apagamento remoto dos dados. A extração será feita posteriormente, com autorização judicial, em laboratório. Assinale a conduta mais adequada para preservar a evidência.
+>A
+Desligar imediatamente o aparelho, pois o desligamento preserva integralmente a memória e impede o apagamento remoto, sem qualquer prejuízo para a futura extração.
+>B
+Manter o aparelho conectado à rede móvel, para que o fabricante registre sua localização, o que dispensa o isolamento e garante a integridade dos dados.
+>C
+Isolar o aparelho das redes (bolsa de Faraday, por exemplo) e mantê-lo energizado, pois desligá-lo o levaria ao estado anterior ao primeiro desbloqueio.
+>D
+Tentar desbloquear o aparelho com combinações usuais de senha, já que as tentativas malsucedidas não produzem efeitos sobre os dados armazenados.
+>E
+Exigir que o autuado informe a senha de desbloqueio, pois a recusa configura crime de desobediência e autoriza o acesso imediato ao conteúdo.
+>comentario
+Correta (C): isolar da rede impede comandos remotos; manter a energia preserva o estado posterior ao primeiro desbloqueio (AFU), em que parte das chaves de criptografia está carregada. Desligado, o aparelho volta ao estado BFU, com mais dados cifrados e extração mais difícil.
+A) Parece certa porque desligar impede comunicação com a rede; erra porque leva o aparelho ao estado BFU, prejudicando a extração.
+B) Parece certa porque a localização pode ser útil; erra porque a conexão mantém o risco de apagamento remoto.
+D) Parece certa porque busca acesso rápido; erra porque tentativas erradas podem bloquear o aparelho ou acionar o apagamento automático, além de alterar o estado do dispositivo sem autorização.
+E) Parece certa porque a senha facilitaria a extração; erra porque ninguém é obrigado a produzir prova contra si, e a recusa não configura desobediência.
+@@fim
+
+@@q 47
+materia: Tecnologia (Informática)
+subtema: 1.6 Legislação digital: Lei 14.155/2021 e art. 154-A do CP
+correta: A
+>enunciado
+Durante uma confraternização, Túlio pega, sem que ela perceba, o celular de uso pessoal de uma colega, que estava desbloqueado e sem qualquer senha configurada, e, sem autorização dela, transfere para o próprio aparelho fotografias íntimas armazenadas no dispositivo. As imagens não são divulgadas. A vítima procura a delegacia no dia seguinte. Considerando a redação atual do Código Penal, assinale a afirmativa correta.
+>A
+A conduta amolda-se, em tese, ao art. 154-A do CP, que, desde a Lei 14.155/2021, dispensa a violação de mecanismo de segurança.
+>B
+A conduta é atípica, porque o art. 154-A do CP exige que o agente viole senha ou outro mecanismo de segurança do dispositivo, o que não ocorreu no caso.
+>C
+A conduta caracteriza apenas furto (art. 155 do CP), uma vez que houve subtração de coisa alheia móvel representada pelos arquivos transferidos.
+>D
+O crime do art. 154-A do CP somente se configura se o dispositivo invadido estiver conectado à internet no momento da conduta do agente.
+>E
+A ação penal é pública incondicionada, porque o crime envolve conteúdo íntimo da vítima, afastando-se a exigência de representação.
+>comentario
+Correta (A): a Lei 14.155/2021 deu nova redação ao art. 154-A: "Invadir dispositivo informático de uso alheio, conectado ou não à rede de computadores, com o fim de obter, adulterar ou destruir dados ou informações sem autorização expressa ou tácita do usuário do dispositivo [...]" — suprimindo a exigência de "violação indevida de mecanismo de segurança". Pena: reclusão, de 1 a 4 anos, e multa.
+B) Parece certa porque reproduz a redação original da Lei 12.737/2012; erra porque esse elemento foi suprimido em 2021.
+C) Parece certa porque houve apropriação de conteúdo; erra porque dados copiados não são subtraídos como coisa móvel (a vítima não perdeu a posse), e há tipo específico.
+D) Parece certa porque o tema é informático; erra porque o tipo diz expressamente "conectado ou não à rede de computadores".
+E) Parece certa porque o conteúdo é sensível; erra porque, pelo art. 154-B, a ação é pública condicionada à representação, salvo crime contra a administração pública ou concessionárias de serviços públicos.
+@@fim
+
+@@q 48
+materia: Tecnologia (Informática)
+subtema: 1.1 Fundamentos: armazenamento de dados e recuperação
+correta: E
+>enunciado
+A perícia examina dois computadores apreendidos com o mesmo investigado: um com disco rígido mecânico (HD) e outro com unidade de estado sólido (SSD) SATA, com o comando TRIM habilitado no sistema operacional. Nos dois equipamentos, o investigado apagou arquivos e esvaziou a Lixeira há três semanas, continuando a usá-los normalmente depois disso. Sobre as chances de recuperação dos arquivos apagados, assinale a afirmativa correta.
+>A
+Nos dois equipamentos, o esvaziamento da Lixeira sobrescreve imediatamente os setores com zeros, tornando impossível qualquer recuperação.
+>B
+No SSD, os arquivos apagados são mais facilmente recuperados, pois a memória flash não admite sobrescrita e mantém todas as versões gravadas.
+>C
+O TRIM é recurso exclusivo dos HDs mecânicos, usado para realinhar a cabeça de leitura após exclusões, sem efeito sobre a recuperação de dados.
+>D
+No HD, a exclusão remove fisicamente o conteúdo da superfície magnética, restando apenas a entrada no índice do sistema de arquivos.
+>E
+No SSD, o TRIM leva o controlador a apagar os blocos liberados; no HD, os dados excluídos permanecem até serem sobrescritos.
+>comentario
+Correta (E): com o TRIM, o sistema avisa o SSD de que os blocos não estão mais em uso, e o controlador os apaga para reutilização (garbage collection), reduzindo muito a chance de recuperação. No HD, excluir apenas marca o espaço como livre; o conteúdo persiste até ser sobrescrito.
+A) Parece certa porque o arquivo some para o usuário; erra porque esvaziar a Lixeira não grava zeros sobre os dados.
+B) Parece certa porque a flash de fato não sobrescreve no mesmo lugar sem apagar o bloco; erra na conclusão: o apagamento de blocos pelo controlador dificulta a recuperação.
+C) Parece certa porque o nome sugere "ajuste"; erra porque o TRIM é comando próprio de SSDs.
+D) Parece certa porque descreve um "apagamento"; erra porque inverte o processo: no HD, remove-se a referência no sistema de arquivos, e o conteúdo permanece.
+@@fim
+
+@@q 49
+materia: Tecnologia (Informática)
+subtema: 1.2 Sistemas operacionais: Windows 11
+correta: E
+>enunciado
+Ao redigir um relatório no Windows 11, um agente copia sucessivamente trechos de vários documentos e percebe que, ao pressionar Ctrl + V, somente o último trecho copiado é colado. Um colega sugere o uso do atalho Windows + V. O agente, preocupado com o sigilo, também quer saber o que acontece com os trechos copiados quando o computador é reiniciado. Assinale a afirmativa correta.
+>A
+Windows + V cola automaticamente, em sequência, todos os trechos copiados desde o início da sessão no documento que estiver aberto.
+>B
+O histórico da área de transferência é sempre sincronizado com a nuvem, sem possibilidade de desativação, o que impede seu uso institucional.
+>C
+Ctrl + Shift + V abre o histórico da área de transferência, enquanto Windows + V abre o Gerenciador de Tarefas do sistema.
+>D
+O histórico guarda, sem limite, todos os itens copiados desde a instalação do sistema, inclusive após sucessivas reinicializações.
+>E
+Windows + V abre o histórico da área de transferência, que precisa estar ativado; itens fixados permanecem após reiniciar, e os demais são descartados.
+>comentario
+Correta (E): o histórico da área de transferência (Windows + V) deve ser ativado nas configurações; ao reiniciar, é limpo, exceto os itens fixados. A sincronização entre dispositivos é opcional.
+A) Parece certa porque o atalho dá acesso a vários itens; erra porque o usuário escolhe o item a colar.
+B) Parece certa porque existe sincronização com a conta; erra porque ela é opcional e pode ser desativada.
+C) Parece certa porque ambos são atalhos reais em alguns aplicativos; erra porque o Gerenciador de Tarefas é aberto por Ctrl + Shift + Esc, e o histórico, por Windows + V.
+D) Parece certa porque o recurso se chama "histórico"; erra porque o histórico tem limite de itens e é limpo ao reiniciar, salvo os fixados.
+@@fim
+
+@@q 50
+materia: Tecnologia (Informática)
+subtema: 1.3 Noções de bancos de dados (SQL)
+correta: A
+>enunciado
+A tabela ocorrencias, de um sistema de análise criminal, contém os registros: (1, Centro, furto, 500); (2, Centro, roubo, 1200); (3, Batel, furto, 300); (4, Centro, furto, 800); (5, Batel, roubo, 2000); (6, Rebouças, furto, 150); (7, Batel, furto, 700); (8, Rebouças, roubo, 900); (9, Água Verde, furto, 400), nas colunas id, bairro, tipo e valor. O analista executa:
+
+```sql
+SELECT bairro, COUNT(*) AS qtd
+FROM ocorrencias
+WHERE tipo = 'furto'
+GROUP BY bairro
+HAVING SUM(valor) > 600;
+```
+
+O resultado da consulta é
+>A
+Batel (2) e Centro (2).
+>B
+Batel (3) e Centro (3).
+>C
+Batel (2), Centro (2) e Rebouças (1).
+>D
+Batel (1000) e Centro (1300).
+>E
+Batel (3), Centro (3) e Rebouças (2).
+>comentario
+Correta (A): o WHERE filtra linhas antes do agrupamento (só furtos). Somas por bairro: Centro 1.300 (2 registros), Batel 1.000 (2), Rebouças 150 (1), Água Verde 400 (1). O HAVING mantém grupos com soma > 600: Centro e Batel, com contagem 2 cada.
+B) Parece certa porque Centro e Batel são os bairros certos; erra porque conta também os roubos, como se não houvesse WHERE.
+C) Parece certa porque acerta as contagens; erra porque Rebouças soma apenas 150 em furtos (a soma 1.050 incluiria o roubo).
+D) Parece certa porque os números são as somas corretas; erra porque a consulta exibe COUNT(*), e não SUM(valor).
+E) Parece certa porque o HAVING seria satisfeito com todos os tipos; erra porque ignora o WHERE, que restringe a furtos.
+@@fim
+
+@@q 51
+materia: Tecnologia (Informática)
+subtema: 1.4 Segurança: phishing, engenharia social e ataques
+correta: A
+>enunciado
+Vários servidores de uma regional relatam que, ao digitar corretamente, na barra de endereços, o endereço do banco em que recebem os salários, foram levados a uma página visualmente idêntica à original, na qual informaram usuário e senha. Nenhum deles clicou em link recebido por e-mail ou mensagem. A equipe técnica constatou que o servidor DNS utilizado pela rede local havia sido adulterado. O ataque descrito é denominado
+>A
+pharming, em que a resolução de nomes é manipulada para desviar o usuário a um site falso mesmo quando ele digita o endereço legítimo.
+>B
+spear phishing, em que a vítima é induzida a clicar em link fraudulento enviado em mensagem personalizada, dirigida especificamente a ela.
+>C
+negação de serviço distribuída (DDoS), que torna o site do banco indisponível e, em seguida, o substitui automaticamente por uma cópia falsa.
+>D
+vishing, golpe em que o criminoso se vale de ligações telefônicas ou mensagens de voz para convencer a vítima a revelar suas senhas.
+>E
+ransomware, pois o servidor DNS foi sequestrado, e o acesso ao site legítimo só será restabelecido mediante o pagamento de resgate.
+>comentario
+Correta (A): no pharming, o atacante adultera a resolução de nomes (servidor DNS, cache ou arquivo hosts), e o endereço correto passa a apontar para um servidor fraudulento.
+B) Parece certa porque o objetivo (roubar credenciais) é o mesmo do phishing; erra porque não houve link em mensagem.
+C) Parece certa porque o site original deixou de ser acessado; erra porque DDoS busca indisponibilidade, não redirecionamento.
+D) Parece certa porque também é engenharia social para obter senhas; erra porque não houve ligação telefônica.
+E) Parece certa porque há "sequestro" de um serviço; erra porque não houve cifragem de dados nem exigência de resgate.
+@@fim
+
+@@q 52
+materia: Tecnologia (Informática)
+subtema: 1.5 Rastreamento e recuperação de informações; evidências eletrônicas
+correta: E
+>enunciado
+Investigando um perfil falso, a equipe obtém do provedor de aplicação, por ordem judicial, o endereço IP público usado em um acesso ocorrido em 12/03, às 14h05min32s, horário registrado em UTC. Ao requisitar, também com ordem judicial, a identificação do assinante ao provedor de conexão, recebe a informação de que aquele IP é compartilhado simultaneamente por centenas de clientes, por meio de CGNAT. Assinale a afirmativa correta.
+>A
+Basta o endereço IP para identificar o assinante, pois um IP público corresponde sempre a um único cliente, independentemente do horário da conexão.
+>B
+O horário em UTC deve ser desconsiderado, porque os provedores brasileiros registram as conexões exclusivamente no horário oficial de Brasília.
+>C
+Com o uso de CGNAT, a identificação do usuário torna-se juridicamente impossível, devendo a investigação ser encerrada por falta de justa causa.
+>D
+A porta lógica de origem só é relevante em endereços IPv6, que utilizam o compartilhamento de um mesmo endereço entre vários clientes.
+>E
+O pedido deve informar também a porta lógica de origem e o horário com o fuso, pois o IP é compartilhado e um erro de fuso aponta outro cliente.
+>comentario
+Correta (E): no CGNAT, vários clientes usam o mesmo IP público ao mesmo tempo, diferenciados pela porta lógica de origem; a jurisprudência do STJ reconhece que esse dado integra as informações necessárias à identificação do usuário. O horário deve ser convertido corretamente (UTC = Brasília + 3h), sob pena de identificar outro assinante.
+A) Parece certa porque, sem compartilhamento, IP e horário bastariam; erra porque, com CGNAT, o IP sozinho não individualiza o cliente — e o horário é sempre indispensável.
+B) Parece certa porque o país tem horário oficial; erra porque muitos sistemas registram em UTC, e o fuso precisa constar do pedido.
+C) Parece certa porque o compartilhamento dificulta a identificação; erra porque a porta lógica de origem, com horário preciso, permite individualizar o acesso.
+D) Parece certa porque associa a porta ao endereçamento; erra porque o compartilhamento por CGNAT é típico do IPv4, justamente pela escassez desses endereços.
+@@fim
+
+@@q 53
+materia: Tecnologia (Informática)
+subtema: 1.6 Legislação digital: Lei 12.737/2012 (Lei dos Crimes Informáticos)
+correta: A
+>enunciado
+Em operação contra fraudes bancárias, a equipe apreende, na casa dos investigados, um equipamento acoplável a caixas eletrônicos para captura de dados de cartões ("chupa-cabra"), uma gravadora de tarjas e dezenas de cartões de débito clonados, produzidos pelos próprios investigados com dados de correntistas. Considerando as alterações promovidas pela Lei 12.737/2012 no Código Penal, assinale a afirmativa correta quanto à falsificação dos cartões.
+>A
+Aplica-se o art. 298 do CP (falsificação de documento particular), pois a Lei 12.737/2012 equiparou o cartão de crédito ou débito a documento particular.
+>B
+Cartões bancários são documentos públicos por equiparação, aplicando-se à falsificação o art. 297 do CP, que trata da falsificação de documento público.
+>C
+A Lei 12.737/2012 revogou o crime de falsificação de documento particular, que passou a ser absorvido pelo crime de invasão de dispositivo informático.
+>D
+A clonagem de cartão é fato atípico enquanto o cartão não for utilizado em compra ou saque, por ausência de previsão legal específica.
+>E
+A Lei 12.737/2012 equiparou o cartão de crédito à moeda, de modo que a falsificação caracteriza o crime de moeda falsa (art. 289 do CP).
+>comentario
+Correta (A): a Lei 12.737/2012 acrescentou parágrafo único ao art. 298 do CP: "Para fins do disposto no caput, equipara-se a documento particular o cartão de crédito ou débito."
+B) Parece certa porque há documentos equiparados a públicos (art. 297, § 2º); erra porque o cartão foi equiparado expressamente a documento particular.
+C) Parece certa porque a mesma lei criou o art. 154-A; erra porque não revogou o art. 298 — ao contrário, ampliou seu alcance.
+D) Parece certa porque o uso configuraria outros crimes (como estelionato); erra porque a falsificação já é típica pelo art. 298, parágrafo único.
+E) Parece certa porque o cartão funciona como meio de pagamento; erra porque não há equiparação à moeda.
+@@fim
+
+@@q 54
+materia: Tecnologia (Informática)
+subtema: 1.1 Fundamentos: drivers e firmware
+correta: B
+>enunciado
+Após uma atualização do Windows, a impressora multifuncional de uma delegacia deixou de digitalizar documentos, embora continue imprimindo. No site do fabricante, o técnico encontra duas opções: um novo driver para o sistema operacional e uma atualização de firmware para o próprio equipamento. Antes de decidir, ele revisa a diferença entre esses dois tipos de software. Assinale a afirmativa correta.
+>A
+Driver e firmware são sinônimos, e a diferença entre os termos é apenas comercial, variando conforme a nomenclatura adotada por cada fabricante de periféricos e de placas.
+>B
+O driver roda no sistema operacional e permite a comunicação com o dispositivo; o firmware fica gravado no próprio equipamento e controla seu funcionamento.
+>C
+O firmware é instalado no computador, e o driver fica gravado na impressora, razão pela qual atualizar o driver exige reiniciar a impressora.
+>D
+Atualizar o firmware é sempre isento de riscos, pois eventual interrupção de energia durante o processo apenas reinicia a atualização automaticamente, sem afetar o equipamento.
+>E
+A BIOS/UEFI é o driver da placa-mãe, reinstalado pelo Windows a cada inicialização para permitir o reconhecimento dos dispositivos conectados ao computador.
+>comentario
+Correta (B): o driver é software do sistema operacional que traduz comandos para o dispositivo; o firmware é software embarcado no equipamento (memória flash/ROM), que controla seu hardware. Após atualização do Windows, o primeiro candidato costuma ser o driver.
+A) Parece certa porque ambos são softwares ligados ao hardware; erra porque têm localização e função distintas.
+C) Parece certa porque relaciona os dois softwares ao equipamento; erra porque inverte onde cada um reside.
+D) Parece certa porque alguns equipamentos têm recuperação; erra porque a interrupção pode inutilizar o dispositivo ("brick"), daí a cautela exigida.
+E) Parece certa porque o BIOS/UEFI inicializa o hardware; erra porque é firmware da placa-mãe, gravado nela, e não driver reinstalado pelo sistema.
+@@fim
+
+@@q 55
+materia: Tecnologia (Informática)
+subtema: 1.2 Aplicativos: Microsoft 365 (OneDrive) e compartilhamento
+correta: E
+>enunciado
+Um escrivão armazena, no OneDrive corporativo da instituição, um relatório já compartilhado com dois colegas da equipe. O delegado, que também já possui acesso ao arquivo, pede que o link lhe seja enviado por mensagem. O escrivão quer ter certeza de que, se o link for encaminhado a outras pessoas por engano, ninguém ganhará acesso novo ao documento. Sobre os tipos de link de compartilhamento, assinale a afirmativa correta.
+>A
+O link "Qualquer pessoa" exige que o destinatário entre com uma conta da organização antes de abrir o arquivo, o que impede o acesso de terceiros.
+>B
+O link "Pessoas em [organização]" permite o acesso de usuários externos que o recebam encaminhado, desde que tenham qualquer conta Microsoft.
+>C
+O link "Pessoas específicas" pode ser usado por qualquer um que o receba por encaminhamento, desde que o destinatário possua conta Microsoft.
+>D
+Ao conceder permissão de exibição, o destinatário pode, por padrão, editar o arquivo, mas fica impedido de baixá-lo ou de imprimi-lo.
+>E
+O link "Pessoas com acesso existente" não concede permissão nova: só funciona para quem já tinha acesso ao arquivo.
+>comentario
+Correta (E): o link "Pessoas com acesso existente" não altera permissões; apenas aponta para o arquivo, e quem não tinha acesso continua sem ele.
+A) Parece certa porque é um dos tipos de link; erra porque "Qualquer pessoa" dispensa entrada em conta — quem tem o link acessa.
+B) Parece certa porque o link é restrito de algum modo; erra porque se limita a pessoas da organização, não a externos.
+C) Parece certa porque o link exige autenticação; erra porque só funciona para as pessoas indicadas no compartilhamento.
+D) Parece certa porque há permissões distintas; erra porque exibição não permite editar (e bloquear download é opção específica, não o padrão).
+@@fim
+
+@@q 56
+materia: Tecnologia (Informática)
+subtema: 1.3 Computação em nuvem
+correta: D
+>enunciado
+A Polícia Civil contratou três serviços em nuvem. No serviço I, recebe máquinas virtuais nas quais sua própria equipe instala e mantém o sistema operacional, o banco de dados e a aplicação. No serviço II, publica uma aplicação desenvolvida internamente em um ambiente gerenciado, sem administrar servidores nem sistema operacional. No serviço III, os servidores usam, pelo navegador, uma suíte pronta de e-mail e edição de documentos. Assinale a afirmativa correta.
+>A
+I – SaaS; II – PaaS; III – IaaS; no serviço I, o provedor é responsável por atualizar o sistema operacional das máquinas virtuais.
+>B
+I – PaaS; II – IaaS; III – SaaS; no serviço II, a Polícia Civil não administra nenhum componente, nem mesmo a aplicação publicada.
+>C
+I – IaaS; II – SaaS; III – PaaS; no serviço III, cabe à Polícia Civil desenvolver e manter o código-fonte da suíte utilizada.
+>D
+I – IaaS; II – PaaS; III – SaaS; no serviço I, aplicar as atualizações de segurança do sistema operacional cabe à própria Polícia Civil.
+>E
+I – IaaS; II – PaaS; III – SaaS; no serviço III, cabe à Polícia Civil instalar e aplicar as atualizações do software da suíte.
+>comentario
+Correta (D): IaaS entrega infraestrutura (máquinas virtuais), e o cliente administra sistema operacional e camadas acima; PaaS entrega plataforma gerenciada para publicar aplicações; SaaS entrega o software pronto. No IaaS, os patches do sistema operacional são responsabilidade do cliente.
+A) Parece certa porque cita os três modelos; erra na correspondência e na responsabilidade: no IaaS o sistema operacional é do cliente.
+B) Parece certa porque o PaaS reduz a administração; erra na correspondência de I e II e porque, no PaaS, a aplicação continua sendo do cliente.
+C) Parece certa porque o IaaS está correto; erra ao inverter PaaS e SaaS e ao atribuir ao cliente o código de uma suíte SaaS.
+E) Parece certa porque a correspondência está correta; erra porque, no SaaS, a atualização do software cabe ao provedor.
+@@fim
+
+@@q 57
+materia: Tecnologia (Informática)
+subtema: 1.4 Segurança: ransomware, backup e resposta a incidentes
+correta: B
+>enunciado
+Um ransomware cifrou os servidores de arquivos de uma delegacia regional. O backup diário era gravado em um compartilhamento de rede permanentemente mapeado nesses mesmos servidores e também foi cifrado. Não há outra cópia. O relatório pós-incidente deve apontar a principal falha da estratégia de proteção dos dados e a lição a ser incorporada à política de segurança. Assinale a afirmativa correta.
+>A
+O pagamento do resgate é a medida recomendada, pois garante a entrega da chave de decifração e impede o vazamento dos dados copiados pelos criminosos.
+>B
+Faltou manter cópia isolada ou imutável, fora do alcance da rede atingida, como prevê a regra 3-2-1: três cópias, em duas mídias diferentes, uma fora do local.
+>C
+O uso de antivírus atualizado dispensa a manutenção de backup, já que o ransomware é sempre detectado e bloqueado antes do início da cifragem dos arquivos.
+>D
+Após o incidente, os servidores devem ser religados imediatamente à rede para restaurar o backup, antes mesmo de se identificar o vetor de entrada do ataque.
+>E
+O backup em compartilhamento mapeado é a prática mais segura, pois a cifragem de arquivos armazenados em rede é tecnicamente impossível para o ransomware.
+>comentario
+Correta (B): cópias acessíveis pela rede comprometida são cifradas junto com os dados; a regra 3-2-1 (e cópias offline ou imutáveis) garante uma versão íntegra para recuperação.
+A) Parece certa porque às vezes a chave é entregue; erra porque o pagamento não garante a decifração nem impede o vazamento, e financia o crime.
+C) Parece certa porque o antivírus é camada de proteção; erra porque não há detecção garantida, e o backup continua indispensável.
+D) Parece certa porque a restauração é urgente; erra porque religar sem conter e erradicar a ameaça pode levar à nova cifragem, inclusive do backup.
+E) Parece certa porque descreve a prática adotada; erra porque o ransomware cifra compartilhamentos mapeados — foi o que ocorreu.
+@@fim
+
+@@q 58
+materia: Tecnologia (Informática)
+subtema: 1.5 Crimes em redes sociais e na internet
+correta: B
+>enunciado
+Rui publica, em seu perfil aberto em uma rede social, vídeo no qual afirma, sabendo ser falso, que um comerciante do bairro, identificado pelo nome, recebe e revende celulares roubados. O vídeo é compartilhado milhares de vezes. O comerciante procura a delegacia com cópia do conteúdo preservada em ata notarial e pede providências contra o autor. Considerando o Código Penal, assinale a afirmativa correta.
+>A
+Configura-se difamação, pois houve imputação de fato ofensivo à reputação da vítima, sendo irrelevante o fato imputado ser definido como crime.
+>B
+Configura-se calúnia, com pena aplicada em triplo (art. 141, § 2º, do CP), por se tratar de crime contra a honra cometido em rede social.
+>C
+Configura-se calúnia, com aumento de um terço pelo art. 141, III, do CP (meio que facilita a divulgação), único aumento aplicável a ofensas na internet.
+>D
+Configura-se injúria, pois a ofensa atingiu a dignidade e o decoro do comerciante e foi veiculada por meio audiovisual de grande alcance.
+>E
+O fato é atípico, porque os crimes contra a honra exigem que a ofensa seja proferida na presença da vítima ou de seus familiares.
+>comentario
+Correta (B): imputar falsamente fato definido como crime (receptação) é calúnia (art. 138). O art. 141, § 2º, do CP determina: "Se o crime é cometido ou divulgado em quaisquer modalidades das redes sociais da rede mundial de computadores, aplica-se em triplo a pena."
+A) Parece certa porque houve imputação de fato; erra porque, sendo o fato criminoso e falso, o crime é calúnia.
+C) Parece certa porque o inciso III de fato prevê aumento de 1/3 para meio que facilite a divulgação; erra porque o § 2º traz regra específica para redes sociais (pena em triplo).
+D) Parece certa porque a ofensa é grave; erra porque a injúria é atribuição de qualidade negativa, e aqui houve imputação de fato determinado.
+E) Parece certa porque a injúria atinge a honra subjetiva; erra porque nenhum crime contra a honra exige a presença da vítima.
+@@fim
+
+@@q 59
+materia: Tecnologia (Informática)
+subtema: 1.6 Sigilo funcional e uso ético das informações institucionais
+correta: E
+>enunciado
+Um agente de polícia, com acesso autorizado a sistema de consulta de antecedentes e dados pessoais da Administração, empresta sua senha a um amigo que trabalha em uma empresa de cobrança, para que ele consulte endereços de devedores. As consultas são descobertas pela auditoria de logs antes que qualquer prejuízo seja constatado. Considerando o Código Penal, assinale a afirmativa correta.
+>A
+O agente pratica inserção de dados falsos em sistema de informações (art. 313-A do CP), pois terceiro não autorizado acessou o banco de dados da Administração.
+>B
+Não há crime, porque o art. 325 do CP exige a revelação de fato de que o agente tem ciência em razão do cargo, e ele não revelou diretamente nenhuma informação.
+>C
+O agente pratica modificação ou alteração não autorizada de sistema de informações (art. 313-B do CP), por ter permitido o uso do sistema por terceiro.
+>D
+A conduta só é punível se houver dano à Administração ou a terceiro, hipótese em que incide a forma qualificada do art. 325, § 2º, do CP.
+>E
+Há, em tese, a figura equiparada à violação de sigilo funcional (art. 325, § 1º, I, do CP), por facilitar o acesso de terceiro não autorizado ao sistema.
+>comentario
+Correta (E): o art. 325, § 1º, I, do CP pune com as mesmas penas da violação de sigilo funcional quem "permite ou facilita, mediante atribuição, fornecimento e empréstimo de senha ou qualquer outra forma, o acesso de pessoas não autorizadas a sistemas de informações ou banco de dados da Administração Pública".
+A) Parece certa porque envolve sistema da Administração; erra porque o art. 313-A pune a inserção de dados falsos ou a alteração/exclusão indevida de dados corretos, o que não houve.
+B) Parece certa porque descreve o caput do art. 325; erra porque o § 1º, I, prevê figura equiparada que dispensa a revelação direta.
+C) Parece certa porque houve uso indevido do sistema; erra porque o art. 313-B exige modificação ou alteração do próprio sistema ou programa.
+D) Parece certa porque o § 2º existe; erra porque o dano apenas qualifica o crime; a figura do § 1º se consuma sem ele.
+@@fim
+
+@@q 60
+materia: Tecnologia (Informática)
+subtema: 1.3 Noções de lógica de programação
+correta: E
+>enunciado
+Um analista de dados escreveu o algoritmo abaixo, em pseudocódigo, para calcular uma pontuação de controle a partir de uma sequência de identificadores numéricos de 1 a 12. Na estrutura condicional, a cláusula "senão se" só é avaliada quando a condição anterior é falsa, e "mod" representa o resto da divisão inteira.
+
+```text
+x ← 0
+para i de 1 até 12 faça
+    se (i mod 3 = 0) e não (i mod 4 = 0) então
+        x ← x + i
+    senão se (i mod 4 = 0) então
+        x ← x − 1
+    fim se
+fim para
+escreva(x)
+```
+
+Ao final da execução, o valor escrito é
+>A
+18.
+>B
+28.
+>C
+30.
+>D
+16.
+>E
+15.
+>comentario
+Correta (E): somam-se os múltiplos de 3 que não são múltiplos de 4 (3 + 6 + 9 = 18); para os múltiplos de 4 (4, 8 e 12), subtrai-se 1 cada (−3). Resultado: 18 − 3 = 15. O 12 é múltiplo de 3 e de 4, logo cai no "senão se".
+A) Parece certa porque é a soma do primeiro ramo; erra porque esquece as três subtrações do segundo ramo.
+B) Parece certa porque inclui o 12 na soma; erra porque o 12 é múltiplo de 4 e não satisfaz o primeiro ramo (30 − 2 = 28).
+C) Parece certa porque soma todos os múltiplos de 3 (3 + 6 + 9 + 12); erra porque ignora a condição "não (i mod 4 = 0)" e as subtrações.
+D) Parece certa porque aplica corretamente o primeiro ramo; erra porque supõe que o 12, por ser múltiplo de 3, não chega ao "senão se", subtraindo apenas por 4 e 8 (18 − 2 = 16).
+@@fim

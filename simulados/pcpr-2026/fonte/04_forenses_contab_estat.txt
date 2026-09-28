@@ -1,0 +1,479 @@
+@@q 61
+materia: Ciências Forenses
+subtema: 2.1 Medicina Legal: tanatologia e fenômenos cadavéricos
+correta: C
+>enunciado
+Em uma residência, o cadáver de um homem é encontrado em decúbito dorsal sobre a cama. No exame perinecroscópico, o perito observa livores de coloração violácea na face anterior do tronco, da face e das coxas, que não desaparecem à digitopressão, e ausência de livores no dorso. Não há outras manchas nem sinais de lesão que expliquem a coloração. Considerando a tanatologia forense, a interpretação mais adequada desses achados é que
+>A
+os livores formam-se nas regiões de maior pressão contra o plano de apoio, razão pela qual sua presença na face anterior é esperada em corpo encontrado em decúbito dorsal.
+>B
+a ausência de livores no dorso indica que a morte ocorreu há menos de trinta minutos, antes da formação de qualquer hipóstase, independentemente da posição do corpo.
+>C
+o corpo permaneceu em decúbito ventral por tempo suficiente para a fixação dos livores e só depois foi colocado na posição em que foi encontrado.
+>D
+o corpo foi movido nas primeiras horas após a morte, antes do surgimento dos livores, pois estes sempre migram com a mudança de posição, mesmo depois de fixados.
+>E
+livores na face anterior indicam, por si sós, morte por asfixia, qualquer que tenha sido a posição do corpo nas horas seguintes ao óbito.
+>comentario
+Correta (C): os livores surgem nas regiões de declive, por ação da gravidade, e, após certo tempo, fixam-se (deixam de desaparecer à pressão e de migrar). Livores fixos apenas na face anterior de um corpo em decúbito dorsal indicam que ele esteve de bruços até a fixação e foi reposicionado depois.
+A) Parece certa porque associa livores ao apoio; erra porque as áreas comprimidas contra o apoio ficam pálidas; os livores se formam nas partes em declive não comprimidas.
+B) Parece certa porque os livores de fato demoram a surgir; erra porque há livores (na face anterior), e fixos, o que exclui morte recente.
+D) Parece certa porque livores recentes migram; erra porque, se o corpo tivesse sido movido antes do surgimento, os livores se formariam no dorso; e livores fixados não migram.
+E) Parece certa porque livores intensos podem acompanhar asfixias; erra porque a localização dos livores indica posição do corpo, não causa da morte.
+@@fim
+
+@@q 62
+materia: Ciências Forenses
+subtema: 2.2 Criminalística: cadeia de custódia (arts. 158-A a 158-F do CPP)
+correta: D
+>enunciado
+Em local de homicídio, o investigador Paulo, primeiro a chegar, percebe um projétil cravado na parede, sinaliza-o como possivelmente relevante e isola a área. Depois, a perita Renata descreve a posição do projétil e o fotografa; em seguida, retira-o e o acondiciona em embalagem lacrada e identificada. No laboratório, o lacre é rompido pelo perito que fará o exame. À luz das regras do CPP sobre cadeia de custódia, assinale a afirmativa correta.
+>A
+O reconhecimento de vestígios é ato privativo de perito oficial, de modo que a sinalização feita pelo investigador Paulo não integra a cadeia de custódia.
+>B
+A cadeia de custódia somente se inicia com a coleta feita pelo perito, sendo juridicamente irrelevantes os atos anteriores de isolamento e preservação do local.
+>C
+As fotografias tiradas por Renata dispensam a descrição do vestígio no laudo pericial, pois a fixação pode ser feita exclusivamente por meio de imagens ou croquis.
+>D
+Paulo fez o reconhecimento e responde pela preservação do vestígio, mesmo sem ser perito; o registro feito por Renata é a fixação, que deve constar do laudo.
+>E
+O rompimento do lacre no laboratório é vedado em qualquer hipótese, devendo o exame pericial ser realizado sem a abertura da embalagem original.
+>comentario
+Correta (D): o art. 158-A, § 2º, do CPP dispõe que o agente público que reconhecer um elemento como de potencial interesse pericial fica responsável por sua preservação; o art. 158-B, I, define o reconhecimento, e o III define a fixação ("[...] sendo indispensável a sua descrição no laudo pericial").
+A) Parece certa porque a coleta é atribuição preferencial de perito (art. 158-C); erra porque o reconhecimento pode ser feito por qualquer agente público.
+B) Parece certa porque a coleta é etapa central; erra porque, pelo art. 158-A, § 1º, a cadeia se inicia com a preservação do local ou com procedimentos em que se detecte o vestígio.
+C) Parece certa porque a fixação "pode ser ilustrada por fotografias"; erra porque a lei exige a descrição no laudo.
+E) Parece certa porque o lacre protege a integridade; erra porque o art. 158-D, § 3º, permite a abertura pelo perito que fará a análise, com registro na ficha de acompanhamento (§ 4º).
+@@fim
+
+@@q 63
+materia: Ciências Forenses
+subtema: 2.3 Criminologia: teorias criminológicas (anomia)
+correta: D
+>enunciado
+Um estudo sobre desvios em órgão público descreve três servidores. Alfredo deseja enriquecer rapidamente, como valoriza a sociedade, e passa a desviar recursos. Beatriz abandonou qualquer expectativa de promoção ou de ganho material, mas cumpre com rigor todas as rotinas, sem questioná-las. Caio rejeita tanto as metas de sucesso material quanto os meios institucionais para alcançá-las, não propõe alternativas e isola-se do convívio social. À luz da teoria da anomia de Robert Merton, os modos de adaptação são, respectivamente,
+>A
+Alfredo – rebelião; Beatriz – conformidade; Caio – retraimento.
+>B
+Alfredo – inovação; Beatriz – conformidade; Caio – rebelião.
+>C
+Alfredo – ritualismo; Beatriz – inovação; Caio – retraimento.
+>D
+Alfredo – inovação; Beatriz – ritualismo; Caio – retraimento.
+>E
+Alfredo – inovação; Beatriz – ritualismo; Caio – rebelião.
+>comentario
+Correta (D): para Merton, a inovação aceita as metas culturais e rejeita os meios legítimos (Alfredo); o ritualismo abandona as metas, mas se apega aos meios (Beatriz); o retraimento (evasão) rejeita metas e meios, sem substituí-los (Caio).
+A) Parece certa porque acerta Caio; erra porque Alfredo aceita a meta social (não é rebelião) e Beatriz renunciou às metas (não é conformidade).
+B) Parece certa porque acerta Alfredo; erra porque conformidade exige aceitar metas e meios, e rebelião exige propor novas metas e meios.
+C) Parece certa porque acerta Caio; erra ao inverter Alfredo e Beatriz.
+E) Parece certa porque acerta Alfredo e Beatriz; erra em Caio: a rebelião substitui metas e meios por novos valores, o que ele não faz.
+@@fim
+
+@@q 64
+materia: Ciências Forenses
+subtema: 2.4 Criminologia digital: deep web e dark web
+correta: D
+>enunciado
+Em investigação de fraude com cartões, a equipe identifica dois ambientes. O primeiro é o painel administrativo de uma loja virtual, acessível apenas mediante login e senha e não indexado por mecanismos de busca. O segundo é um fórum com endereço terminado em .onion, acessível somente pela rede Tor, onde dados de cartões são comercializados. Ao redigir o relatório, o investigador precisa classificar corretamente esses ambientes. Assinale a afirmativa correta.
+>A
+Ambos integram a surface web, pois qualquer página acessível por navegador é, por definição, indexada pelos mecanismos de busca e exibida em seus resultados.
+>B
+O painel integra a dark web, pois todo conteúdo protegido por senha e não indexado é, por definição, destinado a atividades ilícitas.
+>C
+O fórum integra a surface web, porque a rede Tor é um mecanismo de busca comum que indexa normalmente os endereços .onion.
+>D
+O painel integra a deep web, sem que isso indique ilicitude; o fórum integra a dark web, que exige software específico e dificulta identificar usuários.
+>E
+Deep web e dark web são expressões sinônimas, que designam o conjunto de sites criminosos existentes na internet e acessíveis apenas por navegadores especiais.
+>comentario
+Correta (D): a deep web é o conteúdo não indexado (webmails, intranets, sistemas com login), em grande parte lícito; a dark web é a parcela que depende de softwares como o Tor e usa roteamento em camadas (onion routing), o que dificulta a identificação de usuários e servidores.
+A) Parece certa porque ambos são acessados por navegador; erra porque acessibilidade não implica indexação.
+B) Parece certa porque o painel não é indexado; erra porque não indexado é deep web, e não há presunção de ilicitude.
+C) Parece certa porque o Tor é usado para acessar o fórum; erra porque o Tor é rede de anonimização, não buscador.
+E) Parece certa porque os termos se confundem no uso comum; erra porque a dark web é subconjunto da deep web, e nenhuma das duas é sinônimo de crime.
+@@fim
+
+@@q 65
+materia: Ciências Forenses
+subtema: 2.1 Medicina Legal: balística e traumatologia forense
+correta: A
+>enunciado
+Vítima de disparo de arma de fogo é socorrida e operada, mas morre no hospital. Na necropsia, o legista observa, em torno do orifício de entrada no tórax, orla de escoriação e zona de tatuagem formada por grânulos de pólvora incrustados na pele, que não saem com lavagem, sem zona de esfumaçamento. O prontuário registra que a pele da região foi limpa com soro antes da cirurgia. Assinale a interpretação correta.
+>A
+A tatuagem indica disparo a curta distância, dentro do alcance dos grânulos; a falta de esfumaçamento não afasta essa conclusão, pois a fuligem sai com a limpeza.
+>B
+A ausência de esfumaçamento prova que o disparo foi feito a longa distância, e a zona de tatuagem deve ser atribuída a artefato produzido no atendimento hospitalar.
+>C
+Os achados configuram a câmara de mina de Hoffmann, característica de disparo com o cano encostado em região com plano ósseo logo abaixo da pele, como ocorre no crânio.
+>D
+A orla de escoriação aparece somente nos orifícios de saída, o que indica que a lesão descrita é de saída do projétil, e não de entrada.
+>E
+A tatuagem resulta da fuligem depositada sobre a pele e, por isso, desaparece com a lavagem, ao contrário do esfumaçamento, que é permanente.
+>comentario
+Correta (A): a zona de tatuagem (grânulos incrustados) é efeito secundário do tiro que só ocorre a curta distância; a zona de esfumaçamento (fuligem depositada) é removível por lavagem, de modo que sua ausência após limpeza hospitalar não prova distância maior.
+B) Parece certa porque a ausência de esfumaçamento, em pele intacta, sugere distância maior; erra porque a pele foi limpa e a tatuagem não é artefato hospitalar.
+C) Parece certa porque também é lesão de tiro próximo; erra porque a câmara de mina decorre de disparo encostado sobre plano ósseo (típico do crânio), com lesão estrelada, não com zona de tatuagem ao redor.
+D) Parece certa porque o orifício de saída pode ter bordas escoriadas; erra porque a orla de escoriação é característica do orifício de entrada.
+E) Parece certa porque associa tatuagem e fuligem; erra ao inverter: a tatuagem é permanente; o esfumaçamento sai com lavagem.
+@@fim
+
+@@q 66
+materia: Ciências Forenses
+subtema: 2.2 Documentoscopia e grafoscopia: falsificações
+correta: D
+>enunciado
+Em inquérito sobre fraude em contrato, o perito compara a assinatura questionada com padrões colhidos do titular. A assinatura questionada reproduz com grande fidelidade a forma geral dos padrões, mas apresenta traçado lento, tremores, pontos de parada, retoques e ataques e remates rombudos, sem a fluência observada nos padrões. Não há sulcos, marcas de grafite ou de carbono subjacentes ao traço, nem superposição exata com qualquer padrão. Os elementos indicam
+>A
+autofalsificação, pois a fidelidade à forma demonstra que o próprio titular produziu a assinatura, disfarçando-a deliberadamente para negá-la depois.
+>B
+falsificação sem imitação, também chamada de assinatura inventada, pois o falsário não teve acesso a nenhum modelo da assinatura verdadeira.
+>C
+imitação exercitada (livre), modalidade caracterizada justamente pela lentidão do traçado e pela presença de tremores e retoques frequentes.
+>D
+falsificação por imitação servil (cópia), em que o falsário reproduz a forma do modelo à vista, sacrificando a velocidade e a naturalidade do traçado.
+>E
+autenticidade, pois a semelhança formal basta para a conclusão, uma vez que a grafoscopia privilegia os elementos morfológicos sobre os genéticos.
+>comentario
+Correta (D): na imitação servil, o falsário copia o modelo à vista; alcança boa semelhança morfológica, mas denuncia-se pelos elementos genéticos: lentidão, tremores, paradas, retoques e ataques/remates rombudos. A ausência de sulcos e de superposição exata afasta o decalque.
+A) Parece certa porque o titular conhece a própria assinatura; erra porque a autofalsificação costuma apresentar deformações deliberadas e conservar hábitos gráficos inconscientes, não a fidelidade formal com traçado de cópia.
+B) Parece certa porque é modalidade de falsificação; erra porque, sem modelo, a forma não reproduziria fielmente os padrões.
+C) Parece certa porque também parte de um modelo; erra porque a imitação exercitada, após treino, é mais fluente e menos fiel à forma.
+E) Parece certa porque a forma é o que salta aos olhos; erra porque a grafoscopia privilegia os elementos genéticos (dinâmica do traçado), mais difíceis de imitar.
+@@fim
+
+@@q 67
+materia: Ciências Forenses
+subtema: 2.3 Vitimologia: vitimização
+correta: D
+>enunciado
+Vítima de estupro comparece à delegacia e é convidada a narrar os fatos, sucessivamente, ao agente do balcão, ao escrivão, a um investigador e, por fim, ao delegado, sem que houvesse necessidade de repetir o relato. Em uma das conversas, perguntam-lhe sobre a roupa que usava na ocasião. Ela deixa o local dizendo que "se sentiu julgada". Considerando a vitimologia e a legislação vigente, assinale a afirmativa correta.
+>A
+Trata-se de vitimização primária, pois decorre diretamente do crime sofrido, sendo o atendimento prestado pela polícia irrelevante para a análise vitimológica.
+>B
+Trata-se de vitimização terciária, conceito que designa exclusivamente o dano causado à vítima pelos órgãos do sistema de justiça criminal.
+>C
+Pela classificação de Mendelsohn, a vítima seria "mais culpada que o infrator", o que justifica as perguntas feitas sobre sua conduta e sua vestimenta naquela noite.
+>D
+Trata-se de vitimização secundária, causada pelas instâncias formais de controle; a repetição desnecessária do relato pode configurar violência institucional.
+>E
+Não há relevância vitimológica, porque a repetição dos depoimentos é procedimento obrigatório previsto no CPP para a apuração de crimes sexuais.
+>comentario
+Correta (D): a vitimização secundária é o sofrimento adicional causado pelas instâncias de controle (polícia, justiça). O art. 15-A da Lei 13.869/2019, incluído pela Lei 14.321/2022, tipifica a violência institucional: submeter a vítima a procedimentos desnecessários, repetitivos ou invasivos que a levem a reviver, sem estrita necessidade, a situação de violência.
+A) Parece certa porque o crime em si é a vitimização primária; erra porque o dano descrito decorre do atendimento posterior.
+B) Parece certa porque a terciária também é "posterior" ao crime; erra porque o dano causado pelo sistema formal é a vitimização secundária (a terciária é associada, em geral, à reação do meio social).
+C) Parece certa porque Mendelsohn classifica graus de participação da vítima; erra porque nada no caso indica contribuição da vítima para o crime.
+E) Parece certa porque a oitiva da vítima é diligência prevista; erra porque não há obrigação de repetições desnecessárias — a lei busca evitá-las.
+@@fim
+
+@@q 68
+materia: Ciências Forenses
+subtema: 2.4 Investigação tecnológica: metadados e evidências eletrônicas
+correta: A
+>enunciado
+Um suspeito publica em rede social a fotografia de uma arma. A equipe baixa a imagem diretamente da plataforma e não encontra, nos metadados, coordenadas GPS nem o modelo do aparelho. Semanas depois, com autorização judicial, a perícia extrai do celular apreendido o arquivo original correspondente à foto publicada. Sobre os metadados e a análise das imagens, assinale a afirmativa correta.
+>A
+A falta de metadados na imagem baixada não prova que o original não os tinha, pois muitas plataformas removem dados EXIF no envio.
+>B
+Os metadados EXIF são criados pela rede social no momento da publicação, razão pela qual o arquivo original armazenado no celular nunca os contém.
+>C
+Se a imagem baixada da plataforma não tem coordenadas GPS, fica provado que o aparelho estava com a localização desativada no momento da captura.
+>D
+Metadados EXIF são imutáveis e, uma vez gravados pelo aparelho, não podem ser editados nem removidos por nenhum software de edição de imagens.
+>E
+A comparação entre as duas imagens é inútil, pois a compressão feita pela plataforma altera o conteúdo visual a ponto de impedir sua associação.
+>comentario
+Correta (A): muitas plataformas recomprimem as imagens e removem ou reduzem os metadados EXIF (GPS, modelo, data); o arquivo original no aparelho pode mantê-los, e a comparação visual e de outros atributos permite associar as imagens.
+B) Parece certa porque a plataforma pode gravar dados próprios; erra porque o EXIF é gerado pelo dispositivo de captura.
+C) Parece certa porque a falta de GPS é compatível com localização desativada; erra porque a remoção pela plataforma é explicação alternativa.
+D) Parece certa porque metadados servem como prova; erra porque podem ser editados ou removidos com facilidade — daí a importância do hash e da cadeia de custódia.
+E) Parece certa porque a compressão altera o arquivo; erra porque não impede a associação visual e técnica entre original e cópia.
+@@fim
+
+@@q 69
+materia: Ciências Forenses
+subtema: 2.1 Medicina Legal: asfixiologia
+correta: E
+>enunciado
+Um corpo é encontrado suspenso por uma corda amarrada ao pescoço. No exame, o legista identifica um sulco horizontal, contínuo, de profundidade uniforme, situado abaixo da cartilagem tireoide, com sinais de reação vital, e um segundo sulco, oblíquo e ascendente em direção à nuca, interrompido na região do nó, com escassa reação vital. Os familiares afirmam tratar-se de suicídio. Os achados são mais compatíveis com
+>A
+enforcamento típico, pois, nessa forma de asfixia, o peso do corpo distribui a pressão igualmente por todo o pescoço, produzindo sulco horizontal e contínuo.
+>B
+esganadura, forma de asfixia mecânica produzida com o emprego de laço duplo, que explica a presença simultânea de dois sulcos no pescoço.
+>C
+estrangulamento isolado, pois o sulco oblíquo e interrompido na região do nó é o sinal característico dessa modalidade, o que afasta a suspensão.
+>D
+enforcamento completo, porque o sulco abaixo da tireoide é típico da suspensão em que os pés não tocam o solo, e o segundo sulco é mero artefato.
+>E
+estrangulamento por laço, indicado pelo sulco horizontal, contínuo e uniforme, com posterior suspensão do corpo, sugerida pelo sulco oblíquo de pouca reação vital.
+>comentario
+Correta (E): o estrangulamento por laço produz sulco horizontal, contínuo, de profundidade uniforme, em geral baixo no pescoço; o enforcamento produz sulco oblíquo, ascendente em direção ao nó e interrompido nele. A reação vital no primeiro e escassa no segundo sugere suspensão após a morte (simulação de suicídio).
+A) Parece certa porque o enforcamento envolve laço e peso do corpo; erra porque o sulco do enforcamento é oblíquo, ascendente e descontínuo.
+B) Parece certa porque a esganadura é asfixia por constrição do pescoço; erra porque é produzida pelas mãos, sem laço.
+C) Parece certa porque o estrangulamento está envolvido no caso; erra porque atribui a ele as características do enforcamento.
+D) Parece certa porque o caso envolve suspensão; erra porque o sulco horizontal e contínuo não é típico do enforcamento, e o segundo sulco é justamente o da suspensão.
+@@fim
+
+@@q 70
+materia: Ciências Forenses
+subtema: 2.2 Criminalística: local de crime e sua preservação
+correta: E
+>enunciado
+Em tentativa de homicídio em uma residência, a equipe do SAMU chega antes da polícia, remove a vítima, desloca móveis para facilitar o atendimento e deixa no chão embalagens de material médico. Ao chegar, o delegado determina o isolamento e a preservação do que restou até a chegada dos peritos, que encontram manchas de sangue, um celular e uma faca. Considerando as normas do CPP e os conceitos da criminalística, assinale a afirmativa correta.
+>A
+O socorro deveria ter aguardado a chegada dos peritos, pois a preservação do local de crime prevalece sobre o atendimento à vítima.
+>B
+A alteração torna obrigatória a dispensa do exame pericial, que deve ser substituído pela prova testemunhal, nos termos do art. 167 do CPP, por se tratar de local violado.
+>C
+Os peritos devem desconsiderar as alterações e descrever o local como se estivesse íntegro, para não prejudicar a validade da prova a ser usada pela acusação no processo.
+>D
+Local imediato é a área em que o fato não ocorreu, mas que guarda relação com ele, como o trajeto de fuga do autor, e por isso não precisa ser isolado.
+>E
+O local é inidôneo, e os peritos devem registrar no laudo as alterações do estado das coisas e discutir suas consequências para a dinâmica dos fatos.
+>comentario
+Correta (E): o art. 169, parágrafo único, do CPP determina que os peritos registrem no laudo as alterações do estado das coisas e discutam, no relatório, suas consequências para a dinâmica dos fatos. O socorro à vítima é legítimo e prioritário; o local alterado é chamado de não preservado ou inidôneo.
+A) Parece certa porque a preservação é dever da autoridade (arts. 6º, I, e 169 do CPP); erra porque a prestação de socorro prevalece sobre a preservação.
+B) Parece certa porque o art. 167 admite prova testemunhal; erra porque só se aplica quando os vestígios desaparecem, e aqui há vestígios a examinar.
+C) Parece certa porque busca "salvar" a prova; erra porque omitir alterações compromete a fidelidade do laudo e contraria a lei.
+D) Parece certa porque descreve um tipo de local; erra porque essa é a definição de local mediato/relacionado; o imediato é onde o fato ocorreu.
+@@fim
+
+@@q 71
+materia: Contabilidade
+subtema: 3.2 Patrimônio, contas e escrituração: fatos contábeis
+correta: C
+>enunciado
+A Comercial Alfa Ltda. realizou, em um mês, as seguintes operações: (I) pagamento, em dinheiro, de duplicata de R$ 10.000,00, com juros de R$ 300,00 por atraso; (II) compra de mercadorias a prazo, por R$ 8.000,00; (III) recebimento de duplicata de cliente de R$ 5.000,00, com desconto concedido de R$ 200,00; (IV) pagamento de salários de R$ 6.000,00, relativos ao mês anterior e já apropriados como despesa naquele mês. Assinale a afirmativa correta.
+>A
+I e III são fatos mistos diminutivos, IV é modificativo diminutivo, II é permutativo, e o patrimônio líquido diminuiu R$ 6.500,00 no mês.
+>B
+Todos os fatos são permutativos, pois envolvem apenas contas patrimoniais, e o patrimônio líquido da empresa não se alterou no mês.
+>C
+I e III são mistos diminutivos, II e IV são permutativos, e o patrimônio líquido diminuiu R$ 500,00 em razão dessas operações.
+>D
+I e III são mistos aumentativos, pois reduzem o passivo e o ativo, respectivamente, e o patrimônio líquido aumentou R$ 500,00 no mês.
+>E
+I é misto diminutivo, III é misto aumentativo (desconto concedido é receita), II e IV são permutativos, e o PL diminuiu R$ 100,00.
+>comentario
+Correta (C): I — D Fornecedores 10.000, D Juros passivos 300, C Caixa 10.300 (misto diminutivo, −300). II — D Mercadorias, C Fornecedores (permutativo). III — D Caixa 4.800, D Descontos concedidos (despesa) 200, C Clientes 5.000 (misto diminutivo, −200). IV — D Salários a pagar, C Caixa (permutativo, pois a despesa já foi reconhecida por competência). Variação do PL: −500.
+A) Parece certa porque classifica bem I, II e III; erra ao tratar o pagamento de salários já apropriados como nova despesa.
+B) Parece certa porque II e IV são permutativos; erra porque juros e descontos concedidos afetam o resultado.
+D) Parece certa porque I reduz passivo e III reduz um ativo; erra porque juros e descontos concedidos são despesas, que diminuem o PL.
+E) Parece certa porque acerta I, II e IV; erra porque o desconto concedido é despesa (o desconto obtido é que seria receita).
+@@fim
+
+@@q 72
+materia: Contabilidade
+subtema: 3.3 Operações comerciais; estoques; tributos sobre compras
+correta: D
+>enunciado
+Uma empresa comercial, contribuinte do ICMS e não contribuinte do IPI, adquire mercadorias para revenda nas seguintes condições: valor das mercadorias, R$ 20.000,00; IPI destacado na nota, R$ 2.000,00; ICMS destacado, R$ 3.600,00, recuperável; frete pago à transportadora para trazer as mercadorias até o estabelecimento, R$ 1.000,00, sem direito a crédito de tributos. Segundo o CPC 16 (Estoques), o valor a ser registrado em Estoques é de
+>A
+R$ 17.400,00.
+>B
+R$ 23.000,00.
+>C
+R$ 18.400,00.
+>D
+R$ 19.400,00.
+>E
+R$ 15.400,00.
+>comentario
+Correta (D): o custo de aquisição inclui o preço, os tributos não recuperáveis e o frete, deduzidos os tributos recuperáveis: 20.000 + 2.000 (IPI, não recuperável para quem não é contribuinte) + 1.000 (frete) − 3.600 (ICMS recuperável) = 19.400.
+A) Parece certa porque exclui o ICMS e inclui o frete; erra porque exclui também o IPI, tratando-o como recuperável.
+B) Parece certa porque soma todos os gastos de aquisição; erra porque não exclui o ICMS recuperável.
+C) Parece certa porque trata corretamente ICMS e IPI; erra porque omite o frete, que integra o custo.
+E) Parece certa porque deduz tributos; erra porque subtrai o IPI, que deveria ser somado ao custo.
+@@fim
+
+@@q 73
+materia: Contabilidade
+subtema: 3.4 Análise das demonstrações contábeis: índices de liquidez
+correta: E
+>enunciado
+O balanço de uma empresa investigada apresenta Ativo Circulante de R$ 600.000,00, dos quais R$ 200.000,00 em estoques e R$ 100.000,00 em disponibilidades, e Passivo Circulante de R$ 400.000,00. Logo após a data do balanço, a empresa paga, com todo o saldo das disponibilidades, R$ 100.000,00 devidos a fornecedores de curto prazo. Considerando apenas essa operação, os efeitos sobre os índices de liquidez corrente, seca e imediata são, respectivamente,
+>A
+nenhum efeito, nenhum efeito e nenhum efeito, pois o pagamento reduz o ativo e o passivo circulantes exatamente no mesmo valor.
+>B
+redução, redução e redução, pois houve saída de recursos do ativo circulante sem qualquer contrapartida de entrada.
+>C
+aumento, aumento e aumento, pois o passivo circulante diminui proporcionalmente mais do que o ativo circulante.
+>D
+nenhum efeito, aumento e redução, pois o pagamento não interfere na relação entre ativo e passivo circulantes.
+>E
+aumento, nenhum efeito e redução, pois o índice corrente era maior que 1, o seco era igual a 1 e o imediato zera.
+>comentario
+Correta (E): antes — LC = 600/400 = 1,50; LS = (600 − 200)/400 = 1,00; LI = 100/400 = 0,25. Depois — LC = 500/300 ≈ 1,67; LS = (500 − 200)/300 = 1,00; LI = 0/300 = 0. Reduzir numerador e denominador no mesmo valor aumenta um índice maior que 1, não altera um índice igual a 1 e reduz um índice menor que 1.
+A) Parece certa porque ativo e passivo caem no mesmo valor; erra porque a razão entre eles muda quando o índice é diferente de 1.
+B) Parece certa porque saiu dinheiro; erra porque houve contrapartida: redução igual do passivo circulante.
+C) Parece certa porque o passivo cai proporcionalmente mais; erra quanto à liquidez imediata (que zera) e à seca (que não muda).
+D) Parece certa porque acerta a liquidez imediata; erra nas liquidezes corrente e seca.
+@@fim
+
+@@q 74
+materia: Contabilidade
+subtema: 3.5 Custos: conceitos e classificações
+correta: A
+>enunciado
+Uma indústria que fabrica três modelos de uniformes profissionais relaciona os seguintes gastos do mês: (1) tecido consumido na produção, apropriado por modelo; (2) salário do supervisor da fábrica, que acompanha todas as linhas de produção; (3) comissão dos vendedores, calculada como percentual das vendas; (4) depreciação das máquinas de costura, pelo método linear, usadas em todos os modelos; (5) aluguel do escritório administrativo. Assinale a classificação correta.
+>A
+(1) custo direto variável; (2) custo indireto fixo; (3) despesa variável; (4) custo indireto fixo; (5) despesa fixa.
+>B
+(1) custo direto variável; (2) custo direto fixo; (3) custo variável; (4) custo indireto variável; (5) despesa fixa.
+>C
+(1) custo indireto variável; (2) custo indireto fixo; (3) despesa fixa; (4) despesa fixa; (5) custo indireto fixo.
+>D
+(1) custo direto fixo; (2) despesa fixa; (3) despesa variável; (4) custo indireto fixo; (5) despesa fixa.
+>E
+(1) custo direto variável; (2) custo indireto fixo; (3) despesa variável; (4) custo indireto variável; (5) custo indireto fixo.
+>comentario
+Correta (A): gastos de produção são custos, e gastos com vendas e administração, despesas. O tecido é identificável por modelo e varia com a produção (direto variável); o supervisor e a depreciação linear das máquinas atendem a todos os modelos e não variam com o volume (indiretos fixos); a comissão varia com as vendas (despesa variável); o aluguel administrativo é despesa fixa.
+B) Parece certa porque acerta (1) e (5); erra ao tratar o supervisor como custo direto, a comissão como custo e a depreciação linear como variável.
+C) Parece certa porque acerta (2); erra ao tratar o tecido como indireto, a comissão como fixa, a depreciação da fábrica como despesa e o aluguel administrativo como custo.
+D) Parece certa porque acerta (3), (4) e (5); erra ao tratar o tecido como fixo e o salário do supervisor de fábrica como despesa.
+E) Parece certa porque acerta (1), (2) e (3); erra ao tratar a depreciação linear como variável e o aluguel administrativo como custo.
+@@fim
+
+@@q 75
+materia: Contabilidade
+subtema: 3.8 Identificação de irregularidades contábeis e indícios de fraude
+correta: C
+>enunciado
+Em inquérito que apura lavagem de dinheiro, a perícia contábil examina os livros de uma empresa e constata que, em diversos dias do exercício, a conta Caixa apresentou saldo credor. Além disso, permanecem registradas no passivo obrigações com fornecedores que, segundo os extratos bancários, já haviam sido quitadas havia meses, sem baixa contábil. Sobre esses achados, assinale a afirmativa correta.
+>A
+Saldo credor de Caixa é situação normal em empresas comerciais e indica apenas que as vendas à vista superaram as compras realizadas no período.
+>B
+A manutenção de obrigações já pagas reduz artificialmente o passivo e, por isso, indica superavaliação do patrimônio líquido da empresa.
+>C
+O saldo credor de Caixa e a manutenção de obrigações já pagas no passivo são indícios clássicos de omissão de receitas.
+>D
+Os fatos descrevem a técnica de "lapping", que consiste em emitir cheques entre contas de bancos diferentes para aproveitar o prazo de compensação.
+>E
+Os registros indicam apenas provisão para perdas com créditos subavaliada, sem qualquer relação com possível omissão de receitas pela empresa.
+>comentario
+Correta (C): o caixa não pode ter saldo negativo; o "estouro" indica pagamentos feitos com recursos fora da escrituração. O passivo fictício (obrigações já pagas mantidas no balanço) oculta a saída de recursos não registrados. A legislação tributária trata ambos como presunção legal de omissão de receitas (Decreto-Lei 1.598/1977, art. 12, § 2º).
+A) Parece certa porque vendas à vista aumentam o caixa; erra porque aumentariam o saldo devedor, e o saldo credor de caixa é impossível.
+B) Parece certa porque relaciona passivo e PL; erra porque obrigações já pagas mantidas no passivo o aumentam (passivo fictício), subavaliando o PL.
+D) Parece certa porque cita técnica real de fraude; erra porque a descrição é de "kiting"; o "lapping" é a cobertura de desvio de um recebimento com recebimentos posteriores de outros clientes.
+E) Parece certa porque provisões podem ser manipuladas; erra porque os achados nada têm a ver com provisão para perdas e são indícios típicos de omissão de receitas.
+@@fim
+
+@@q 76
+materia: Estatística
+subtema: 4.3 Média, mediana, moda e medidas de dispersão
+correta: A
+>enunciado
+Os tempos de resposta, em minutos, de sete atendimentos de uma central de emergência foram registrados como 12, 15, 15, 18, 20, 22 e 95. Na conferência dos dados, verificou-se que o valor 95 resultou de erro de digitação e que o tempo correto era 25 minutos. O analista corrige o valor e recalcula as medidas descritivas do conjunto. Em relação às medidas calculadas antes da correção, assinale a afirmativa correta.
+>A
+A média diminui exatamente 10 minutos, enquanto a mediana e a moda permanecem inalteradas.
+>B
+A média e a mediana diminuem na mesma proporção, pois ambas são calculadas a partir de todos os valores do conjunto.
+>C
+A mediana passa de 18 para 20 minutos, e a média permanece praticamente igual, pois apenas um valor foi alterado.
+>D
+A amplitude total não se altera, porque o menor valor do conjunto permaneceu o mesmo após a correção do registro.
+>E
+O desvio-padrão aumenta, pois a correção aproxima o maior valor da média e amplia a dispersão relativa dos dados.
+>comentario
+Correta (A): a soma cai 70 (de 197 para 127), e a média cai 70/7 = 10 minutos (de ≈ 28,14 para ≈ 18,14). A mediana (4º valor ordenado) continua 18, e a moda, 15.
+B) Parece certa porque ambas são medidas de tendência central; erra porque a mediana depende da posição dos valores e é resistente a valores extremos.
+C) Parece certa porque o valor corrigido é outro; erra porque 25 continua sendo o maior valor, e a mediana permanece 18; a média muda bastante.
+D) Parece certa porque o menor valor não mudou; erra porque a amplitude depende também do maior valor (83 antes, 13 depois).
+E) Parece certa porque a correção mexe na dispersão; erra no sentido: aproximar o valor extremo dos demais reduz o desvio-padrão (o populacional cai de ≈ 27,5 para ≈ 4,2).
+@@fim
+
+@@q 77
+materia: Estatística
+subtema: 4.4 Probabilidade básica
+correta: E
+>enunciado
+Um teste preliminar de campo para determinada substância entorpecente dá resultado positivo em 95% das amostras que efetivamente contêm a substância e também em 10% das amostras que não a contêm (falso positivo). Em um grande lote apreendido, sabe-se que 20% das amostras contêm a substância. Uma amostra é escolhida ao acaso e o teste dá positivo. A probabilidade de que essa amostra contenha, de fato, a substância é de
+>A
+95%, que corresponde à sensibilidade do teste aplicada diretamente ao resultado.
+>B
+19%, que corresponde à proporção de positivos verdadeiros no lote.
+>C
+27%, que corresponde à proporção total de resultados positivos no lote.
+>D
+90%, que é o complemento da taxa de falsos positivos do teste.
+>E
+cerca de 70%, razão entre os positivos verdadeiros e o total de positivos.
+>comentario
+Correta (E): P(positivo) = 0,95 × 0,20 + 0,10 × 0,80 = 0,19 + 0,08 = 0,27. P(contém | positivo) = 0,19 / 0,27 ≈ 0,704 (Teorema de Bayes).
+A) Parece certa porque 95% é o acerto do teste entre amostras com a substância; erra porque confunde P(positivo | contém) com P(contém | positivo).
+B) Parece certa porque 19% é um passo do cálculo; erra porque é a probabilidade conjunta, não a condicional.
+C) Parece certa porque 27% também é passo do cálculo; erra porque é a probabilidade de dar positivo, não de conter a substância.
+D) Parece certa porque 90% é a especificidade do teste; erra porque especificidade não é a probabilidade pedida.
+@@fim
+
+@@q 78
+materia: Estatística
+subtema: 4.5 Leitura e interpretação de indicadores estatísticos
+correta: A
+>enunciado
+Um relatório compara dois municípios. No município A, houve 36 homicídios em 2024, com população de 240.000 habitantes, e 39 homicídios em 2025, com população de 260.000. No município B, houve 12 homicídios em 2024, com população de 60.000, e 10 em 2025, com população de 62.500. Um jornal local afirma que "a violência cresceu em A e caiu pouco em B". Considerando as taxas por 100 mil habitantes, assinale a afirmativa correta.
+>A
+Em A, o número de homicídios aumentou, mas a taxa por 100 mil habitantes permaneceu em 15; em B, a taxa caiu de 20 para 16, redução de 20%.
+>B
+Em A, a taxa de homicídios aumentou cerca de 8,3%, acompanhando exatamente a variação do número absoluto de homicídios registrados.
+>C
+O município B, por ter menos homicídios em números absolutos, apresentou taxa inferior à do município A nos dois anos analisados.
+>D
+Em B, a taxa caiu 4%, pois passou de 20 para 16 homicídios por 100 mil habitantes entre 2024 e 2025, variação considerada pequena.
+>E
+As taxas dos dois municípios não podem ser comparadas entre si, pois suas populações são diferentes em tamanho e em crescimento.
+>comentario
+Correta (A): taxas de A: 36/240.000 × 100.000 = 15 e 39/260.000 × 100.000 = 15. Taxas de B: 12/60.000 × 100.000 = 20 e 10/62.500 × 100.000 = 16; (16 − 20)/20 = −20%.
+B) Parece certa porque 39/36 − 1 ≈ 8,3%; erra porque a população cresceu na mesma proporção, e a taxa ficou estável.
+C) Parece certa porque B tem menos homicídios; erra porque as taxas de B (20 e 16) superam a de A (15).
+D) Parece certa porque a taxa caiu 4 unidades; erra porque a queda de 4 homicídios por 100 mil corresponde a 20% da taxa inicial.
+E) Parece certa porque as populações diferem; erra porque as taxas por 100 mil existem justamente para permitir essa comparação.
+@@fim
+
+@@q 79
+materia: Estatística
+subtema: 4.6 Identificação de padrões, inconsistências e anomalias em dados
+correta: C
+>enunciado
+Em auditoria de 5.000 notas de despesas de um órgão público, com valores entre R$ 10,00 e R$ 90.000,00, verificou-se que apenas 11% dos valores começam com o dígito 1, enquanto 25% começam com o dígito 9 — muitos deles logo abaixo de limites internos que exigem autorização superior, como R$ 9.900,00 e R$ 9.990,00. O analista recorre à Lei de Newcomb-Benford para avaliar os dados. Assinale a afirmativa correta.
+>A
+Em dados financeiros autênticos, os primeiros dígitos distribuem-se de modo uniforme, com cerca de 11% cada, de modo que a frequência do dígito 1 é a esperada.
+>B
+A Lei de Benford prevê que o dígito 9 seja o mais frequente como primeiro dígito, o que torna os 25% compatíveis com um conjunto de dados autênticos.
+>C
+Pela Lei de Benford, espera-se cerca de 30% de valores iniciados por 1 e menos de 5% por 9; o padrão é anômalo e pede aprofundamento, sem provar fraude.
+>D
+A discrepância prova a fraude e dispensa outras diligências, pois a Lei de Benford tem valor de prova pericial conclusiva sobre a manipulação dos dados.
+>E
+A Lei de Benford aplica-se apenas a números atribuídos arbitrariamente, como senhas e números de telefone, e não a valores monetários de despesas.
+>comentario
+Correta (C): em conjuntos naturais que abrangem várias ordens de grandeza, P(d) = log₁₀(1 + 1/d): cerca de 30,1% para o dígito 1 e 4,6% para o 9. O excesso de valores iniciados por 9 logo abaixo de limites de alçada é sinal de alerta (possível fracionamento), mas exige verificação.
+A) Parece certa porque a intuição sugere distribuição uniforme; erra porque a Lei de Benford mostra forte predomínio dos dígitos baixos.
+B) Parece certa porque a lei trata de frequências de dígitos; erra ao inverter: o 9 é o menos frequente.
+D) Parece certa porque a anomalia é real; erra porque o teste é ferramenta de triagem, não prova conclusiva.
+E) Parece certa porque a lei não vale para todo conjunto numérico; erra ao inverter: ela não se aplica a números atribuídos, mas se aplica bem a valores financeiros.
+@@fim
+
+@@q 80
+materia: Estatística
+subtema: 4.7 Métodos de detecção de outliers
+correta: C
+>enunciado
+O número diário de furtos registrados em uma delegacia durante 11 dias foi: 4, 6, 7, 7, 8, 9, 10, 11, 12, 13 e 31. O analista adota o critério do intervalo interquartil (IQR), com limites Q1 − 1,5 × IQR e Q3 + 1,5 × IQR, calculando Q1 e Q3 como as medianas, respectivamente, das metades inferior e superior dos dados, excluída a mediana geral. Assinale a afirmativa correta.
+>A
+Os valores 4 e 31 são outliers, pois o limite inferior é 5,5 e o limite superior é 19,5.
+>B
+Nenhum valor é outlier, pois o limite superior é 52,5 e o limite inferior é negativo.
+>C
+Apenas o valor 31 é outlier, pois o limite superior é 19,5 e o limite inferior é negativo.
+>D
+Apenas o valor 31 é outlier, pois o limite superior é 17 e o limite inferior é igual a 2.
+>E
+Os valores 4, 6, 13 e 31 são outliers, pois estão fora do intervalo entre Q1 = 7 e Q3 = 12.
+>comentario
+Correta (C): mediana = 9 (6º valor). Metade inferior: 4, 6, 7, 7, 8 → Q1 = 7. Metade superior: 10, 11, 12, 13, 31 → Q3 = 12. IQR = 5. Limites: 7 − 7,5 = −0,5 e 12 + 7,5 = 19,5. Só 31 excede o limite superior.
+A) Parece certa porque acerta o limite superior; erra no inferior, obtido subtraindo 1,5 de Q1 sem multiplicar pelo IQR (7 − 1,5 = 5,5); o 4 não é outlier.
+B) Parece certa porque o limite inferior é mesmo negativo; erra porque usa a amplitude total (31 − 4 = 27) no lugar do IQR (12 + 1,5 × 27 = 52,5).
+D) Parece certa porque identifica o outlier correto; erra porque usa 1 × IQR (12 + 5 e 7 − 5) em vez de 1,5 × IQR.
+E) Parece certa porque o 31 é outlier; erra porque confunde o intervalo interquartil [Q1; Q3] com a faixa de normalidade, sem as margens de 1,5 × IQR.
+@@fim

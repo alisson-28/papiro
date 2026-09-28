@@ -1,0 +1,659 @@
+@@texto T1
+titulo: Texto 1 — O rastro e a pressa
+Toda investigação começa com um rastro, mas nem todo rastro começa numa investigação. Um recibo esquecido no banco do carro, a fotografia publicada às pressas numa rede social, o registro de acesso que um servidor guardou por obrigação legal: nada disso nasceu para servir de prova, e, no entanto, é exatamente isso que pode vir a ser. O trabalho policial consiste, em boa medida, em reconhecer o valor de coisas que ninguém, nem mesmo quem as produziu, julgava importantes.
+
+Essa tarefa, porém, convive mal com a pressa. A sociedade quer respostas rápidas, e a velocidade das redes transformou a demora em suspeita: se o culpado ainda não foi apontado, dizem, é porque alguém está sendo protegido. Ocorre que a prova apressada costuma ser a primeira a ruir. Um vestígio recolhido sem registro, um arquivo copiado sem cautela ou uma testemunha ouvida sob pressão podem comprometer não apenas um processo, mas a própria confiança de que a verdade apurada é, de fato, verdade.
+
+Não se trata de defender a lentidão. Também das investigações que se arrastam por anos nasce a injustiça, porque o tempo apaga memórias, dispersa documentos e prolonga a angústia de vítimas e investigados. O que se defende é outra coisa: que a rapidez seja consequência do método, e não um substituto dele. Uma equipe que sabe o que procurar, onde procurar e como preservar o que encontra é, quase sempre, mais veloz do que outra que apenas corre.
+
+Talvez por isso os bons investigadores se pareçam menos com caçadores e mais com arquivistas. Enquanto o caçador persegue a presa, o arquivista pergunta de onde veio cada papel, quem o tocou e por que está ali. Não é uma imagem heroica — e justamente por não o ser, é mais honesta.
+
+(Texto elaborado exclusivamente para este simulado.)
+@@fim
+
+@@texto T2
+titulo: Texto 2 — Plantão
+Às três da manhã, a delegacia tem um silêncio próprio, feito de lâmpadas que zumbem e de café requentado. Foi nesse silêncio que dona Zulmira entrou, segurando a bolsa contra o peito como quem protege um filho.
+
+— Moço, me roubaram a aposentadoria.
+
+O escrivão Otávio ergueu os olhos do computador. Vinte e dois anos de plantão tinham-lhe ensinado que as frases mais curtas costumam trazer as histórias mais longas. Pediu que ela se sentasse, ofereceu água e esperou.
+
+A história veio aos pedaços. Um telefonema, uma voz educada, um suposto funcionário do banco que sabia o nome dela, o número da conta, até o bairro onde morava. Ela só precisava confirmar um código, coisa simples, questão de segurança. Confirmou. No dia seguinte, a conta amanhecera vazia.
+
+Otávio digitava devagar. Quantas Zulmiras teriam passado por aquela cadeira só naquele mês? Dez? Vinte? E quantas nem vieram, envergonhadas de ter acreditado numa voz gentil?
+
+— A senhora não tem culpa nenhuma, viu? — disse, afinal. — Esses caras são profissionais.
+
+Ela não pareceu convencida. Disse que se sentia uma boba, que o marido, se estivesse vivo, jamais teria caído numa conversa daquelas. Otávio não discutiu. Imprimiu o boletim, explicou os próximos passos, anotou o telefone da filha.
+
+Quando ela saiu, o dia começava a clarear lá fora. Otávio ficou olhando a cadeira vazia por um tempo que não soube medir. Depois voltou ao computador. Havia outro nome na fila.
+
+(Texto elaborado exclusivamente para este simulado.)
+@@fim
+
+@@q 1
+materia: Língua Portuguesa
+subtema: 1.1 Interpretação e compreensão de texto
+texto: T1
+correta: B
+>enunciado
+No Texto 1, o autor discute a relação entre a pressão por respostas rápidas e a qualidade da prova produzida na investigação policial. Assinale a opção que expressa corretamente o ponto de vista defendido pelo autor.
+>A
+A lentidão deve ser preferida à rapidez, já que investigações demoradas, por não sofrerem pressão social, tendem a produzir provas mais confiáveis.
+>B
+A rapidez é desejável quando resulta de um trabalho metódico, mas não pode ocupar o lugar dos cuidados que tornam a prova confiável.
+>C
+A demora na apuração é interpretada pelo autor como indício de que alguém está sendo protegido, o que justifica acelerar os procedimentos investigativos.
+>D
+Método e rapidez são incompatíveis, razão pela qual cada equipe precisa escolher, desde o início do caso, entre a confiabilidade da prova e a celeridade da investigação.
+>E
+A pressão social por respostas imediatas é legítima e, por refletir o interesse público, deve orientar prioritariamente a condução das investigações.
+>comentario
+Correta (B): o 3º parágrafo afirma que se defende "que a rapidez seja consequência do método, e não um substituto dele", e que a equipe metódica é "mais veloz do que outra que apenas corre". A rapidez, portanto, é aceita quando decorre do método.
+A) Parece certa porque o 2º parágrafo critica a pressa; erra porque o autor declara expressamente: "Não se trata de defender a lentidão", e aponta que a demora também gera injustiça.
+C) Parece certa porque a ideia aparece no texto; erra porque o autor a atribui a terceiros ("dizem"), sem endossá-la.
+D) Parece certa porque o texto opõe pressa a método; erra porque o autor afirma que o método costuma tornar a equipe mais veloz, isto é, não há incompatibilidade.
+E) Parece certa porque o texto reconhece que a sociedade quer respostas rápidas; erra porque o autor não legitima essa pressão como critério de condução da investigação — ao contrário, mostra seus riscos.
+@@fim
+
+@@q 2
+materia: Língua Portuguesa
+subtema: 1.2 Organização estrutural dos textos
+texto: T1
+correta: A
+>enunciado
+Quanto à organização estrutural do Texto 1 e à articulação entre seus parágrafos, assinale a afirmativa correta.
+>A
+O terceiro parágrafo antecipa uma possível leitura equivocada do anterior e a desfaz, esclarecendo que a crítica recai sobre a pressa, e não sobre a rapidez.
+>B
+O primeiro parágrafo apresenta a tese central, que é retomada com as mesmas palavras no último parágrafo, o que confere ao texto uma estrutura circular.
+>C
+O segundo parágrafo introduz uma narrativa exemplar, com personagens e tempo definidos, que passa a servir de base para toda a argumentação seguinte.
+>D
+O último parágrafo abandona a argumentação e passa a descrever, de modo objetivo e técnico, a rotina profissional dos arquivistas.
+>E
+Os parágrafos são autônomos entre si, de modo que a ordem entre eles poderia ser alterada livremente sem prejuízo para a progressão temática.
+>comentario
+Correta (A): depois de criticar a prova apressada (2º parágrafo), o autor previne a objeção de que estaria defendendo a demora ("Não se trata de defender a lentidão") e delimita sua tese: rapidez como consequência do método.
+B) Parece certa porque o início e o fim tratam do trabalho investigativo; erra porque não há retomada literal da tese — o fecho introduz uma analogia nova (caçador × arquivista).
+C) Parece certa porque o parágrafo cita situações concretas (vestígio, arquivo, testemunha); erra porque são exemplos genéricos, sem personagens nem enredo.
+D) Parece certa porque o parágrafo menciona o que o arquivista pergunta; erra porque a comparação é argumentativa e avaliativa ("é mais honesta"), não descrição técnica.
+E) Parece certa porque cada parágrafo tem um foco; erra porque há encadeamento coesivo explícito ("Essa tarefa, porém", "Talvez por isso"), que impede a reordenação.
+@@fim
+
+@@q 3
+materia: Língua Portuguesa
+subtema: 1.3 Marcas de textualidade: coesão, coerência e intertextualidade
+texto: T1
+correta: C
+>enunciado
+A coesão do Texto 1 depende, em grande parte, de termos que retomam ideias já expressas. Assinale a opção em que o termo indicado está corretamente associado ao seu referente.
+>A
+"Essa tarefa" (2º parágrafo) retoma "investigação", palavra usada na primeira frase do texto.
+>B
+"dele" (em "e não um substituto dele") retoma "rapidez", mencionada no mesmo período.
+>C
+"o" (em "justamente por não o ser") retoma a qualidade expressa pelo predicativo "heroica".
+>D
+"isso" (em "é exatamente isso que pode vir a ser") retoma "registro de acesso", último item da enumeração.
+>E
+"outra" (em "do que outra que apenas corre") retoma "investigação", termo que o autor evita repetir.
+>comentario
+Correta (C): em "Não é uma imagem heroica — e justamente por não o ser", o pronome demonstrativo "o" (= isso) retoma o predicativo "heroica": por não ser heroica, a imagem é mais honesta.
+A) Parece certa porque o texto começa falando de investigação; erra porque "Essa tarefa" retoma a atividade de "reconhecer o valor de coisas que ninguém [...] julgava importantes".
+B) Parece certa porque "rapidez" está próxima; erra porque a rapidez é que não pode ser substituto "do método": "dele" retoma "método".
+D) Parece certa porque o registro de acesso é o item imediatamente anterior; erra porque "isso" retoma "prova" (aquilo que os objetos "podem vir a ser").
+E) Parece certa porque "investigação" é tema do texto; erra porque o paralelismo da comparação ("Uma equipe [...] é mais veloz do que outra") mostra que "outra" retoma "equipe".
+@@fim
+
+@@q 4
+materia: Língua Portuguesa
+subtema: 1.4 Modos de organização discursiva
+texto: T1
+correta: C
+>enunciado
+Considerando os modos de organização discursiva (descrição, narração, exposição, argumentação e injunção), assinale a afirmativa correta sobre o Texto 1.
+>A
+Predomina a narração, pois o texto relata, em ordem cronológica, as etapas sucessivas de uma investigação específica conduzida pela polícia.
+>B
+Predomina a injunção, já que o texto se estrutura em ordens dirigidas aos investigadores, com verbos no imperativo e instruções de procedimento.
+>C
+Predomina a argumentação, e o último parágrafo recorre a uma comparação entre duas figuras para sustentar um ponto de vista, e não para narrar fatos.
+>D
+Predomina a descrição, porque o objetivo central do texto é caracterizar os objetos encontrados em locais de crime, como recibos e fotografias.
+>E
+Predomina a exposição neutra, uma vez que o autor apenas apresenta informações sobre investigações, sem tomar posição sobre os temas abordados.
+>comentario
+Correta (C): o texto defende uma tese (a rapidez deve decorrer do método) e, no fecho, usa a analogia caçador × arquivista como argumento, com juízo de valor ("é mais honesta").
+A) Parece certa porque há menção a vestígios e testemunhas; erra porque não há relato de um caso com sequência temporal de ações.
+B) Parece certa porque o texto trata de como investigar; erra porque não há verbos no imperativo nem instruções dirigidas ao leitor.
+D) Parece certa porque o 1º parágrafo enumera objetos; erra porque a enumeração serve à argumentação, não à caracterização desses objetos.
+E) Parece certa porque o texto traz informações sobre a atividade policial; erra porque o autor se posiciona abertamente ("O que se defende é outra coisa").
+@@fim
+
+@@q 5
+materia: Língua Portuguesa
+subtema: 1.21 Semântica: sentido próprio e figurado
+texto: T1
+correta: B
+>enunciado
+Assinale a opção em que a palavra do Texto 1 está adequadamente classificada quanto ao sentido (próprio ou figurado) e corretamente interpretada no contexto.
+>A
+"rastro" (1º parágrafo) está em sentido próprio e designa exclusivamente as marcas deixadas por pés ou rodas sobre o solo.
+>B
+"ruir" (2º parágrafo) está em sentido figurado e significa perder a sustentação, deixar de se manter como prova válida.
+>C
+"arrastam" (3º parágrafo) está em sentido próprio e indica o deslocamento físico, pelo chão, de documentos e objetos pesados.
+>D
+"apaga" (3º parágrafo) está em sentido próprio e se refere à eliminação física de registros escritos em papel.
+>E
+"corre" (3º parágrafo) está em sentido próprio e alude à velocidade com que os policiais se deslocam, a pé ou de viatura, nas diligências.
+>comentario
+Correta (B): "a prova apressada costuma ser a primeira a ruir" emprega "ruir" (desmoronar) em sentido figurado: a prova perde a sustentação e deixa de se manter.
+A) Parece certa porque "rastro" tem esse sentido literal; erra porque no texto a palavra designa, de modo ampliado, qualquer vestígio (recibo, fotografia, registro).
+C) Parece certa porque "arrastar" significa literalmente puxar algo pesado; erra porque "investigações que se arrastam" é figurado: que se prolongam.
+D) Parece certa porque o trecho cita documentos; erra porque "o tempo apaga memórias" é figurado (faz esquecer), e o sujeito é "o tempo".
+E) Parece certa porque o texto fala em velocidade; erra porque "outra que apenas corre" é figurado: a equipe que age com pressa, sem método.
+@@fim
+
+@@q 6
+materia: Língua Portuguesa
+subtema: 1.20 Classes de palavras; modalizadores
+texto: T1
+correta: B
+>enunciado
+Modalizadores são recursos pelos quais o enunciador revela seu grau de adesão ao que afirma. Assinale a opção em que o termo do Texto 1 tem seu valor modalizador corretamente descrito.
+>A
+"de fato" (2º parágrafo) atenua a afirmação, indicando que o autor duvida da verdade apurada nas investigações.
+>B
+"Talvez" (4º parágrafo) relativiza a conclusão apresentada, marcando-a como hipótese, e não como certeza.
+>C
+"exatamente" (1º parágrafo) indica aproximação e equivale, no contexto, a "mais ou menos" ou "aproximadamente".
+>D
+"quase sempre" (3º parágrafo) expressa certeza absoluta, sem admitir exceções ao que é afirmado sobre as equipes.
+>E
+"justamente" (4º parágrafo) introduz uma ressalva que enfraquece e contradiz a afirmação feita imediatamente antes.
+>comentario
+Correta (B): "Talvez por isso os bons investigadores se pareçam..." — o advérbio de dúvida, reforçado pelo subjuntivo "se pareçam", apresenta a conclusão como hipótese.
+A) Parece certa porque "de fato" é modalizador; erra porque tem valor asseverativo — reforça que a verdade apurada é verdadeira, não a põe em dúvida.
+C) Parece certa porque "exatamente" gradua a informação; erra porque tem valor de ênfase e precisão, o oposto de aproximação.
+D) Parece certa porque "sempre" indica totalidade; erra porque "quase" atenua a generalização, admitindo exceções.
+E) Parece certa porque segue um travessão; erra porque "justamente" reforça a relação causal ("por não ser heroica, é mais honesta"), sem contradizê-la.
+@@fim
+
+@@q 7
+materia: Língua Portuguesa
+subtema: 1.12 Organização sintática das frases: termos e orações
+texto: T1
+correta: B
+>enunciado
+O vocábulo "que" aparece diversas vezes no Texto 1, com classificações e funções diferentes. Assinale a opção em que a análise do "que" destacado em itálico está correta.
+>A
+Em "Ocorre *que* a prova apressada costuma ser a primeira a ruir", é pronome relativo e retoma a forma verbal "Ocorre".
+>B
+Em "coisas *que* ninguém [...] julgava importantes", é pronome relativo e exerce a função de objeto direto na oração que introduz.
+>C
+Em "*que* a rapidez seja consequência do método", é conjunção causal, equivalendo a "porque a rapidez seja consequência".
+>D
+Em "Uma equipe *que* sabe o que procurar", é conjunção integrante e introduz oração subordinada substantiva objetiva direta.
+>E
+Em "do que outra *que* apenas corre", é pronome relativo e exerce a função de objeto direto da forma verbal "corre".
+>comentario
+Correta (B): "ninguém julgava [coisas] importantes" — o relativo "que" substitui "coisas" e funciona como objeto direto de "julgava" ("importantes" é predicativo do objeto).
+A) Parece certa porque "que" segue imediatamente o verbo; erra porque é conjunção integrante, introduzindo oração substantiva subjetiva (sujeito de "Ocorre").
+C) Parece certa porque a oração explica o que se defende; erra porque é conjunção integrante de oração substantiva apositiva (desenvolve "outra coisa"), sem valor causal.
+D) Parece certa porque há uma oração subordinada; erra porque o "que" retoma "equipe" (pronome relativo) e é sujeito de "sabe", iniciando oração adjetiva.
+E) Parece certa porque é de fato pronome relativo; erra na função: "que" (= outra equipe) é sujeito de "corre", verbo intransitivo.
+@@fim
+
+@@q 8
+materia: Língua Portuguesa
+subtema: 1.11 Pontuação e sinais gráficos
+texto: T1
+correta: D
+>enunciado
+Assinale a afirmativa correta a respeito do emprego dos sinais de pontuação no Texto 1.
+>A
+As vírgulas que isolam "dizem", no 2º parágrafo, indicam que essa forma verbal funciona como vocativo dirigido ao leitor.
+>B
+A vírgula depois de "Enquanto o caçador persegue a presa" (4º parágrafo) separa o sujeito de seu predicado, o que a norma admite por ênfase.
+>C
+As vírgulas em "Um vestígio recolhido sem registro, um arquivo copiado sem cautela ou uma testemunha ouvida sob pressão" isolam apostos de "processo".
+>D
+Os dois-pontos, no 1º parágrafo, introduzem um comentário que sintetiza os elementos enumerados antes deles, retomados por "nada disso".
+>E
+O travessão do último parágrafo marca a introdução da fala de uma personagem, recurso típico do discurso direto nos textos narrativos.
+>comentario
+Correta (D): após a enumeração (recibo, fotografia, registro de acesso), os dois-pontos introduzem uma síntese conclusiva, e "nada disso" recapitula os itens.
+A) Parece certa porque a forma verbal aparece isolada; erra porque "dizem" é oração intercalada (interferente), que atribui a fala a terceiros — não é vocativo.
+B) Parece certa porque a vírgula após oração anteposta é comum; erra porque ela separa uma oração adverbial anteposta, e não o sujeito do predicado (o que a norma veda).
+C) Parece certa porque são expressões nominais em sequência; erra porque formam o sujeito composto de "podem comprometer", e as vírgulas separam termos coordenados.
+E) Parece certa porque o travessão é usado em diálogos; erra porque aqui ele destaca um comentário do próprio autor, sem fala de personagem.
+@@fim
+
+@@q 9
+materia: Língua Portuguesa
+subtema: 1.8 Estrutura da frase: deslocamento, substituição, modificação e correção
+texto: T1
+correta: A
+>enunciado
+Considere o trecho do Texto 1: "O que se defende é outra coisa: que a rapidez seja consequência do método, e não um substituto dele." Assinale a reescritura que preserva o sentido original e a correção gramatical.
+>A
+Defende-se outra coisa: que a rapidez decorra do método, em vez de o substituir.
+>B
+O que se defendem são outras coisas: que a rapidez seja consequência do método, e não um substituto dele.
+>C
+O que se defende é outra coisa: que o método seja consequência da rapidez, e não um substituto dela.
+>D
+O que se defende é outra coisa: que a rapidez seja consequência do método, porquanto não um substituto dele.
+>E
+O que se defende, é outra coisa: que a rapidez seja consequência do método, e não um substituto dele.
+>comentario
+Correta (A): "decorra do método" equivale a "seja consequência do método", e "em vez de o substituir" (o = método) mantém a oposição original; a próclise ao infinitivo precedido de preposição é correta.
+B) Parece certa porque mantém a estrutura; erra porque altera o sentido (passa a haver várias coisas defendidas) e cria concordância sem apoio no original.
+C) Parece certa porque usa as mesmas palavras; erra porque inverte a relação: o método passa a ser consequência da rapidez.
+D) Parece certa porque troca apenas o conector; erra porque "porquanto" (causal) não expressa a oposição de "e não" e torna a frase agramatical.
+E) Parece certa porque só acrescenta uma vírgula; erra porque a vírgula separa o sujeito oracional ("O que se defende") do verbo "é", o que a norma não admite.
+@@fim
+
+@@q 10
+materia: Língua Portuguesa
+subtema: 1.13 Ordem direta e inversa
+texto: T1
+correta: D
+>enunciado
+Considere o período do Texto 1: "Também das investigações que se arrastam por anos nasce a injustiça [...]." Sobre a ordem dos termos nesse trecho, assinale a afirmativa correta.
+>A
+O sujeito da forma verbal "nasce" é o termo "investigações", com o qual o verbo deveria concordar, passando obrigatoriamente para o plural "nascem".
+>B
+A oração está na ordem direta, pois o adjunto adverbial inicia o período e o verbo vem imediatamente depois dele.
+>C
+A forma verbal "nasce" está no singular porque concorda, por atração, com "anos", núcleo do termo mais próximo que a antecede na oração principal.
+>D
+O sujeito "a injustiça" está posposto; em ordem direta, ter-se-ia: "A injustiça também nasce das investigações que se arrastam por anos".
+>E
+Trata-se de oração sem sujeito, uma vez que o verbo "nascer", nesse contexto, é empregado de forma impessoal.
+>comentario
+Correta (D): o adjunto adverbial "das investigações que se arrastam por anos" foi anteposto e o sujeito "a injustiça", posposto; a ordem direta é sujeito + verbo + complemento/adjunto.
+A) Parece certa porque "investigações" antecede o verbo; erra porque o termo está regido de preposição ("das"), e termo preposicionado não é sujeito.
+B) Parece certa porque o verbo segue o adjunto; erra porque a ordem direta começa pelo sujeito, e aqui o sujeito vem depois do verbo.
+C) Parece certa porque o verbo está no singular; erra porque a concordância se dá com o sujeito "a injustiça", e não com "anos" (que, aliás, é plural).
+E) Parece certa porque o sujeito não está antes do verbo; erra porque há sujeito expresso ("a injustiça"), apenas posposto.
+@@fim
+
+@@q 11
+materia: Língua Portuguesa
+subtema: 1.14 Tipos de discurso
+texto: T2
+correta: B
+>enunciado
+O Texto 2 alterna diferentes formas de introduzir as falas e os pensamentos das personagens. Assinale a opção que identifica corretamente o tipo de discurso empregado no trecho indicado.
+>A
+Em "Disse que se sentia uma boba, que o marido [...] jamais teria caído", o narrador reproduz literalmente as palavras de Zulmira, o que caracteriza o discurso direto.
+>B
+Em "Quantas Zulmiras teriam passado por aquela cadeira [...]? Dez? Vinte?", o pensamento de Otávio se funde à voz do narrador: discurso indireto livre.
+>C
+Em "— Moço, me roubaram a aposentadoria.", o travessão indica discurso indireto, pois a fala da vítima é mediada pelo narrador, que a resume com suas próprias palavras.
+>D
+Em "Pediu que ela se sentasse", há discurso indireto livre, porque o verbo "pedir" dispensa a presença de oração subordinada.
+>E
+Em "— A senhora não tem culpa nenhuma, viu? — disse, afinal.", o segundo travessão marca a passagem do discurso direto para o indireto.
+>comentario
+Correta (B): as perguntas reproduzem a reflexão de Otávio sem verbo de elocução nem conectivo, misturadas à narração em 3ª pessoa — marca do discurso indireto livre.
+A) Parece certa porque há verbo dicendi ("Disse"); erra porque a fala é reportada em oração subordinada ("que se sentia..."), com adaptação de pessoa e tempo: discurso indireto.
+C) Parece certa porque o narrador apresenta a fala; erra porque o travessão introduz a fala literal da personagem: discurso direto.
+D) Parece certa porque o trecho não traz a fala original; erra porque há verbo introdutor e oração subordinada ("que ela se sentasse"): discurso indireto.
+E) Parece certa porque o travessão separa segmentos; erra porque o segundo travessão apenas insere a intervenção do narrador ("disse, afinal"), e a fala continua em discurso direto.
+@@fim
+
+@@q 12
+materia: Língua Portuguesa
+subtema: 1.15 Registros de linguagem
+texto: T2
+correta: D
+>enunciado
+No Texto 2, convivem o registro do narrador e o das falas das personagens. Sobre os registros de linguagem presentes no texto, assinale a afirmativa correta.
+>A
+O narrador adota registro coloquial em todo o texto, como demonstra a construção "tinham-lhe ensinado", típica da fala espontânea.
+>B
+A palavra "caras", na fala de Otávio, pertence ao registro formal e revela o distanciamento técnico do escrivão em relação à vítima.
+>C
+A expressão "viu?", na fala de Otávio, é marca de registro técnico-jurídico, empregada para conferir precisão ao atendimento prestado.
+>D
+A próclise em "me roubaram a aposentadoria", no início da frase, é marca coloquial própria da fala espontânea de Zulmira.
+>E
+A variedade usada nos diálogos é inadequada à situação comunicativa, pois, numa delegacia, somente se admite o emprego do registro formal.
+>comentario
+Correta (D): iniciar frase com pronome oblíquo átono contraria a norma-padrão, mas é comum na fala brasileira; o narrador, por sua vez, usa a ênclise ("tinham-lhe ensinado"), própria de registro mais formal.
+A) Parece certa porque o texto tem trechos informais; erra porque a ênclise ao auxiliar ("tinham-lhe ensinado") é marca de registro formal, não coloquial.
+B) Parece certa porque Otávio é servidor público; erra porque "caras" é gíria, própria do registro informal, usado para aproximar-se da vítima.
+C) Parece certa porque a fala ocorre num atendimento oficial; erra porque "viu?" é marcador conversacional informal.
+E) Parece certa porque a delegacia é ambiente institucional; erra porque a adequação depende da interação: a fala acolhedora e informal é adequada ao objetivo de tranquilizar a vítima.
+@@fim
+
+@@q 13
+materia: Língua Portuguesa
+subtema: 1.16 Funções da linguagem
+texto: T2
+correta: D
+>enunciado
+Assinale a opção que identifica corretamente a função da linguagem presente no trecho do Texto 2 indicado.
+>A
+Em "Dez? Vinte?", predomina a função metalinguística, pois o narrador reflete sobre o significado dos números que emprega.
+>B
+O texto é predominantemente conativo, uma vez que se estrutura em ordens e apelos dirigidos diretamente ao leitor.
+>C
+Em "Havia outro nome na fila", predomina a função emotiva, pois o trecho expõe os sentimentos de um narrador em primeira pessoa.
+>D
+Em "A senhora não tem culpa nenhuma, viu?", o termo "viu?" serve para manter o contato com a interlocutora: função fática.
+>E
+A função poética está ausente, já que o texto narra um fato do cotidiano policial em linguagem simples e direta.
+>comentario
+Correta (D): marcadores como "viu?", "né?", "entende?" verificam o funcionamento do canal e mantêm a interação — função fática.
+A) Parece certa porque são perguntas isoladas; erra porque não há reflexão sobre o código: as perguntas estimam quantas vítimas passaram pela delegacia.
+B) Parece certa porque há falas dirigidas a alguém; erra porque o texto é narrativo e não se organiza em apelos ao leitor.
+C) Parece certa porque o trecho encerra o texto com tom melancólico; erra porque o narrador é de 3ª pessoa e a frase é, antes de tudo, informativa.
+E) Parece certa porque o tema é cotidiano; erra porque há trabalho estético com a linguagem ("um silêncio próprio, feito de lâmpadas que zumbem"), típico da função poética.
+@@fim
+
+@@q 14
+materia: Língua Portuguesa
+subtema: 1.17 Elementos dos atos de comunicação
+texto: T2
+correta: A
+>enunciado
+Considere o golpe relatado no parágrafo do Texto 2 que começa com "A história veio aos pedaços" como um ato de comunicação entre o suposto funcionário do banco e dona Zulmira. Assinale a afirmativa correta.
+>A
+O telefone corresponde ao canal, e a voz educada do suposto funcionário integra a estratégia do emissor para obter a adesão da receptora.
+>B
+O código corresponde ao número da conta bancária, pois é a informação que circula entre os interlocutores durante a ligação.
+>C
+Dona Zulmira ocupa exclusivamente a posição de referente, pois a mensagem transmitida pelo golpista trata apenas da vida dela.
+>D
+O canal corresponde à língua portuguesa, que é o meio físico pelo qual a mensagem se desloca do emissor ao receptor.
+>E
+O referente é o próprio aparelho telefônico, por ser o objeto concreto presente na situação em que ocorre a comunicação.
+>comentario
+Correta (A): na ligação, o golpista é o emissor, Zulmira a receptora, o telefone o canal; a cortesia ("voz educada") é recurso para persuadir a receptora.
+B) Parece certa porque o número da conta é mencionado; erra porque ele integra a mensagem/referente; o código é a língua portuguesa.
+C) Parece certa porque o golpista fala de dados de Zulmira; erra porque ela é, antes de tudo, a receptora (e "exclusivamente referente" não descreve seu papel).
+D) Parece certa porque a língua possibilita a comunicação; erra porque a língua é o código; o canal é o meio físico (a linha telefônica).
+E) Parece certa porque o telefone está presente na cena; erra porque o referente é o assunto da mensagem (a suposta questão de segurança bancária).
+@@fim
+
+@@q 15
+materia: Língua Portuguesa
+subtema: 1.6 Textos literários e não literários
+texto: T2
+correta: A
+>enunciado
+Suponha que o mesmo fato narrado no Texto 2 fosse registrado em um boletim de ocorrência. Assinale a opção que aponta corretamente uma diferença entre o Texto 2 e esse boletim.
+>A
+O Texto 2 seleciona e organiza os fatos com intenção estética e explora a subjetividade das personagens, ao passo que o boletim prioriza o registro objetivo.
+>B
+O Texto 2 é escrito em terceira pessoa, característica exclusiva dos textos literários, enquanto o boletim é sempre redigido em primeira pessoa pela vítima.
+>C
+O Texto 2 apresenta fatos inventados, ao passo que os textos não literários jamais empregam recursos narrativos, como sequência de ações e personagens.
+>D
+O Texto 2 utiliza exclusivamente linguagem denotativa, sem sentido figurado, o que o aproxima dos textos técnicos, como o boletim de ocorrência.
+>E
+O Texto 2 tem como finalidade principal informar o leitor sobre os procedimentos legais para o registro de ocorrências de estelionato.
+>comentario
+Correta (A): a crônica elabora a linguagem e explora a interioridade (o silêncio da madrugada, a reflexão de Otávio diante da cadeira vazia); o boletim busca objetividade e dados verificáveis.
+B) Parece certa porque o Texto 2 está em 3ª pessoa; erra porque a 3ª pessoa não é exclusiva da literatura (boletins, aliás, costumam usar a 3ª pessoa).
+C) Parece certa porque a literatura admite ficção; erra porque textos não literários (notícias, relatórios, boletins) também narram ações e envolvem pessoas.
+D) Parece certa porque a linguagem do texto é simples; erra porque há linguagem figurada ("como quem protege um filho", "lâmpadas que zumbem").
+E) Parece certa porque o texto se passa numa delegacia; erra porque não há intenção didática ou informativa sobre procedimentos.
+@@fim
+
+@@q 16
+materia: Língua Portuguesa
+subtema: 1.7 Tipologia da frase portuguesa
+texto: T2
+correta: D
+>enunciado
+Assinale a opção que classifica corretamente a frase do Texto 2 quanto à sua tipologia.
+>A
+"Confirmou." é frase nominal, por ser formada por uma única palavra e dispensar a presença de sujeito expresso.
+>B
+"Pediu que ela se sentasse" é frase imperativa, por expressar uma ordem dirigida pelo escrivão à vítima.
+>C
+"Ela não pareceu convencida." é frase exclamativa negativa, pois exprime a emoção intensa da personagem.
+>D
+"Dez? Vinte?" são frases nominais interrogativas, pois se organizam sem verbo e expressam indagação.
+>E
+"A senhora não tem culpa nenhuma, viu?" é frase optativa, pois expressa um desejo do falante em relação à vítima.
+>comentario
+Correta (D): frases nominais são as que não têm verbo; "Dez? Vinte?" são nominais e interrogativas diretas (elípticas de "teriam passado").
+A) Parece certa porque a frase tem uma só palavra; erra porque essa palavra é verbo — trata-se de frase verbal (oração absoluta de sujeito oculto).
+B) Parece certa porque "pedir" pode indicar ordem; erra porque a frase relata, em modo declarativo, o pedido feito; não há imperativo.
+C) Parece certa porque alude ao estado da personagem; erra porque é frase declarativa negativa, sem marca exclamativa.
+E) Parece certa porque a fala é acolhedora; erra porque é declarativa negativa seguida de marcador interrogativo; frase optativa exprime desejo ("Que...!", "Oxalá...").
+@@fim
+
+@@q 17
+materia: Língua Portuguesa
+subtema: 1.5 Tipos textuais: informativo, publicitário, propagandístico, normativo, didático e divinatório
+correta: A
+>enunciado
+Leia os fragmentos a seguir, elaborados para esta questão.
+
+I. "Novo SeguroPix Total: suas transferências protegidas por apenas R$ 9,90 ao mês. Contrate agora pelo aplicativo e ganhe o primeiro mês grátis."
+
+II. "Movimento Cidade Viva: acreditamos que segurança se constrói com participação. Filie-se e ajude a eleger quem defende essa causa."
+
+III. "Art. 3º É vedado ao atendente solicitar ao cliente, por telefone ou mensagem, senhas ou códigos de verificação." (regulamento fictício)
+
+IV. "Nesta semana, os astros favorecem decisões financeiras: aproveite a boa fase para rever contratos, mas evite empréstimos até sexta-feira."
+
+Assinale a opção que classifica corretamente os fragmentos quanto ao tipo textual.
+>A
+I – publicitário; II – propagandístico; III – normativo; IV – divinatório.
+>B
+I – propagandístico; II – publicitário; III – normativo; IV – divinatório.
+>C
+I – publicitário; II – propagandístico; III – didático; IV – divinatório.
+>D
+I – informativo; II – propagandístico; III – normativo; IV – didático.
+>E
+I – publicitário; II – informativo; III – normativo; IV – divinatório.
+>comentario
+Correta (A): I busca vender um serviço (publicitário, finalidade comercial); II difunde uma causa e pede adesão política (propagandístico, finalidade ideológica); III prescreve conduta em artigo de regulamento (normativo); IV faz previsão com base nos astros (divinatório).
+B) Parece certa porque "propaganda" e "publicidade" se confundem no uso comum; erra porque inverte a distinção: o texto comercial é o publicitário, e o de difusão de ideias, o propagandístico.
+C) Parece certa porque III orienta comportamentos; erra porque o fragmento impõe vedação em forma de artigo — é normativo, não didático (que explica/ensina).
+D) Parece certa porque I traz informações sobre preço; erra porque o objetivo de I é vender, e IV é previsão, não ensino.
+E) Parece certa porque II informa a posição do movimento; erra porque o fragmento pede filiação e voto: busca adesão a uma ideia, e não apenas informar.
+@@fim
+
+@@q 18
+materia: Língua Portuguesa
+subtema: 1.9 Problemas estruturais das frases
+correta: B
+>enunciado
+Relatórios policiais exigem frases bem estruturadas, sem quebras de paralelismo, frases fragmentadas, anacolutos ou redundâncias viciosas. Assinale a opção em que a frase está estruturalmente adequada.
+>A
+O relatório aponta a falta de viaturas nas delegacias do interior e que os servidores estão sobrecarregados com os plantões.
+>B
+O delegado determinou a apreensão dos documentos encontrados no escritório e a oitiva das testemunhas indicadas pela vítima.
+>C
+Os investigadores que chegaram ao local após o acionamento, depois de uma análise minuciosa dos vestígios encontrados na sala.
+>D
+A testemunha, quando o escrivão pediu que descrevesse o suspeito, o nervosismo impediu qualquer resposta coerente e útil à investigação.
+>E
+Ao final do plantão, o escrivão elaborou um breve resumo sucinto das ocorrências registradas durante a madrugada.
+>comentario
+Correta (B): os dois complementos de "determinou" são paralelos (substantivo + adjunto: "a apreensão dos documentos" e "a oitiva das testemunhas").
+A) Parece certa porque as ideias são claras; erra por quebra de paralelismo: coordena um substantivo ("a falta de viaturas") com uma oração ("que os servidores estão...").
+C) Parece certa porque é longa e detalhada; erra porque é frase fragmentada: o sujeito ("Os investigadores que chegaram...") fica sem predicado.
+D) Parece certa porque a sequência de fatos é compreensível; erra por anacoluto: "A testemunha" inicia a frase e fica sem função sintática.
+E) Parece certa porque a frase é gramatical; erra por redundância viciosa ("breve resumo sucinto").
+@@fim
+
+@@q 19
+materia: Língua Portuguesa
+subtema: 1.10 Norma culta
+correta: B
+>enunciado
+Assinale a opção em que a frase respeita integralmente a norma-padrão quanto à concordância e à regência.
+>A
+Fazem dois anos que o inquérito aguarda a realização das diligências a que o promotor se referiu na audiência.
+>B
+Haviam de chegar, até o fim do dia, os laudos periciais de que o delegado precisava para concluir o relatório.
+>C
+Os investigadores assistiram o depoimento da vítima e, em seguida, informaram-lhe de que o suspeito fora preso.
+>D
+Aluga-se salas para depoimentos na sede regional, e fazem-se reparos nas viaturas às segundas-feiras.
+>E
+A maioria dos servidores da delegacia preferia mais o regime presencial do que o regime de trabalho remoto.
+>comentario
+Correta (B): em "haver de + infinitivo", "haver" é auxiliar e concorda com o sujeito ("os laudos [...] haviam de chegar"); "precisar" rege "de" ("de que o delegado precisava").
+A) Parece certa porque a regência "a que [...] se referiu" está correta; erra porque "fazer" indicando tempo decorrido é impessoal: "Faz dois anos".
+C) Parece certa porque "informar" admite dois complementos; erra duas vezes: "assistir" (presenciar) exige "a" ("assistiram ao depoimento") e "informaram-lhe de que" traz dois objetos indiretos.
+D) Parece certa porque "fazem-se reparos" está correto; erra porque, na voz passiva sintética, o verbo concorda com o sujeito: "Alugam-se salas".
+E) Parece certa porque "A maioria [...] preferia" admite o singular; erra porque "preferir" rege "a" e rejeita "mais [...] do que": "preferia o regime presencial ao remoto".
+@@fim
+
+@@q 20
+materia: Língua Portuguesa
+subtema: 1.18 Estrutura e formação de palavras
+correta: C
+>enunciado
+Assinale a opção em que o processo de formação da palavra está corretamente identificado e justificado.
+>A
+"Infelizmente" é formada por parassíntese, pois recebeu ao mesmo tempo um prefixo e um sufixo ligados ao radical.
+>B
+"Pontapé" é formada por composição por aglutinação, com perda de elementos fonéticos de um dos radicais.
+>C
+"Engavetar" é formada por parassíntese, pois o prefixo e o sufixo foram acrescentados simultaneamente ao radical.
+>D
+"Planalto" é formada por composição por justaposição, pois os radicais que a formam mantêm-se íntegros.
+>E
+"Delegacia" é formada por derivação regressiva, a partir da redução da forma verbal "delegar".
+>comentario
+Correta (C): não existem as formas intermediárias "engaveta" (só com prefixo) nem "gavetar" (só com sufixo); o prefixo "en-" e o sufixo "-ar" entram juntos no radical de "gaveta": parassíntese.
+A) Parece certa porque há prefixo e sufixo; erra porque existem "infeliz" e "felizmente": é derivação prefixal e sufixal, não parassíntese.
+B) Parece certa porque é palavra composta; erra porque "ponta" e "pé" mantêm seus elementos: justaposição.
+D) Parece certa porque é palavra composta; erra porque houve perda do "o" de "plano" (plano + alto): aglutinação.
+E) Parece certa porque "delegacia" se relaciona com "delegar"; erra porque se forma por sufixação ("-ia"), a partir de "delegado"; a derivação regressiva reduz a palavra primitiva.
+@@fim
+
+@@q 21
+materia: Língua Portuguesa
+subtema: 1.22 Polissemia e ambiguidade
+correta: E
+>enunciado
+Assinale a opção em que a análise da ambiguidade e da reescritura proposta está correta.
+>A
+"O delegado conversou com o escrivão sobre o seu afastamento." A reescritura "sobre o afastamento dele" elimina a ambiguidade quanto a quem será afastado.
+>B
+"Vi a vítima saindo da delegacia." A reescritura "Vi a vítima, saindo da delegacia" desfaz a dúvida e indica que era a vítima quem saía.
+>C
+"A perita examinou a arma do crime." A frase é ambígua quanto ao agente, e a voz passiva "A arma do crime foi examinada pela perita" desfaz a dúvida.
+>D
+"O investigador pediu ao colega para sair." A reescritura "pediu ao colega que saísse" mantém a ambiguidade, pois ainda não se sabe quem sairia.
+>E
+"O policial abordou o suspeito em sua casa." A reescritura "abordou o suspeito na casa deste" desfaz a dúvida sobre a quem pertence a casa.
+>comentario
+Correta (E): "sua" pode referir-se ao policial ou ao suspeito; o demonstrativo "deste" retoma o termo mais próximo ("o suspeito"), eliminando a dúvida.
+A) Parece certa porque troca o possessivo; erra porque "dele" continua podendo referir-se ao delegado ou ao escrivão.
+B) Parece certa porque a vírgula altera a leitura; erra porque, com a vírgula, a oração "saindo da delegacia" passa a referir-se ao sujeito ("eu"), e não à vítima.
+C) Parece certa porque a passiva reorganiza os termos; erra porque a frase original não tem ambiguidade quanto ao agente.
+D) Parece certa porque a frase original é ambígua; erra porque "que saísse" (no subjuntivo, referido a "colega") desfaz a ambiguidade: quem sai é o colega.
+@@fim
+
+@@q 22
+materia: Língua Portuguesa
+subtema: 1.24 Vocabulário: neologismos, arcaísmos, estrangeirismos e latinismos
+correta: A
+>enunciado
+Assinale a opção em que o termo destacado em itálico está corretamente classificado.
+>A
+"O perito esteve *in loco* para examinar o imóvel" — latinismo, expressão latina empregada com o sentido de "no próprio lugar".
+>B
+"A vítima enviou à polícia o *print* da conversa" — neologismo formado por derivação sufixal a partir de palavra portuguesa.
+>C
+"*Vossa mercê* há de aguardar o escrivão" — estrangeirismo de origem espanhola, incorporado recentemente à linguagem forense.
+>D
+"Os golpistas usaram *contas-laranja* para movimentar o dinheiro" — arcaísmo, termo que caiu em desuso no português atual.
+>E
+"O *habeas corpus* foi impetrado ontem pela defesa" — estrangeirismo de origem inglesa, já adaptado à grafia e à pronúncia portuguesas.
+>comentario
+Correta (A): "in loco" é expressão latina (latinismo) que significa "no local".
+B) Parece certa porque "print" é palavra nova no uso brasileiro; erra porque é estrangeirismo (do inglês), não derivação de palavra portuguesa.
+C) Parece certa porque a forma soa estranha ao falante atual; erra porque "vossa mercê" é arcaísmo do próprio português (origem de "você").
+D) Parece certa porque "laranja" tem outro sentido original; erra porque o emprego de "conta-laranja" é neologismo semântico, de uso corrente, e não arcaísmo.
+E) Parece certa porque a expressão é estrangeira; erra porque é latinismo, não empréstimo do inglês.
+@@fim
+
+@@q 23
+materia: Língua Portuguesa
+subtema: 1.25 Ortografia e acentuação gráfica
+correta: C
+>enunciado
+Assinale a opção em que todas as palavras estão grafadas corretamente quanto à acentuação gráfica, segundo o Acordo Ortográfico da Língua Portuguesa em vigor.
+>A
+idéia, herói, pôr (verbo), feiúra.
+>B
+assembléia, juíza, têm (plural), vôo.
+>C
+juízes, heroico, veem, pôde (pretérito).
+>D
+heróico, saída, para (verbo), Piauí.
+>E
+baiúca, pôde (pretérito), creem, europeia.
+>comentario
+Correta (C): "juízes" mantém o acento (i tônico sozinho na sílaba, em hiato); "heroico" perdeu o acento (ditongo aberto "oi" em paroxítona); "veem" perdeu o circunflexo; "pôde" conserva o acento diferencial.
+A) Parece certa porque "herói" e "pôr" estão corretos; erra em "idéia" (hoje "ideia") e "feiúra" (hoje "feiura").
+B) Parece certa porque "juíza" e "têm" estão corretos; erra em "assembléia" ("assembleia") e "vôo" ("voo").
+D) Parece certa porque "saída", "para" e "Piauí" estão corretos; erra em "heróico" (hoje "heroico").
+E) Parece certa porque "pôde", "creem" e "europeia" estão corretos; erra em "baiúca" (hoje "baiuca": i/u tônicos após ditongo em paroxítona não se acentuam).
+@@fim
+
+@@q 24
+materia: Língua Portuguesa
+subtema: 1.26 A crase
+correta: C
+>enunciado
+Assinale a opção em que o sinal indicativo de crase foi empregado corretamente em todas as ocorrências.
+>A
+Após o plantão, o agente voltou à casa para descansar, como sempre fazia à noite.
+>B
+O relatório foi entregue à Sua Excelência, o secretário, às dez horas da manhã.
+>C
+O perito retornou à Curitiba de sua juventude e, dias depois, dirigiu-se àquela delegacia.
+>D
+A vítima foi submetida a exame e, a partir daí, passou à colaborar com a investigação.
+>E
+Os agentes chegaram à uma conclusão semelhante à que o perito havia apresentado.
+>comentario
+Correta (C): nomes de cidade não admitem artigo, salvo quando especificados ("a Curitiba de sua juventude" → "à Curitiba de sua juventude"); "a + aquela" → "àquela".
+A) Parece certa porque "à noite" está correto; erra em "voltou à casa": "casa", no sentido de lar e sem especificação, não recebe artigo ("voltou a casa").
+B) Parece certa porque "às dez horas" está correto; erra em "à Sua Excelência": pronomes de tratamento (exceto senhora, senhorita e dona) não admitem crase.
+D) Parece certa porque "a exame" e "a partir" estão sem acento; erra em "à colaborar": não há crase antes de verbo.
+E) Parece certa porque "semelhante à que" está correto (a + a [conclusão] que); erra em "à uma": não há crase antes do artigo indefinido "uma".
+@@fim
+
+@@q 25
+materia: Língua Portuguesa
+subtema: 1.19 Formas de abreviação
+correta: B
+>enunciado
+Siglas, acrônimos, abreviaturas, símbolos e reduções vocabulares são formas distintas de abreviação. Assinale a opção que classifica corretamente a forma destacada em itálico.
+>A
+"A perícia analisou a *foto* do veículo" — sigla, por ser formada pelas letras iniciais da palavra "fotografia".
+>B
+"Os agentes do *Denarc* cumpriram o mandado" — acrônimo, pois essa sigla se pronuncia como uma palavra.
+>C
+"O suspeito percorreu 15 *km* a pé" — abreviatura, razão pela qual deveria receber ponto e marca de plural (15 kms.).
+>D
+"Conforme o *art.* 5º da Constituição" — símbolo, e por isso não admite ponto abreviativo nem flexão de número.
+>E
+"O *CPF* da vítima foi consultado" — acrônimo, porque é lido como uma única palavra de três sílabas.
+>comentario
+Correta (B): acrônimo é a sigla pronunciada como palavra ("Denarc", como "Detran").
+A) Parece certa porque "foto" é forma reduzida; erra porque se trata de redução (truncamento) vocabular, não de sigla.
+C) Parece certa porque "km" abrevia "quilômetro"; erra porque é símbolo de unidade de medida: não leva ponto nem "s" de plural.
+D) Parece certa porque "art." é forma abreviada; erra porque é abreviatura, que leva ponto ("art.") e admite plural ("arts.").
+E) Parece certa porque CPF é abreviação; erra porque é sigla lida letra a letra ("cê-pê-efe"), não acrônimo.
+@@fim
